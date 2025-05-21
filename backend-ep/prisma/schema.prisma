@@ -13,3 +13,93 @@ datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
+
+model User {
+  uid             Int              @id @default(autoincrement())
+  username        String
+  email           String           @unique
+  profile_pic_url String?
+
+  favoriteRecipes FavoriteRecipe[]
+}
+
+model Recipe {
+  rid              Int         @id @default(autoincrement())
+  title            String
+  source_url       String
+  time_taken_total Int
+  rating           Float?
+  serving_count    Int
+  cost_per_serving Float?
+  cid              Int
+  time_of_day      TimeOfDay
+  rsid             Int
+
+  cuisine          Cuisine      @relation(fields: [cid], references: [cid])
+  source           RecipeSource @relation(fields: [rsid], references: [rsid])
+  ingredients      Include[]
+  steps            Step[]
+  favoritedBy      FavoriteRecipe[]
+}
+
+model Ingredient {
+  iid         Int       @id @default(autoincrement())
+  name        String
+  includes    Include[]
+}
+
+model Include {
+  rid        Int
+  iid        Int
+  amount     Float      // stored in grams or mL
+  unit_type  UnitType   // 'WEIGHT' or 'VOLUME'
+
+  recipe     Recipe     @relation(fields: [rid], references: [rid])
+  ingredient Ingredient @relation(fields: [iid], references: [iid])
+
+  @@id([rid, iid])
+}
+
+model RecipeSource {
+  rsid        Int      @id @default(autoincrement())
+  source_name String
+  recipes     Recipe[]
+}
+
+model Cuisine {
+  cid     Int      @id @default(autoincrement())
+  name    String
+  recipes Recipe[]
+}
+
+model Step {
+  sid      Int     @id @default(autoincrement())
+  desc     String
+  step_num Int
+  rid      Int
+
+  recipe   Recipe  @relation(fields: [rid], references: [rid])
+}
+
+model FavoriteRecipe {
+  userId   Int
+  recipeId Int
+
+  user     User   @relation(fields: [userId], references: [uid])
+  recipe   Recipe @relation(fields: [recipeId], references: [rid])
+
+  @@id([userId, recipeId])
+}
+
+
+enum UnitType {
+  WEIGHT  // measured in grams
+  VOLUME  // measured in mL
+}
+
+enum TimeOfDay {
+  BREAKFAST
+  LUNCH
+  DINNER
+  SUPPER
+}
