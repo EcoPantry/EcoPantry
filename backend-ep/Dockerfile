@@ -1,20 +1,20 @@
-# Use Bun as the base image
 FROM oven/bun:1
+
+# Required by Prisma
+RUN apt-get update && apt-get install -y openssl
 
 # Set working directory
 WORKDIR /app
 
-# Copy backend files
-COPY package*.json ./
-COPY bun.lock ./
+# Copy package files first (to enable layer caching)
+COPY bun.lock package.json /
 
-# Install dependencies
+# Install deps including @prisma/client
 RUN bun install
 
+# Copy the rest of the project (including prisma/)
 COPY . .
 
-# Expose backend port
 EXPOSE 3000
 
-# Start the server
-CMD ["bun", "run", "dev"]
+CMD ["sh", "-c", "bun run prisma:generate && bun run dev"]
