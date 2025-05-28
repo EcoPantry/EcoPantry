@@ -1,4 +1,4 @@
-name: Deploy to ECS on Push to Main
+name: Deploy frontend and backend
 
 on:
   push:
