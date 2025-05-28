@@ -9,12 +9,6 @@
     "prisma:generate": "bunx prisma generate",
     "prisma:migrate": "bunx prisma migrate deploy"
   },
-  "devDependencies": {
-    "@types/bun": "latest",
-    "@types/express": "^5.0.2",
-    "@types/node": "^22.15.21",
-    "tsx": "^4.19.4"
-  },
   "peerDependencies": {
     "typescript": "^5.8.3"
   },
