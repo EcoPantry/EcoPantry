@@ -12,9 +12,12 @@ COPY bun.lock package.json /
 # Install deps including @prisma/client
 RUN bun install
 
+COPY prisma ./prisma
+RUN bunx prisma generate
+
 # Copy the rest of the project (including prisma/)
 COPY . .
 
 EXPOSE 3000
 
-CMD ["sh", "-c", "bun run prisma:generate && bun run dev"]
+CMD ["sh", "-c", "bun run dev"]
