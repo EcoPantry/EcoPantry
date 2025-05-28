@@ -1,0 +1,76 @@
+name: Deploy frontend and backend
+
+on:
+  push:
+    branches: [main]
+
+env:
+  AWS_REGION: ap-southeast-1
+  CLUSTER: ecopantry-prototype
+  SERVICE: ecopantry-prototype-task-service-00mrtt6u
+  ECR_REPOSITORY: ecopantry-prototype
+  IMAGE_TAG: latest
+
+jobs:
+  deploy:
+    name: Build & Deploy to ECS
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Log in to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+
+      - name: Build, tag, and push backend Docker image
+        run: |
+          IMAGE_URI=$(aws ecr describe-repositories \
+            --repository-names $ECR_REPOSITORY \
+            --query "repositories[0].repositoryUri" \
+            --output text)
+
+          echo "🔨 Building and pushing image to $IMAGE_URI"
+
+          docker build -f ./backend-ep/Dockerfile.prod -t $ECR_REPOSITORY:$IMAGE_TAG ./backend-ep
+          docker tag $ECR_REPOSITORY:$IMAGE_TAG $IMAGE_URI:$IMAGE_TAG
+          docker push $IMAGE_URI:$IMAGE_TAG
+
+          echo "IMAGE_URI=$IMAGE_URI" >> $GITHUB_ENV
+
+      - name: Update ECS service for backend
+        run: |
+          echo "🚀 Triggering ECS deployment..."
+          aws ecs update-service \
+            --cluster $CLUSTER \
+            --service $SERVICE \
+            --force-new-deployment
+          echo "✅ ECS service update triggered. Check progress in AWS Console."
+
+      - name: Install Bun for frontend
+        run: |
+          curl -fsSL https://bun.sh/install | bash
+          echo "$HOME/.bun/bin" >> $GITHUB_PATH
+      
+      - name: Install frontend dependencies
+        working-directory: frontend-ep
+        env:
+          VITE_API_URL: ${{ secrets.VITE_API_URL }}
+        run: | 
+          bun install
+          bun run build
+      
+      - name: Upload to S3
+        run: |
+          aws s3 sync frontend-ep/dist s3://${{ secrets.FRONTEND_S3_BUCKET }} \
+            --delete \
+            --cache-control "public, max-age=31536000"
+

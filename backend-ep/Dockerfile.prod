@@ -1,0 +1,23 @@
+FROM oven/bun:1
+
+# Required by Prisma
+RUN apt-get update && apt-get install -y openssl
+
+# Set working directory
+WORKDIR /app
+
+# Copy package files first (to enable layer caching)
+COPY bun.lock package.json /
+
+# Install deps including @prisma/client
+RUN bun install
+
+COPY prisma ./prisma
+RUN bunx prisma generate
+
+# Copy the rest of the project (including prisma/)
+COPY . .
+
+EXPOSE 3000
+
+CMD ["sh", "-c", "bun run dev"]

@@ -3,8 +3,20 @@
 
 import Sidebar from "@/components/layout/Sidebar"
 import { Outlet } from "@tanstack/react-router"
+import { useEffect } from "react"
 
 const AppLayout = () => {
+  useEffect(() => {
+    console.log("AppLayout mounted")
+    console.log("API URL:", import.meta.env.VITE_API_URL)
+    console.log("haha")
+    fetch(`${import.meta.env.VITE_API_URL}/`, {
+      method: "GET",
+      credentials: "include", // Needed for cookies/auth headers
+    }
+    )
+
+  }, [])
   return (
     <div className="flex flex-col md:flex-row h-screen">
       <Sidebar />
