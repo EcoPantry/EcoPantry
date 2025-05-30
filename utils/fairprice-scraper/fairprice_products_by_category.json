@@ -1,0 +1,2478 @@
+{
+"breads": [
+  {
+    "name": "Gardenia Enriched White Bread",
+    "price": "$3.20",
+    "brand": "Brand:Gardenia",
+    "weight": "600g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10099606_XL1_20210903.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/gardenia-enriched-white-bread-600g-10099606",
+    "category": "breads"
+  },
+  {
+    "name": "Sunshine Hokkaido Milk Toast Bread",
+    "price": "$3.40",
+    "brand": "Brand:Sunshine",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10983506_XL1_20210903.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sunshine-hokkaido-milk-toast-bread-400g-10983506",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Enriched White Bread",
+    "price": "$2.50",
+    "brand": "Brand:Gardenia",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/93964_XL1_20240418.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/gardenia-enriched-white-bread-400g-93964",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice White Bread - Enriched",
+    "price": "$2.05",
+    "brand": "Brand:Fairprice",
+    "weight": "500g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13200672_XL1_20210630.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-white-bread-enriched-500g-13200672",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Bread - Wholemeal",
+    "price": "$2.40",
+    "brand": "Brand:Fairprice",
+    "weight": "500g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13200668_XL1_20210810.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-bread-wholemeal-500g-13200668",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Enriched White Bread",
+    "price": "$3.20",
+    "brand": "Brand:Gardenia",
+    "weight": "600g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10099606_XL1_20210903.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/gardenia-enriched-white-bread-600g-10099606",
+    "category": "breads"
+  },
+  {
+    "name": "Sunshine Hokkaido Milk Toast Bread",
+    "price": "$3.40",
+    "brand": "Brand:Sunshine",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10983506_XL1_20210903.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sunshine-hokkaido-milk-toast-bread-400g-10983506",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Enriched White Bread",
+    "price": "$2.50",
+    "brand": "Brand:Gardenia",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/93964_XL1_20240418.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/gardenia-enriched-white-bread-400g-93964",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice White Bread - Enriched",
+    "price": "$2.05",
+    "brand": "Brand:Fairprice",
+    "weight": "500g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13200672_XL1_20210630.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-white-bread-enriched-500g-13200672",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Bread - Wholemeal",
+    "price": "$2.40",
+    "brand": "Brand:Fairprice",
+    "weight": "500g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13200668_XL1_20210810.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-bread-wholemeal-500g-13200668",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia 100% Wholemeal Bread -  Extra Soft & Fine",
+    "price": "$3.30",
+    "brand": "Brand:Gardenia",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13074362_XL1_20240606.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/super-soft---fine-enriched-wholemeal-white-bread--13074362",
+    "category": "breads"
+  },
+  {
+    "name": "Spring Home Roti Paratha - Plain",
+    "price": "$7.30",
+    "brand": "Brand:Spring Home",
+    "weight": "1.3kg (20 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10186398_XL1_20241008.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/spring-home-roti-prata-plain-20s-13kg-10186398",
+    "category": "breads"
+  },
+  {
+    "name": "Sunshine Wholemeal Bread - Ultra Fine",
+    "price": "$3.30",
+    "brand": "Brand:Sunshine",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13110179_XL1_20230731.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sunshine-wholemeal-bread---ultra-fine-13110179",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Loaf - California Raisin",
+    "price": "$3.90",
+    "brand": "Brand:Gardenia",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10470049_XL1_20210903.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/10470049",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Wholemeal Extra Soft & Fine Bread",
+    "price": "$4.30",
+    "brand": "Brand:Gardenia",
+    "weight": "600g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13196447_XL1_20211025.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/gardenia-wholemeal-extra-soft-fine-bread-600g-13196447",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Hokkaido Hi-Calcium Milk Bread",
+    "price": "$3.40",
+    "brand": "Brand:Gardenia",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13069839_XL1_20220428.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/gardenia-hokkaido-hi-calcium-milk-bread-400g-13069839",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Wholemeal Bread - Fine Grain",
+    "price": "$3.10",
+    "brand": "Brand:Gardenia",
+    "weight": "420g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/93980_XL1_20250403.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/gardenia-fine-grain-wholemeal-bread-420g-93980",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Enriched White Bread - Wholemeal",
+    "price": "$3.00",
+    "brand": "Brand:Gardenia",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12686775_XL1_20240606.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/gardenia-enriched-wholemeal-white-bread-400g-12686775",
+    "category": "breads"
+  },
+  {
+    "name": "Sunshine Bread - Jumbo Pack Enriched Soft White",
+    "price": "$3.10",
+    "brand": "Brand:Sunshine",
+    "weight": "550g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13045385_XL1_20210903.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/13045385",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Frozen Roti Prata",
+    "price": "$2.17",
+    "brand": "Brand:Fairprice",
+    "weight": "480g (6 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13051972_XL1_20221005.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-roti-prata-6s-480g-13051972",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Frozen Roti Prata",
+    "price": "$6.31",
+    "brand": "Brand:Fairprice",
+    "weight": "20 per pack",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13193027_XL1_20250128.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-frozen-roti-prata-1-3kg-13193027",
+    "category": "breads"
+  },
+  {
+    "name": "Fairprice Wraps - Wholemeal",
+    "price": "$4.20",
+    "brand": "Brand:Fairprice",
+    "weight": "360g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13229363_XL1_20241207.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-wraps-wholemeal-360g-13229363",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia White Bread - Wholemeal (Super Soft & Fine)",
+    "price": "$4.10",
+    "brand": "Brand:Gardenia",
+    "weight": "600g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13067118_XL1_20210903.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/13067118",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Low GI Bread - Soft Grain",
+    "price": "$4.00",
+    "brand": "Brand:Gardenia",
+    "weight": "300g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13131137_XL1_20210903.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/gardenia-low-gi-bread---soft-grain-13131137",
+    "category": "breads"
+  },
+  {
+    "name": "Chinatown Roti Prata - Original",
+    "price": "$9.05",
+    "brand": "Brand:Chinatown",
+    "weight": "30 per pack",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10196799_XL1_20210222.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/chinatown-roti-prata-original-30-per-pack-10196799",
+    "category": "breads"
+  },
+  {
+    "name": "Sunshine Smart Carb Bread - Low G.I",
+    "price": "$4.00",
+    "brand": "Brand:Sunshine",
+    "weight": "360g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13083462_XL1_20230731.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sunshine-smart-carb-low-gi-bread-360g-13083462",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia White Bread - High Fibre",
+    "price": "$2.90",
+    "brand": "Brand:Gardenia",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/292045_XL1_20240606.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/gardenia-high-fibre-white-bread-400g-292045",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Wraps - Wholegrain",
+    "price": "$5.85",
+    "brand": "Brand:Mission",
+    "weight": "360g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13005789_XL1.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/mission-wraps-wholegrain-8s-360g-13005789",
+    "category": "breads"
+  },
+  {
+    "name": "Spring Home Roti Paratha - Plain",
+    "price": "$2.82",
+    "brand": "Brand:Spring Home",
+    "weight": "325g (5 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/496415_XL1_20241008.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/spring-home-roti-paratha-plain-325g-5-per-pack-496415",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Buns - Hamburger",
+    "price": "$2.30",
+    "brand": "Brand:Gardenia",
+    "weight": "250g (4 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/94003_XL1_20210903.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/94003",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Wraps - Original",
+    "price": "$5.85",
+    "brand": "Brand:Mission",
+    "weight": "360g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13005800_XL1_20220825.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/mission-wraps-original-8s-360g-13005800",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Buns - Hotdog",
+    "price": "$2.30",
+    "brand": "Brand:Gardenia",
+    "weight": "220g (4 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/94011_XL1_20210722.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/94011",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Bread - Wholemeal (Junior)",
+    "price": "$1.95",
+    "brand": "Brand:Fairprice",
+    "weight": "300g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13200667_XL1_20210705.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-bread-wholemeal-junior-300g-13200667",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Buns - Raisin",
+    "price": "$2.80",
+    "brand": "Brand:Gardenia",
+    "weight": "240g (6 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/212043_XL1_20210830.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/212043",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Wraps - Original",
+    "price": "$4.20",
+    "brand": "Brand:Fairprice",
+    "weight": "360g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13229362_XL1_20241207.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-warps-original-8-per-pack-13229362",
+    "category": "breads"
+  },
+  {
+    "name": "Spring Home Roti Paratha - Onion",
+    "price": "$8.98",
+    "brand": "Brand:Spring Home",
+    "weight": "1.3kg (20 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10221763_XL1_20241008.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/spring-home-roti-paratha---onion-10221763",
+    "category": "breads"
+  },
+  {
+    "name": "Sara Lee Frozen Pound Cake - Chocolate Swirl",
+    "price": "$6.85",
+    "brand": "Brand:Sara Lee",
+    "weight": "300g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/34356_XL1_20250213.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sara-lee-pound-cake-chocolate-swirl-300g-34356",
+    "category": "breads"
+  },
+  {
+    "name": "Mekong Vietnam Rice Paper - 16cm",
+    "price": "$1.02",
+    "brand": "Brand:Banh Trang",
+    "weight": "100g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10606479_XL1_20201014.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/10606479",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Garlic & Herbs Wraps",
+    "price": "$4.20",
+    "brand": "Brand:Fairprice",
+    "weight": "360g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13254449_XL1_20241207.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-garlic-herbs-wraps-360g-8-per-pack-13254449",
+    "category": "breads"
+  },
+  {
+    "name": "Apollo Layer Cake - Pandan",
+    "price": "$4.15",
+    "brand": "Brand:Apollo",
+    "weight": "24 x 18g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10692231_XL1_20220427.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/10692231",
+    "category": "breads"
+  },
+  {
+    "name": "Apollo Layer Cake - Chocolate",
+    "price": "$4.15",
+    "brand": "Brand:Apollo",
+    "weight": "24 x 18g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10286428_XL1_20220427.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/10286428",
+    "category": "breads"
+  },
+  {
+    "name": "Sara Lee Frozen Pound Cake - Chocolate",
+    "price": "$6.85",
+    "brand": "Brand:Sara Lee",
+    "weight": "300g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/34364_XL1_20250213.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sara-lee-pound-cake-chocolate-300g-34364",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Wholemeal Wraps - Protein",
+    "price": "$6.21",
+    "brand": "Brand:Mission",
+    "weight": "360g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13251697_XL1_20240902.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/m-protein-wrap-wm360-13251697",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Wholemeal Buns - Hamburger",
+    "price": "$2.50",
+    "brand": "Brand:Gardenia",
+    "weight": "250g (4 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13034194_XL1_20230327.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/13034194",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Wraps - Reduced Carbs",
+    "price": "$6.21",
+    "brand": "Brand:Mission",
+    "weight": "270g (6 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13159031_XL1_20210423.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/13159031",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice White Bread - High Fibre",
+    "price": "$2.60",
+    "brand": "Brand:Fairprice",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13200673_XL1_20210705.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-white-bread-high-fibre-400g-13200673",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Multigrain Wraps",
+    "price": "$4.20",
+    "brand": "Brand:Fairprice",
+    "weight": "360g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13254512_XL1_20241207.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-multigrain-wraps-360g-8-per-pack-13254512",
+    "category": "breads"
+  },
+  {
+    "name": "Lotte Happy Promise Choco Pie",
+    "price": "$2.86",
+    "brand": "Brand:Lotte",
+    "weight": "168g (6 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13004514_XL1_20210121.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/lotte-happy-promise-choco-pie-6s-168g-13004514",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Frozen Chapatti",
+    "price": "$6.90",
+    "brand": "Brand:Fairprice",
+    "weight": "1.2kg (30 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12455985_XL1_20240229.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-chapatti-30s-12kg-12455985",
+    "category": "breads"
+  },
+  {
+    "name": "Gardenia Wholemeal Buns - Hotdog",
+    "price": "$2.50",
+    "brand": "Brand:Gardenia",
+    "weight": "220g (4 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13034193_XL1_20230327.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/13034193",
+    "category": "breads"
+  },
+  {
+    "name": "Treats Croissant - Chocolate",
+    "price": "$1.10",
+    "brand": "Brand:Treats",
+    "weight": "55g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13253777_XL1_20250121.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/treats-chocolate-croissant-55g-13253777",
+    "category": "breads"
+  },
+  {
+    "name": "Sara Lee Frozen Pound Cake - All Purpose (Plain)",
+    "price": "$6.85",
+    "brand": "Brand:Sara Lee",
+    "weight": "300g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10469849_XL1_20250213.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sara-lee-frozen-pound-cake-all-purpose-plain-300g-10469849",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Bread - Wholemeal (Finegrain)",
+    "price": "$2.80",
+    "brand": "Brand:Fairprice",
+    "weight": "420g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13200671_XL1_20210811.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-bread-wholemeal-finegrain-420g-13200671",
+    "category": "breads"
+  },
+  {
+    "name": "Treats Muffin - Double Chocolate",
+    "price": "$1.30",
+    "brand": "Brand:Treats",
+    "weight": "60g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13253780_XL1_20241124.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/treats-double-chocolate-mfn-60g-13253780",
+    "category": "breads"
+  },
+  {
+    "name": "Treats Muffin - Chocolate Chips",
+    "price": "$1.30",
+    "brand": "Brand:Treats",
+    "weight": "60g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13253779_XL1_20241124.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/treats-chocolate-chips-mufn-60g-13253779",
+    "category": "breads"
+  },
+  {
+    "name": "Treats Croissant - Strawberry",
+    "price": "$1.10",
+    "brand": "Brand:Treats",
+    "weight": "55g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13253781_XL1_20250121.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/treats-strawberry-croissant-55g-13253781",
+    "category": "breads"
+  },
+  {
+    "name": "Sunshine Enriched Bread - Softmeal",
+    "price": "$3.10",
+    "brand": "Brand:Sunshine",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/94045_XL1_20230731.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sunshine-enriched-softmeal-bread-400g-94045",
+    "category": "breads"
+  },
+  {
+    "name": "Lotte Happy Promise Cream Cake - Custard",
+    "price": "$2.86",
+    "brand": "Brand:Lotte",
+    "weight": "138g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12589991_XL1_20210210.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/lotte-happy-promise-custard-cream-cake-6-pack-138g-12589991",
+    "category": "breads"
+  },
+  {
+    "name": "Philadelphia Cheesecake - Classic New York Style",
+    "price": "$22.66",
+    "brand": "Brand:Philly",
+    "weight": "794g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13152508_XL1_20230710.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/philadelphia-cheesecake-classic-new-york-style-794g-13152508",
+    "category": "breads"
+  },
+  {
+    "name": "Kellogg's Eggo Frozen Waffles - Buttermilk",
+    "price": "$8.30",
+    "brand": "Brand:Eggo",
+    "weight": "10 per pack",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13067408_XL1_20250213.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/kelloggs-eggo-frozen-waffles%C2%A0--buttermilk-13067408",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Wholemeal Pita Bread",
+    "price": "$5.75",
+    "brand": "Brand:Fairprice",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13253845_XL1_20240728.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-wholemeal-pita-bread-400g-13253845",
+    "category": "breads"
+  },
+  {
+    "name": "Kellogg's Eggo Frozen Waffles - Blueberry",
+    "price": "$8.30",
+    "brand": "Brand:Eggo",
+    "weight": "10 per pack",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13067415_XL1_20250213.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/13067415",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Wraps - Onion & Chive",
+    "price": "$5.85",
+    "brand": "Brand:Mission",
+    "weight": "360g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13027804_XL1_20230710.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/13027804",
+    "category": "breads"
+  },
+  {
+    "name": "Cowhead Buttermilk Pancakes",
+    "price": "$5.30",
+    "brand": "Brand:Cowhead",
+    "weight": "240g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13177135_XL1_20240912.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/cowhead-buttermilk-pancakes-240g-13177135",
+    "category": "breads"
+  },
+  {
+    "name": "Orion Choco Pie 12p (Halal)",
+    "price": "$4.90",
+    "brand": "Brand:Orion",
+    "weight": "360 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90072945_XL1_20250530200738_0fd8d4c2bef539d3c161278094110752.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/orion-choco-pie-12p-halal-360-g-90072945",
+    "category": "breads"
+  },
+  {
+    "name": "Kellogg's Eggo Frozen Waffles - Chocolatey Chip",
+    "price": "$8.30",
+    "brand": "Brand:Eggo",
+    "weight": "10 per pack",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13067420_XL1_20250130.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/kellogg-s-eggo-frozen-waffles-chocolatey-chip-349g-10-per-pack-13067420",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Pizza Crust - Wholemeal",
+    "price": "$5.40",
+    "brand": "Brand:Mission",
+    "weight": "300g (2 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13094779_XL1_20220927.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/13094779",
+    "category": "breads"
+  },
+  {
+    "name": "Treats Croissant - Custard",
+    "price": "$1.10",
+    "brand": "Brand:Treats",
+    "weight": "55g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13253778_XL1_20250121.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/treats-custard-croissant-55g-13253778",
+    "category": "breads"
+  },
+  {
+    "name": "Cowhead Waffles - Original Belgium",
+    "price": "$5.30",
+    "brand": "Brand:Cowhead",
+    "weight": "200g (4 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13190057_XL1_20240912.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/cowhead-waffles-original-belgium-200g-4-per-pack-13190057",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Mini Wraps - Original",
+    "price": "$5.45",
+    "brand": "Brand:Mission",
+    "weight": "8 per pack",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13195541_XL1_20210319.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/mission-mini-wraps-original-8-per-pack-13195541",
+    "category": "breads"
+  },
+  {
+    "name": "Fudgee Barr Cake - Flavor Combo",
+    "price": "$3.26",
+    "brand": "Brand:Fudgee Barr",
+    "weight": "395g (10 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13156981_XL1_20240228.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fudgee-barr-cake-flavor-combo-395g-10-per-pack-13156981",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Pita - Wholemeal",
+    "price": "$6.27",
+    "brand": "Brand:Mission",
+    "weight": "400g (5 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13052672_XL1_20230914.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/mission-pita-bread-wholemeal-5s-400g-13052672",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Mini Wraps - Wholemeal",
+    "price": "$5.45",
+    "brand": "Brand:Mission",
+    "weight": "8 per pack",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13195540_XL1_20210308.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/mission-mini-wraps-wholemeal-8-per-pack-13195540",
+    "category": "breads"
+  },
+  {
+    "name": "Churo Mini Butter Croissants (Frozen)",
+    "price": "$10.90",
+    "brand": "Brand:Churo",
+    "weight": "12 x 25 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90129419_XL1_20250529191753_f74cddd6bfb78f5fed2ba640063c2dc7.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/churo-mini-butter-croissant-pastry-ready-to-cook-12-x-25g-90129419",
+    "category": "breads"
+  },
+  {
+    "name": "Apollo Layer Cake - Strawberry",
+    "price": "$4.15",
+    "brand": "Brand:Apollo",
+    "weight": "24 x 18g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10692274_XL1_20220427.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/10692274",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Pita - Plain",
+    "price": "$6.27",
+    "brand": "Brand:Mission",
+    "weight": "400g (5 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13052671_XL1_20230914.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/mission-pita-plain-400g-5-per-pack-13052671",
+    "category": "breads"
+  },
+  {
+    "name": "Oreo Chocolate Soft Cake",
+    "price": "$4.45",
+    "brand": "Brand:Oreo",
+    "weight": "230.4g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13261777_XL1_20241215.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/oreo-chocolate-soft-cake-230-4g-13261777",
+    "category": "breads"
+  },
+  {
+    "name": "Eggo Homestyle Waffles",
+    "price": "$8.30",
+    "brand": "Brand:Eggo",
+    "weight": "349g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13258403_XL1_20250131.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/eggo-homestyle-waffles-349g-13258403",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Wraps - Chia",
+    "price": "$6.21",
+    "brand": "Brand:Mission",
+    "weight": "360g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13159029_XL1.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/13159029",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Wraps - 6 Grains",
+    "price": "$5.85",
+    "brand": "Brand:Mission",
+    "weight": "360g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13074669_XL1_20230710.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/13074669",
+    "category": "breads"
+  },
+  {
+    "name": "Churo Butter Croissants (Frozen)",
+    "price": "$4.90",
+    "brand": "Brand:Churo",
+    "weight": "3 x 60 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90120666_XL1_20250530023220_4dfe1572c9e20e0d124d3bed9ab717a2.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/churo-butter-croissant-3-x-60g-90120666",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Bread - California Raisin",
+    "price": "$3.50",
+    "brand": "Brand:Fairprice",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13200669_XL1_20210709.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-bread-california-raisin-400g-13200669",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Original Naan",
+    "price": "$5.75",
+    "brand": "Brand:Fairprice",
+    "weight": "320g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13253846_XL1_20240728.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-original-naan-320g-13253846",
+    "category": "breads"
+  },
+  {
+    "name": "Kellogg's Eggo Frozen Waffles - Strawberry",
+    "price": "$8.30",
+    "brand": "Brand:Eggo",
+    "weight": "10 per pack",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13094139_XL1_20250213.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/kellogg-s-eggo-frozen-waffles-strawberry-350g-10-per-pack-13094139",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Wraps - Garlic",
+    "price": "$5.85",
+    "brand": "Brand:Mission",
+    "weight": "360g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13005786_XL1_20210610.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/mission-wraps-garlic-360g-8-per-pack-13005786",
+    "category": "breads"
+  },
+  {
+    "name": "Ego Swiss Roll - Chocolate",
+    "price": "$3.28",
+    "brand": "Brand:Ego",
+    "weight": "176g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12302161_XL1.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/ego-swiss-roll-chocolate-176g-8-per-pack-12302161",
+    "category": "breads"
+  },
+  {
+    "name": "Flair Pistachio Kunafa Cake Roll",
+    "price": "$12.95",
+    "brand": "Brand:Flair",
+    "weight": "165g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13267942_XL1_20250527.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/flair-pistachio-kunafa-cake-roll-165g-13267942",
+    "category": "breads"
+  },
+  {
+    "name": "Win Win Bake Story Mini Muffin - Original",
+    "price": "$3.36",
+    "brand": "Brand:Win Win",
+    "weight": "200g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13223153_XL1_20241122.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/win-win-bake-story-mini-muffin-original-200g-13223153",
+    "category": "breads"
+  },
+  {
+    "name": "Marukyo Doriyaki - Red Bean",
+    "price": "$6.31",
+    "brand": "Brand:Marukyo",
+    "weight": "310g (6 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13084521_XL1_20220927.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/marukyo-dorayaki-red-bean-6s-x-310g-13084521",
+    "category": "breads"
+  },
+  {
+    "name": "Orion - Double Choco Pie 12 Pcs",
+    "price": "$4.90",
+    "brand": "Brand:Orion",
+    "weight": "30 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90008050_XL1_20250530154344_f8531a6de4420c6a971b9d207c02e0cc.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/orion-double-choco-pie-12-pcs-12-x-30g-90008050",
+    "category": "breads"
+  },
+  {
+    "name": "Fudgee Barr Chocolate Cake - Chocolate Cream",
+    "price": "$3.26",
+    "brand": "Brand:Fudgee Barr",
+    "weight": "400g (10 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12038962_XL1_20240228.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fudgee-barr-chocolate-cake-chocolate-cream-400g-10-per-pack-12038962",
+    "category": "breads"
+  },
+  {
+    "name": "Schar Gluten Free - Pan Rustico Sourdough Sliced bread",
+    "price": "$7.30",
+    "brand": "Brand:Schar",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90023885_XL1_20250530121739_76090d18a470e8914297af88654ac54b.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/schar-schar-pan-rustico-sourdough-sliced-bread-gluten-free-250-g-90023885",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Wholemeal Wraps - Salt Reduced",
+    "price": "$6.21",
+    "brand": "Brand:Mission",
+    "weight": "360g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13251698_XL1_20240902.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/m-salt-reduce-wml360-13251698",
+    "category": "breads"
+  },
+  {
+    "name": "Ego Swiss Roll - Vanilla",
+    "price": "$3.28",
+    "brand": "Brand:Ego",
+    "weight": "176g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12302057_XL1_20210423.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/12302057",
+    "category": "breads"
+  },
+  {
+    "name": "Niks Garlic Naan (10S) 850G -- By Dashmesh",
+    "price": "$6.91",
+    "brand": "Brand:Niks",
+    "weight": "850 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90063395_XL1_20250530000706_ff57439494f7ae26cff48802c0d9e140.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/niks-garlic-naan-10s-850g-by-dashmesh-850-g-90063395",
+    "category": "breads"
+  },
+  {
+    "name": "Win Win Bake Story Mini Cake - Kokopie",
+    "price": "$3.36",
+    "brand": "Brand:Win Win",
+    "weight": "200g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13223154_XL1_20240912.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/win-win-bake-story-mini-cake-kokopie-200g-13223154",
+    "category": "breads"
+  },
+  {
+    "name": "Orion Choco Pie 6p (Halal)",
+    "price": "$2.60",
+    "brand": "Brand:Orion",
+    "weight": "180 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90072946_XL1_20250530010727_588992f5f8b39189f023eaafbf3212c3.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/orion-choco-pie-6p-halal-180-g-90072946",
+    "category": "breads"
+  },
+  {
+    "name": "Lotte Choco Pie - Cacao",
+    "price": "$2.86",
+    "brand": "Brand:Lotte",
+    "weight": "6 per pack",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13167204_XL1_20220314.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/lotte-choco-pie-cacao-6-per-pack-13167204",
+    "category": "breads"
+  },
+  {
+    "name": "Quickbury Organic Whole Rye Bread",
+    "price": "$5.70",
+    "brand": "Brand:Quickbury",
+    "weight": "500 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90017007_XL1_20250530132733_d058facae052034a53f498487596ceed.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/quickbury-organic-whole-rye-bread-500-g-90017007",
+    "category": "breads"
+  },
+  {
+    "name": "Phaner Chocolate Pie",
+    "price": "$4.64",
+    "brand": "Brand:Phaner",
+    "weight": "12 x 28g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13011730_XL1_20210210.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/phaner-chocolate-pie-12-x-28g-13011730",
+    "category": "breads"
+  },
+  {
+    "name": "FairPrice Original Pita",
+    "price": "$5.75",
+    "brand": "Brand:Fairprice",
+    "weight": "400g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13253843_XL1_20240728.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairprice-original-pita-400g-13253843",
+    "category": "breads"
+  },
+  {
+    "name": "Cadbury Oreo Choco Pie",
+    "price": "$3.65",
+    "brand": "Brand:Oreo",
+    "weight": "180g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13202159_XL1_20240724.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/cadbury-oreo-choco-pie-180g-13202159",
+    "category": "breads"
+  },
+  {
+    "name": "Ego Swiss Roll - Coconut Pandan",
+    "price": "$3.28",
+    "brand": "Brand:Ego",
+    "weight": "176g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12302196_XL1_20220314.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/ego-swiss-roll-coconut-pandan-176g-12302196",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Wraps - Quinoa",
+    "price": "$6.21",
+    "brand": "Brand:Mission",
+    "weight": "360g (8 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13159030_XL1.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/13159030",
+    "category": "breads"
+  },
+  {
+    "name": "Orion Custard Pie 12p (Halal)",
+    "price": "$4.90",
+    "brand": "Brand:Orion",
+    "weight": "276 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90072943_XL1_20250530160727_7b20d7bba2c39cbfbe48653fefd461d1.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/orion-custard-pie-12p-halal-276-g-90072943",
+    "category": "breads"
+  },
+  {
+    "name": "Fudgee Barr Cake with Dark Chocolate Cream-Filled",
+    "price": "$3.26",
+    "brand": "Brand:Fudgee Barr",
+    "weight": "380g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13202887_XL1_20240228.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fudgee-barr-cake-with-dark-chocolate-cream-filled-600g-13202887",
+    "category": "breads"
+  },
+  {
+    "name": "Delyco Salty Mung Bean Cake - Bundle of 2",
+    "price": "$3.80",
+    "brand": "Brand:Delyco",
+    "weight": "2 x 150 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90030175_XL1_20250528210345_d27be18460fea960012c0a9937ed2a79.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/delyco-salty-mung-bean-cake-bundle-of-2-2-x-150g-90030175",
+    "category": "breads"
+  },
+  {
+    "name": "Schar Gluten Free -  Pan Multigrano, Multigrain Sliced Bread",
+    "price": "$7.30",
+    "brand": "Brand:Schar",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90023884_XL1_20250530024725_f33641f7a80c4af893779769627cb181.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/schar-pan-multigrano-multigrain-sliced-bread-gluten-free-250-g-90023884",
+    "category": "breads"
+  },
+  {
+    "name": "Marukyo Doriyaki - Red Bean & Chestnut",
+    "price": "$6.31",
+    "brand": "Brand:Marukyo",
+    "weight": "300g (5 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13084519_XL1_20220927.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/marukyo-doriyaki-red-bean-chestnut-300g-5-per-pack-13084519",
+    "category": "breads"
+  },
+  {
+    "name": "Safoco Spring rolls rice paper (22cm)",
+    "price": "$5.90",
+    "brand": "Brand:Safoco",
+    "weight": "500 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90127890_XL1_20250529184720_c32c3ba4b89190aee452565f50b0e6c7.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/safoco-spring-rolls-rice-paper-22cm-500-g-90127890",
+    "category": "breads"
+  },
+  {
+    "name": "Biona Organic Rye Chia & Flax Bread",
+    "price": "$7.47",
+    "brand": "Brand:Biona Organic",
+    "weight": "500 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90014879_XL1_20250530132730_1ac405f7fe252cf01bfcb85f1237f455.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/biona-organic-rye-chia-flax-bread-500g-90014879",
+    "category": "breads"
+  },
+  {
+    "name": "DEEP Garlic Naan",
+    "price": "$5.00",
+    "brand": "Brand:DEEP",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90033242_XL1_20250529205235_81d7d0688c568465f7acde6e34dc4449.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/deep-garlic-naan-1-pc-90033242",
+    "category": "breads"
+  },
+  {
+    "name": "SwizzLef Swiss Roll - Chocolote Flavour",
+    "price": "$4.20",
+    "brand": "Brand:SwizzLef",
+    "weight": "480 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90026777_XL1_20250530090232_e188934e6b4919152120be7ef4614906.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/swizzlef-swiss-roll-chocolote-flavour-480-g-90026777",
+    "category": "breads"
+  },
+  {
+    "name": "win2 Bake Story Mini Egg Tart - Orange",
+    "price": "$3.30",
+    "brand": "Brand:Win2",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90184714_XL1_20250530171243_9b931e6b3079d3357c90175ced30daf7.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/win2-bake-story-mini-egg-tart-orange-250-g-90184714",
+    "category": "breads"
+  },
+  {
+    "name": "Schar Gluten Free - Pan Blanco, White Sliced Bread",
+    "price": "$7.30",
+    "brand": "Brand:Schar",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90023883_XL1_20250530105236_1d3fa152e7224e136c5aa2db8a099ff7.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/schar-pan-blanco-white-sliced-bread-gluten-free-250-g-90023883",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Naan - Plain",
+    "price": "$6.27",
+    "brand": "Brand:Mission",
+    "weight": "320g (4 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13055068_XL1_20240828.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/mission-naan-plain-320g-13055068",
+    "category": "breads"
+  },
+  {
+    "name": "DEEP TANDOORI NAAN",
+    "price": "$4.95",
+    "brand": "Brand:DEEP",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90033247_XL1_20250529113808_f4656dc96addbfcd4428bb90ba0664ca.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/deep-tandoori-naan-1-pc-90033247",
+    "category": "breads"
+  },
+  {
+    "name": "Niks Aloo Paratha (4S) 400G -- By Dashmesh",
+    "price": "$3.22",
+    "brand": "Brand:Niks",
+    "weight": "400 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90062474_XL1_20250529200228_c8a3b8c56f59383d9955e8a29907bd60.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/niks-aloo-paratha-4s-400g-by-dashmesh-400-g-90062474",
+    "category": "breads"
+  },
+  {
+    "name": "Oreo Cadbury Socola Pie - Strawberry",
+    "price": "$3.65",
+    "brand": "Brand:Oreo",
+    "weight": "168g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13242580_XL1_20240626.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/oreo-cadbury-socola-pie-strawberry-7-x-30g-13242580",
+    "category": "breads"
+  },
+  {
+    "name": "Ramly Cheesecake - Tiramisu",
+    "price": "$3.00",
+    "brand": "Brand:Ramly",
+    "weight": "60 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90062984_XL1_20250530110615_5999f585673fe4bec4f3f3418e41289b.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/ramly-cheesecake-tiramisu-60-g-90062984",
+    "category": "breads"
+  },
+  {
+    "name": "Schar Wraps - Gluten Free 2 X 80G",
+    "price": "$10.50",
+    "brand": "Brand:Schar",
+    "weight": "80 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90023892_XL1_20250529224114_e2e750c22aaf0b0b79094cf1e5ce071e.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/schar-wraps-gluten-free-2-x-80g-2-x-80g-90023892",
+    "category": "breads"
+  },
+  {
+    "name": "Mission Naan - Garlic & Herbs",
+    "price": "$6.27",
+    "brand": "Brand:Mission",
+    "weight": "320g (4 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13055070_XL1_20210111.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/mission-naan-garlic-herbs-320g-4-per-pack-13055070",
+    "category": "breads"
+  },
+  {
+    "name": "Thuan Phong Spring rolls rice paper (22cm)",
+    "price": "$5.70",
+    "brand": "Brand:Thuan Phong",
+    "weight": "340 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90127891_XL1_20250530131822_03e1402318dbfe66a372f5886696537e.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/thuan-phong-spring-rolls-rice-paper-22cm-340-g-90127891",
+    "category": "breads"
+  },
+  {
+    "name": "Delyco Golden Pineapple Tart",
+    "price": "$7.20",
+    "brand": "Brand:Delyco",
+    "weight": "360 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90039189_XL1_20250530024222_73868e1832ee089a72bd92b7bb6ada23.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/delyco-golden-pineapple-tart-360-g-90039189",
+    "category": "breads"
+  },
+  {
+    "name": "Bamboo House Pineapple Cake",
+    "price": "$5.95",
+    "brand": "Brand:Bamboo House",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90052908_XL1_20250525094730_e172fc6582a1f32f2ecf5d293d87df0b.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/bamboo-house-pineapple-cake-250-g-90052908",
+    "category": "breads"
+  },
+  {
+    "name": "Delyco Original Kueh Lapis",
+    "price": "$5.85",
+    "brand": "Brand:Delyco",
+    "weight": "350 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90030170_XL1_20250530091729_3c2fbeb3751e810602538fd60d65f3a9.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/delyco-original-kueh-lapis-350-g-90030170",
+    "category": "breads"
+  },
+  {
+    "name": "Orion Custard Pie 6p (Halal)",
+    "price": "$2.90",
+    "brand": "Brand:Orion",
+    "weight": "138 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90072944_XL1_20250529125228_2953dac4a7dd480d99a08ceced30caf8.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/orion-custard-pie-6p-halal-138-g-90072944",
+    "category": "breads"
+  },
+  {
+    "name": "Forty Thieves Forty Thieves Cashew Butter - 235g",
+    "price": "$10.75",
+    "brand": "Brand:Forty Thieves",
+    "weight": "235 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90197214_XL1_20250528204117_dc29feb9ee895b724c59a9b3db0ffd79.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/forty-thieves-forty-thieves-cashew-butter-235g-235-g-90197214",
+    "category": "breads"
+  },
+  {
+    "name": "Orion Chocopie - Raspberry & Blueberry",
+    "price": "$4.50",
+    "brand": "Brand:Orion",
+    "weight": "360g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13245096_XL1_20240222.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/orion-chocopie-r-b-bluebry-360g-13245096",
+    "category": "breads"
+  },
+  {
+    "name": "Santa Maria Tortilla Wrap Original - Large",
+    "price": "$6.95",
+    "brand": "Brand:Santa Maria",
+    "weight": "6 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90145719_XL1_20250528081226_55fa958f6dcf161e9d9a9fec6233481f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/santa-maria-tex-mex-tortilla-original-large-6-per-pack-1-x-371g-90145719",
+    "category": "breads"
+  },
+  {
+    "name": "DEEP VEG. PANEER PARATHA",
+    "price": "$6.50",
+    "brand": "Brand:DEEP",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90033239_XL1_20250529200228_dd2414212f80f38b6259bc0a35a2b42f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/deep-veg-paneer-paratha-1-pc-90033239",
+    "category": "breads"
+  },
+  {
+    "name": "Delyco Pandan Kueh Lapis",
+    "price": "$5.85",
+    "brand": "Brand:Delyco",
+    "weight": "350 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90030171_XL1_20250529030720_548970af755d474c346577b06d6d55eb.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/delyco-pandan-kueh-lapis-350-g-90030171",
+    "category": "breads"
+  },
+  {
+    "name": "Britannia Gobbles Double Choco Cake",
+    "price": "$4.95",
+    "brand": "Brand:Britannia",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90120432_XL1_20250530151912_e6590cd7d598cfaf3a5e47edb6632a98.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/britannia-gobbles-double-choco-cake-1-x-250g-90120432",
+    "category": "breads"
+  },
+  {
+    "name": "Niks Malabar Paratha (6S) 400G -- By Dashmesh",
+    "price": "$3.18",
+    "brand": "Brand:Niks",
+    "weight": "400 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90062479_XL1_20250526161732_eaa2a5201d8681e70ce11a40a59d551f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/niks-malabar-paratha-6s-400g-by-dashmesh-400-g-90062479",
+    "category": "breads"
+  },
+  {
+    "name": "Upgrain Pita Bread, Pack of 4",
+    "price": "$8.90",
+    "brand": "Brand:UPGRAIN",
+    "weight": "280 G",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/90161781_XL1_20230210.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/upgrain-pita-bread-pack-of-4-280-g-90161781",
+    "category": "breads"
+  },
+  {
+    "name": "Ramly Cheesecake - Blueberry",
+    "price": "$3.00",
+    "brand": "Brand:Ramly",
+    "weight": "60 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90062986_XL1_20250530110615_ab5d6710172fac39c834bd70ef714535.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/ramly-cheesecake-blueberry-60-g-90062986",
+    "category": "breads"
+  },
+  {
+    "name": "Marukyo Funwariyaki - Matcha Mochi",
+    "price": "$6.31",
+    "brand": "Brand:Marukyo",
+    "weight": "280g (5 per pack)",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13084518_XL1.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/marukyo-funwariyaki-matcha-mochi-280g-5-per-pack-13084518",
+    "category": "breads"
+  },
+  {
+    "name": "Delyco Vanilla Muffin - Bundle of 2",
+    "price": "$5.80",
+    "brand": "Brand:Delyco",
+    "weight": "2 x 230 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90039037_XL1_20250528134329_10811c174b2e4e5f81741a79abb02791.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/delyco-vanilla-muffin-bundle-of-2-2-x-230g-90039037",
+    "category": "breads"
+  },
+  {
+    "name": "Quickbury Whole Rye Bread",
+    "price": "$5.70",
+    "brand": "Brand:Quickbury",
+    "weight": "500 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90047193_XL1_20250529223834_568c5fda2ec908d23fa83406f71af6b7.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/quickbury-whole-rye-bread-500-g-90047193",
+    "category": "breads"
+  },
+  {
+    "name": "DEEP CHEESE & SPINACH STUFFED NAAN",
+    "price": "$4.95",
+    "brand": "Brand:DEEP",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90033244_XL1_20250529200231_4568cc484b43c496232d567df5f38165.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/deep-cheese-spinach-stuffed-naan-1-pc-90033244",
+    "category": "breads"
+  },
+  {
+    "name": "Delyco Sweet Mung Bean Cake - Bundle of 2",
+    "price": "$3.80",
+    "brand": "Brand:Delyco",
+    "weight": "2 x 150 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90030176_XL1_20250528210345_cb685e3b529b4862b640ced004924b06.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/delyco-sweet-mung-bean-cake-bundle-of-2-2-x-150g-90030176",
+    "category": "breads"
+  },
+  {
+    "name": "Ramly Cheesecake - Chocolate",
+    "price": "$3.00",
+    "brand": "Brand:Ramly",
+    "weight": "60 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90062983_XL1_20250528171724_89916af0da2e42992b9b2b0bead08bc8.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/ramly-cheesecake-chocolate-60-g-90062983",
+    "category": "breads"
+  },
+  {
+    "name": "Delyco Rainbow Kueh Lapis",
+    "price": "$5.85",
+    "brand": "Brand:Delyco",
+    "weight": "350 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90066975_XL1_20250529153813_e5e63b01aadbca7bf6f9fe14f9694038.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/delyco-rainbow-kueh-lapis-350-g-90066975",
+    "category": "breads"
+  },
+  {
+    "name": "Schar Gluten Free - Hamburger Buns",
+    "price": "$11.25",
+    "brand": "Brand:Schar",
+    "weight": "75 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90023889_XL1_20250527134730_dd0cbd790dc0214359712161dda0b888.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/schar-hamburger-buns-gluten-free-4-x-75g-90023889",
+    "category": "breads"
+  },
+  {
+    "name": "Amul Malabar Paratha",
+    "price": "$3.60",
+    "brand": "Brand:Amul",
+    "weight": "400 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90213035_XL1_20250520075716_c53f754c8a73bacc83b68c2cfa7bd208.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/amul-malabar-paratha",
+    "category": "breads"
+  },
+  {
+    "name": "Oriental Layer Cake Butter Flavour",
+    "price": "$1.61",
+    "brand": "Brand:Oriental",
+    "weight": "128 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90047636_XL1_20250528210618_afe0200ed530150322bd52da1e7fe6d9.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/oriental-layer-cake-butter-flavour-128-g-90047636",
+    "category": "breads"
+  },
+  {
+    "name": "Biona Organic Rye Sunflower seed Bread",
+    "price": "$7.47",
+    "brand": "Brand:Biona Organic",
+    "weight": "500 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90014887_XL1_20250530132733_d865414c410da547444e5214f93ec042.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/biona-organic-rye-sunflower-seed-bread-500g-90014887",
+    "category": "breads"
+  },
+  {
+    "name": "Tian Pin Vegan Hong Kong Style BBQ Bun",
+    "price": "$6.00",
+    "brand": "Brand:Tian Pin",
+    "weight": "450 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90183334_XL1_20250518161722_13923c3625341ccad5885e6b6f89b260.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/tian-pin-vegan-hong-kong-style-bbq-bun-450-g-90183334",
+    "category": "breads"
+  },
+  {
+    "name": "Delyco Prunes Kueh Lapis",
+    "price": "$5.85",
+    "brand": "Brand:Delyco",
+    "weight": "350 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90030174_XL1_20250526104026_6c5b34e4da6ce9afb69e43cdf45c82b3.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/delyco-prunes-kueh-lapis-350-g-90030174",
+    "category": "breads"
+  },
+  {
+    "name": "DEEP Aloo Paratha",
+    "price": "$4.75",
+    "brand": "Brand:DEEP",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90033245_XL1_20250517142217_376e5bf61f20ec0f8df5f2d74733229f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/deep-aloo-paratha-1-pc-90033245",
+    "category": "breads"
+  },
+  {
+    "name": "Delyco Vegetarian Mung Bean Cake - Bundle of 2",
+    "price": "$3.80",
+    "brand": "Brand:Delyco",
+    "weight": "2 x 150 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90030177_XL1_20250527091257_89e6e958f3dc997f052fa14a0548c77d.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/delyco-vege-mung-bean-cake-bundle-of-2-2-x-150g-90030177",
+    "category": "breads"
+  },
+  {
+    "name": "Niks Gobi Paratha (4S) 400G -- By Dashmesh",
+    "price": "$3.22",
+    "brand": "Brand:Niks",
+    "weight": "400 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90063396_XL1_20250529082732_a98c753d1f7bd5be0ea4cc96f760a274.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/niks-gobi-paratha-4s-400g-by-dashmesh-400-g-90063396",
+    "category": "breads"
+  },
+  {
+    "name": "Oriental Layer Cake Chocolate Flavour",
+    "price": "$1.61",
+    "brand": "Brand:Oriental",
+    "weight": "128 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90047637_XL1_20250521151329_126f49920bfd7294423bf82573e1ea8f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/oriental-layer-cake-chocolate-flavour-128-g-90047637",
+    "category": "breads"
+  },
+  {
+    "name": "Su Ji Su Ji Sun Cake 315 G",
+    "price": "$8.04",
+    "brand": "Brand:Su Ji",
+    "weight": "315 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90076244_XL1_20250525162722_4446ebb4e7d4118006f2ce3da9549783.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/su-ji-su-ji-sun-cake-315-g-315-g-90076244",
+    "category": "breads"
+  },
+  {
+    "name": "Bamboo House Cake - Peach",
+    "price": "$5.90",
+    "brand": "Brand:Bamboo House",
+    "weight": "150 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90012080_XL1_20250525135724_82a6351629f93c4977e5bcdfa4ecc5d1.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/bamboo-house-cake-peach-150g-90012080",
+    "category": "breads"
+  },
+  {
+    "name": "PAPAJI'S Roti Chapati",
+    "price": "$3.25",
+    "brand": "Brand:PAPAJI'S",
+    "weight": "10 x 40 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90033223_XL1_20250522164225_90e3f494609b833e02e93e4939bbdec3.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/papaji-s-chapati-1-pc-90033223",
+    "category": "breads"
+  },
+  {
+    "name": "Niks Plain Paratha (5S) 400G -- By Dashmesh",
+    "price": "$3.22",
+    "brand": "Brand:Niks",
+    "weight": "400 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90062484_XL1_20250527103732_6ae02f26affc7c6250f15282023f9d18.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/niks-plain-paratha-5s-400g-by-dashmesh-400-g-90062484",
+    "category": "breads"
+  },
+  {
+    "name": "Niks Chapati (10S) 400G -- By Dashmesh",
+    "price": "$3.16",
+    "brand": "Brand:Niks",
+    "weight": "400 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90062477_XL1_20250530180326_56507eca8e6d36ec5dc5fea0897de68f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/niks-chapati-10s-400g-by-dashmesh-400-g-90062477",
+    "category": "breads"
+  },
+  {
+    "name": "Ramly Cheesecake - Lemon",
+    "price": "$3.00",
+    "brand": "Brand:Ramly",
+    "weight": "60 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90062985_XL1_20250530110614_5a139a04f69cd5bfdcbbd0efdaf7a69a.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/ramly-cheesecake-lemon-60-g-90062985",
+    "category": "breads"
+  },
+  {
+    "name": "DEEP WHOLE WHEAT NAAN",
+    "price": "$5.00",
+    "brand": "Brand:DEEP",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90033243_XL1_20250516080715_fa2487884e6963737bd004a87205af4b.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/deep-whole-wheat-naan-1-pc-90033243",
+    "category": "breads"
+  },
+  {
+    "name": "BOURBON Baum Roll Chocolate Cake",
+    "price": "$4.23",
+    "brand": "Brand:Bourbon",
+    "weight": "105 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90064671_XL1_20250521181728_04e8b619d3aa1af6093f5a03aa715a38.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/bourbon-bourbon-baum-roll-chocolate-cake-105-g-90064671",
+    "category": "breads"
+  },
+  {
+    "name": "DEEP TANDOORI ROTI",
+    "price": "$4.20",
+    "brand": "Brand:DEEP",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90033241_XL1_20250526001727_f91eef96c9339a1f98e60017a1d5cb78.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/deep-tandoori-roti-1-pc-90033241",
+    "category": "breads"
+  },
+  {
+    "name": "PAPAJI'S Aloo Paratha",
+    "price": "$3.50",
+    "brand": "Brand:PAPAJI'S",
+    "weight": "4 x 100 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90033232_XL1_20250525004222_9c993a89f0a6bf06aedb7b7f1d3bf959.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/papaji-s-aloo-paratha-1-pc-90033232",
+    "category": "breads"
+  },
+  {
+    "name": "Niks Onion Malabar Paratha (4S) 400 G -- By Dashmesh",
+    "price": "$3.18",
+    "brand": "Brand:Niks",
+    "weight": "400 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90063398_XL1_20250528214226_da0dd7bb61f6f16ebbb64bc76e693588.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/niks-onion-malabar-paratha-4s-400-g-by-dashmesh-400-g-90063398",
+    "category": "breads"
+  },
+  {
+    "name": "Orion - Double Chocolate",
+    "price": "$2.60",
+    "brand": "Brand:Orion",
+    "weight": "180 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90207632_XL1_20250523151718_968adf5f2dd00293af810860ceb29b6f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/orion---double-chocolate",
+    "category": "breads"
+  },
+  {
+    "name": "Schar Gluten Free - Pizza Base",
+    "price": "$14.25",
+    "brand": "Brand:Schar",
+    "weight": "150 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90023890_XL1_20250526105831_415eac16d1ed56378bd5a891b99b44f9.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/schar-pizza-base-gluten-free-2-x-150g-90023890",
+    "category": "breads"
+  },
+  {
+    "name": "Schar Gluten Free - Bon Choc buns with choco chips",
+    "price": "$11.20",
+    "brand": "Brand:Schar",
+    "weight": "220 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90173309_XL1_20250530024726_082c538f8e4696eaa2a352160eb06d95.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/schar-bon-choc-buns-with-choco-chips-gluten-free-220-g-90173309",
+    "category": "breads"
+  },
+  {
+    "name": "Britannia Gobbles Fruit Cake 250g",
+    "price": "$5.95",
+    "brand": "Brand:Britannia",
+    "weight": "275 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90120434_XL1_20250530151859_9c20352ab3600bcfd13f4f7af35986c4.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/britannia-gobbles-fruit-cake-250g-1-x-275g-90120434",
+    "category": "breads"
+  },
+  {
+    "name": "PAPAJI'S Methi Paratha",
+    "price": "$3.50",
+    "brand": "Brand:PAPAJI'S",
+    "weight": "5 x 80 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90033233_XL1_20250525150717_5a2021fb3123eb57da10cdb8dac37ec1.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/papaji-s-methi-paratha-1-pc-90033233",
+    "category": "breads"
+  },
+  {
+    "name": "Niks Methi Thepla",
+    "price": "$3.22",
+    "brand": "Brand:Niks",
+    "weight": "400 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90063397_XL1_20250526161717_6dcd2c2d736a795888943831329bd97e.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/niks-methi-thepla-400-g-90063397",
+    "category": "breads"
+  },
+  {
+    "name": "Oriental Layer Cake Strawberry Flavour",
+    "price": "$1.61",
+    "brand": "Brand:Oriental",
+    "weight": "128 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90047639_XL1_20250526185326_ee6d28dba5d2baa3e0591aaedc69a4ce.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/oriental-layer-cake-strawberry-flavour-128-g-90047639",
+    "category": "breads"
+  },
+  {
+    "name": "Maruyo Dorayaki Pan Cake(Matcha)",
+    "price": "$7.05",
+    "brand": "Brand:MARUYO",
+    "weight": "150 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90086537_XL1_20250520230221_20c9e66a67f68ac1a32075b00caab4b6.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/maruyo-dorayaki-pan-cake-matcha-150-g-90086537",
+    "category": "breads"
+  },
+  {
+    "name": "Plumpys Pineapple Cake",
+    "price": "$7.02",
+    "brand": "Brand:Plumpys",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90010509_XL1_20250526133849_2c70c4925c4559b1540744a4db26ee5c.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/plumpys-pineapple-cake-250g-90010509",
+    "category": "breads"
+  },
+  {
+    "name": "Fairy Port Premium Durian Cheese Pizza",
+    "price": "$6.99",
+    "brand": "Brand:Fairy Port",
+    "weight": "130 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90132374_XL1_20250529190748_0ce95ba8e126538ab20e09889395b67f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairy-port-musang-king-durian-pizza-130-g-90132374",
+    "category": "breads"
+  },
+  {
+    "name": "Britannia Gobbles Vanilla Cake",
+    "price": "$4.95",
+    "brand": "Brand:Britannia",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90120433_XL1_20250530151912_61cda274177c4c251c134c0826b1105f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/britannia-gobbles-vanilla-cake-1-x-250g-90120433",
+    "category": "breads"
+  },
+  {
+    "name": "Cocoaland Chocolate Pie (Dark Chocolate)",
+    "price": "$4.55",
+    "brand": "Brand:COCOALAND",
+    "weight": "25 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90022093_XL1_20250526102854_f64b9454f96290cdb8c8d488043f88a2.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/cocoaland-chocolate-pie-dark-chocolate-12-x-25g-90022093",
+    "category": "breads"
+  },
+  {
+    "name": "Niks Paneer Paratha 400G -- By Dashmesh",
+    "price": "$3.68",
+    "brand": "Brand:Niks",
+    "weight": "400 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90062483_XL1_20250529082734_4ccc627ed6ccc163251b579a9ac5510a.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/niks-paneer-paratha-400g-by-dashmesh-400-g-90062483",
+    "category": "breads"
+  },
+  {
+    "name": "Izumiya Nagasaki Castella Brown Sugar Cake (10cuts)",
+    "price": "$13.02",
+    "brand": "Brand:Izumiya",
+    "weight": "270 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90064124_XL1_20250530081236_fe0bfa12298ba3c72827770e9bd3b951.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/izumiya-nagasaki-castella-brown-sugar-cake-10cuts-270-g-90064124",
+    "category": "breads"
+  },
+  {
+    "name": "Bamboo House Bubble Milk Tea Pineapple Cake",
+    "price": "$8.00",
+    "brand": "Brand:Bamboo House",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90023948_XL1_20250530081229_b1eefec8c267b3491c3e81e4a3e3f792.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/bamboo-house-bubble-milk-tea-pineapple-cake-250-g-90023948",
+    "category": "breads"
+  },
+  {
+    "name": "Maruyo Dorayaki Pan Cake(Azuki)",
+    "price": "$7.05",
+    "brand": "Brand:MARUYO",
+    "weight": "150 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90086538_XL1_20250525215727_f04de7ef99cb4f9893265ff5a277f229.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/maruyo-dorayaki-pan-cake-azuki-150-g-90086538",
+    "category": "breads"
+  },
+  {
+    "name": "DEEP Reshmi Naan-Super soft",
+    "price": "$7.00",
+    "brand": "Brand:DEEP",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90136865_XL1_20250530024725_c369a77d56c423a399504739a5e3ce7f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/deep-reshmi-naan-super-soft-1-pc-90136865",
+    "category": "breads"
+  },
+  {
+    "name": "DEEP Roghni Naan-Super soft",
+    "price": "$6.50",
+    "brand": "Brand:DEEP",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90136866_XL1_20250503190618_961defccc1605f189ecf4af702d555bd.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/deep-roghni-naan-super-soft-1-pc-90136866",
+    "category": "breads"
+  },
+  {
+    "name": "Mekong River Brown rice rice paper (Banh trang gao lut) 22cm",
+    "price": "$5.90",
+    "brand": "Brand:Mekong River",
+    "weight": "300 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90147364_XL1_20250525000324_d8ee2c25b29c1f743f48db621875456b.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/mekong-river-brown-rice-rice-paper-banh-trang-gao-lut-22cm-300-g-90147364",
+    "category": "breads"
+  },
+  {
+    "name": "PAPAJI'S Garlic Butter Naan",
+    "price": "$5.60",
+    "brand": "Brand:PAPAJI'S",
+    "weight": "4 x 80 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90033236_XL1_20250507085719_0f3154223ed1eebbccc5536a7b138525.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/papaji-s-garlic-butter-naan-1-pc-90033236",
+    "category": "breads"
+  },
+  {
+    "name": "Haldirams - Coconut Soan Papdi",
+    "price": "$4.90",
+    "brand": "Brand:Haldiram'S",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90003580_XL1_20250530151859_ce9b7cf2bc1a82074d96d99c1d1da7e0.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/haldirams-coconut-soan-papdi-250g-90003580",
+    "category": "breads"
+  },
+  {
+    "name": "Anand Soan Papdi",
+    "price": "$3.90",
+    "brand": "Brand:Anand",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90177217_XL1_20250526212730_30f432c14c9bc6dde0a2f7dd3484b7a5.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/anand-soan-papdi-250-g-90177217",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Cuddly Surprise For Birthday",
+    "price": "$155.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193851_XL1_20250508062720_20dad0f55d830fe3b3ea9da2a9243461.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-cuddly-surprise-for-birthday",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Beautiful Red Rose Bouquet With Mini Mousse Cake",
+    "price": "$89.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90196311_XL1_20250507002729_18ca9c4274c554f4b022f54a6826e881.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-beautiful-red-rose-bouquet-with-mini-mousse-cake",
+    "category": "breads"
+  },
+  {
+    "name": "Yobake Burnt Cheesecake (Frozen)",
+    "price": "$24.00",
+    "brand": "Brand:YoBake",
+    "weight": "6 IN",
+    "image_url": "https://media.nedigital.sg/fairprice/90055023_XL1_20250525184225_95d99246a1ed37dec8ce49071fd02639.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/yobake-burnt-cheesecake-frozen-6-in-90055023",
+    "category": "breads"
+  },
+  {
+    "name": "Lotte Choco Pie Party Pack (9pcs)",
+    "price": "$12.90",
+    "brand": "Brand:Lotte",
+    "weight": "374 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90053672_XL1_20250529181236_2ab73304557a43699b87b13750b5e97f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/lotte-choco-pie-party-pack-9pcs-374-g-90053672",
+    "category": "breads"
+  },
+  {
+    "name": "YoBake Signature Bakkwa Swiss Roll (Frozen)",
+    "price": "$12.00",
+    "brand": "Brand:YoBake",
+    "weight": "16 CM",
+    "image_url": "https://media.nedigital.sg/fairprice/90045293_XL1_20250523081222_bbb2b8432cf5fb15d309ccf637203542.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/yobake-signature-bakkwa-swiss-roll-frozen-16-cm-90045293",
+    "category": "breads"
+  },
+  {
+    "name": "Bamboo House Taiwan Four Treasures",
+    "price": "$6.90",
+    "brand": "Brand:Bamboo House",
+    "weight": "1 PC",
+    "image_url": "https://media.nedigital.sg/fairprice/90021535_XL1_20250527092218_e040fe8689ba21bdf4e3389329a8162c.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/bamboo-house-taiwan-four-treasures-1-pc-90021535",
+    "category": "breads"
+  },
+  {
+    "name": "DEEP Kati Roll Achaari Aloo-Whole wheat Paratha",
+    "price": "$6.00",
+    "brand": "Brand:DEEP",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90136849_XL1_20250516124315_125e3e8879a53c629eb919f2fe585f2a.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/deep-kati-roll-achaari-aloo-whole-wheat-paratha-1-pc-90136849",
+    "category": "breads"
+  },
+  {
+    "name": "PAPAJI'S Khaman Dhokla",
+    "price": "$5.85",
+    "brand": "Brand:PAPAJI'S",
+    "weight": "284 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90033238_XL1_20250326110818_7e6bbae050dae5efb36ff6973cb4234b.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/papaji-s-khaman-dhokla-1-pc-90033238",
+    "category": "breads"
+  },
+  {
+    "name": "Britannia Gobbles Fruit Cake",
+    "price": "$4.95",
+    "brand": "Brand:Britannia",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90139788_XL1_20250530151916_9fc4670f6f0be3a4dd3171f3d8f65266.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/britannia-gobbles-fruit-cake-1-x-250g-90139788",
+    "category": "breads"
+  },
+  {
+    "name": "GRB - Ghee Bombay Halwa",
+    "price": "$3.50",
+    "brand": "Brand:Golden Rice Box",
+    "weight": "200 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90003525_XL1_20250523062726_ea13e637aeba2cb42671b546f6d1c163.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/grb-ghee-bombay-halwa-250g-90003525",
+    "category": "breads"
+  },
+  {
+    "name": "Niks Mixed Veg Paratha (4S) 400G -- By Dashmesh",
+    "price": "$3.18",
+    "brand": "Brand:Niks",
+    "weight": "400 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90062480_XL1_20250529082735_905d06a4802620abe22d8d76016c6a22.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/niks-mixed-veg-paratha-4s-400g-by-dashmesh-400-g-90062480",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Anniversary Wishes with Tulips and Cake",
+    "price": "$188.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193880_XL1_20250408000219_3a4b89348f7394198dd75f435ea1e88d.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-anniversary-wishes-with-tulips-and-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Iris Flower Bouquet and Birthday Chocolate Cake",
+    "price": "$180.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90196340_XL1_20250408000216_1d68db756346cd52eb6b97a305b23ea2.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-iris-flower-bouquet-and-birthday-chocolate-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Daffodils N Tulip Pot with Cake",
+    "price": "$148.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90196320_XL1_20250408000218_9fd393cb6fe3f840b0631d5cf5ccb1d2.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-daffodils-n-tulip-pot-with-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Summery Sunflower Bouquet Combo",
+    "price": "$148.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193872_XL1_20250408000242_14ff7d06708f57ce5e2950e3ac75419f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-summery-sunflower-bouquet-combo",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Mocha Cake and Peach Rose Bouquet",
+    "price": "$145.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90196341_XL1_20250408000226_5c901e47a7a3efbc291ddcb69514721f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-mocha-cake-and-peach-rose-bouquet",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Birthday Wish Carnation Bouquet And Cake",
+    "price": "$139.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90196330_XL1_20250408000218_38fb90ce6d9546e16554c5650dda7045.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-birthday-wish-carnation-bouquet-and-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Happy Anniversary Gift Arrangement",
+    "price": "$138.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193829_XL1_20250408000221_e0344fa918e68b576f2ba2885b0e9946.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-happy-anniversary-gift-arrangement",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Beautiful Mixed Flowers Bouquet & Red Velvet Cake",
+    "price": "$136.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193896_XL1_20250408000245_2235c2c341ff80c195d6ab149872cda1.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-beautiful-mixed-flowers-bouquet-and-red-velvet-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Daffodils & Tulips Birthday Flower Bouquet with Cake",
+    "price": "$128.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90196325_XL1_20250408000227_1c964dd8895c4787986e0e970439cb11.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-daffodils-and-tulips-birthday-flower-bouquet-with-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Minimalist Tiara Cake",
+    "price": "$121.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193892_XL1_20250408000248_cd59af08bfc8e63b000deb0afc424c53.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-minimalist-tiara-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Black and White Chocolate and Biscuit Cake",
+    "price": "$121.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193891_XL1_20250408000248_712872de2d3b0711c8e9f069d1f9e6f8.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-black-and-white-chocolate-and-biscuit-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Ombre Pink Baby Breath Cake",
+    "price": "$121.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193866_XL1_20250408000248_bac8ee6262356429a4c00a2655f9a7db.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-ombre-pink-baby-breath-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Grey and White Macarons Cake",
+    "price": "$121.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193870_XL1_20250408000218_d085b0427411809e3824fc59bf6a7aad.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-grey-and-white-macarons-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Scrumptious Red Velvet Cake for Mom",
+    "price": "$119.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90196309_XL1_20250408000216_857dc659c825054b4d726f40fa3d8fb8.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-scrumptious-red-velvet-cake-for-mom",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Forever Red Rose & Floral Heart Chocolate Cake",
+    "price": "$111.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90196314_XL1_20250408000227_5f08eb5ed433a56c9cee24a3d4e7f68c.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-forever-red-rose-and-floral-heart-chocolate-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Xmas Berilious Log Cake",
+    "price": "$108.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90206182_XL1_20250408000247_dbe17a58663115e6476b799c5f5598bd.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-xmas-berilious-log-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Xmas Choco CoCo Log Cake",
+    "price": "$108.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90206180_XL1_20250408000246_1384f33269ca2cfa7bd5ccfa9162a412.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-xmas-choco-coco-log-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Xmas Milky Raspberry Earl Grey Choc Cake",
+    "price": "$99.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90206181_XL1_20250408000246_d0619d5b322a4ef1eb8308dac5c06f7f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-xmas-milky-raspberry-earl-grey-choc-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Pink Roses With Rocher With Mini Mousse Cake",
+    "price": "$99.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90196335_XL1_20250408000227_541ab32d99775822c69ae9658c5d5fd7.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-pink-roses-with-rocher-with-mini-mousse-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Chocolate Truffle Cream Cake",
+    "price": "$87.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193798_XL1_20250408000219_6d4fd89d1073e04a66ea8b4e72e879c0.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-chocolate-truffle-cream-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Xmas Mango Tango Log Cake",
+    "price": "$85.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90206190_XL1_20250408000247_dfdde5725992c1090ff7008a28a913da.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-xmas-mango-tango-log-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Hazelnut Praline Cake",
+    "price": "$76.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193893_XL1_20250408000242_ecf09e427e386d32359f41eff82fb17e.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-hazelnut-praline-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Chocolate and Vanilla Choco Chip Cake For Birthday",
+    "price": "$73.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193856_XL1_20250408000219_7a0a2c6806e8de5de25509cc99e50d1e.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-chocolate-and-vanilla-choco-chip-cake-for-birthday",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Gorgeous Arrangement With Sliced Cake",
+    "price": "$70.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193873_XL1_20250408000244_ae9a0bcfdf4ace03f034911a8572da7c.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-gorgeous-arrangement-with-sliced-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Scrumptious Red Velvet Cake",
+    "price": "$70.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193894_XL1_20250408000242_1895b89c2032abaf5743dcea77370d4f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-scrumptious-red-velvet-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Assorted Cake Slices - 8 Pcs",
+    "price": "$70.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193857_XL1_20250408000219_19951827d5f46a5543a9715761898ef3.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-assorted-cake-slices---8-pcs",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Rich Chocolate Cake",
+    "price": "$67.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193898_XL1_20250408000245_4f256876f91cd3a9122a7610eaf3737d.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-rich-chocolate-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Black Forest Cake",
+    "price": "$67.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193890_XL1_20250408000248_7b8175a8cb39a7c2af1a52db3a0eb973.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-black-forest-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Yummy Kit Kat & Orio Dripping Cake",
+    "price": "$67.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193854_XL1_20250408000219_f3ed2654c8f8ab187f4f8f28cca64445.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-yummy-kit-kat-and-orio-dripping-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Mangolicious Cake",
+    "price": "$67.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193864_XL1_20250408000221_d277fb9bc7cf3ab37165a97418ef5ca4.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-mangolicious-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Classic New York Cheese Cake",
+    "price": "$67.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193863_XL1_20250408000220_59f4d826ef774921fe915d4a3bcd4f1e.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-classic-new-york-cheese-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Chocolate Ganache Cake",
+    "price": "$65.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193962_XL1_20250408000234_dd015fb58684b9305bf183eae75f5b89.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-chocolate-ganache-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Yummy Oreo Cheese Cake",
+    "price": "$64.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193895_XL1_20250408000244_a86b021fd3ab21c0862d1b905f2a3215.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-yummy-oreo-cheese-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Blueberry Cheese Cake",
+    "price": "$64.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193839_XL1_20250408000219_19f1722a63acc384aabf750b6c5901f6.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-blueberry-cheese-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Yummu Fruit Cake",
+    "price": "$62.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193881_XL1_20250408000248_8034372dd8424cbff7244a4e2ddb1989.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-yummu-fruit-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Birthday Special Chocolate Cake",
+    "price": "$56.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193828_XL1_20250408000220_8ad6f34983b367e9546006ce3c74101a.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-birthday-special-chocolate-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Creamy Burnt Cheese Cake",
+    "price": "$55.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193871_XL1_20250408000247_0c879dcdb5d356b8e33098f92e420c47.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-creamy-burnt-cheese-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Yummilicious Chocolate Banana Cake",
+    "price": "$55.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193855_XL1_20250408000219_83033f07a073f200db3f7e097333e366.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-yummilicious-chocolate-banana-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Delightful Chocolate Macaron Cake",
+    "price": "$51.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193867_XL1_20250408000249_b445251e2d97d57ce7b36d52b9fb1b42.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-delightful-chocolate-macaron-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Ondeh Ondeh Chocolate Cake",
+    "price": "$51.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193859_XL1_20250408000245_7eb9a21c7038bb2a0e3b730398720f06.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-ondeh-ondeh-chocolate-cake",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Floral Heart Chocolate Cake for Mom",
+    "price": "$50.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90196346_XL1_20250408000224_1a7406fc3acc6fb1f596e7491dde3d93.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-floral-heart-chocolate-cake-for-mom",
+    "category": "breads"
+  },
+  {
+    "name": "FNP Floral Heart Chocolate Cake",
+    "price": "$50.00",
+    "brand": "Brand:Ferns n Petals",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90193852_XL1_20250408000221_183ed7fbeaf6ed1eb755a9fe1acfadf6.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fnp-floral-heart-chocolate-cake",
+    "category": "breads"
+  },
+  {
+    "name": "Kirei Hokkaido Cheese Cake - Brulee",
+    "price": "$21.80",
+    "brand": "Brand:Kirei",
+    "weight": "270 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90012379_XL1_20250516180432_83b0df771bc9855ea44f3e958f8878b7.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/kirei-hokkaido-brulee-cheese-cake-frozen-270g-90012379",
+    "category": "breads"
+  },
+  {
+    "name": "Kirei Hokkaido Cheese Cake - New Yoke",
+    "price": "$21.80",
+    "brand": "Brand:Kirei",
+    "weight": "240 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90012378_XL1_20250516180430_3c62adc5ec9cbccfd33d1e71dee4dfd0.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/kirei-hokkaido-new-york-cheese-cake-frozen-240g-90012378",
+    "category": "breads"
+  },
+  {
+    "name": "Mizunotokei Coffee Yo-Kan Traditional Red Bean Cake Dessert",
+    "price": "$19.80",
+    "brand": "Brand:MIZUNOTOKEI",
+    "weight": "200 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90012357_XL1_20250516180339_44dee0026e4d7446e6eeea7023e829f4.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/mizunotokei-coffee-yo-kan-traditional-red-bean-cake-dessert-200g-90012357",
+    "category": "breads"
+  },
+  {
+    "name": "Marabissi Panforte for Cheese Fig & Walnut",
+    "price": "$15.00",
+    "brand": "Brand:Marabissi",
+    "weight": "200 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90211436_XL1_20250123111608_c123448c8fc45351147302159de63593.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/marabissi-panforte-for-cheese-fig-and-walnut",
+    "category": "breads"
+  },
+  {
+    "name": "Natural Mini Bullion Pastry Tart Shell Tray-16pcs(48x26x16mm)",
+    "price": "$14.90",
+    "brand": "Brand:Valley Fields",
+    "weight": "103 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90203619_XL1_20250305110715_1ba9caedf292ed72dc291b7a80eb0261.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/natural-mini-bullion-pastry-tart-shell-48mmx26mmx16mm",
+    "category": "breads"
+  },
+  {
+    "name": "Natural Mini Flower Pastry Tart Shell Box- 16 pcs(42mmx17mm)",
+    "price": "$13.90",
+    "brand": "Brand:Valley Fields",
+    "weight": "153 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90203604_XL1_20250310215231_ab5230bcb53846ef2cb1b727995fcdb4.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/natural-mini-flower-pastry-tart-42mmx17mm",
+    "category": "breads"
+  },
+  {
+    "name": "Big Sweet Square Pastry Tart Shell Tray - 12 pcs (70x70x16mm)",
+    "price": "$13.90",
+    "brand": "Brand:Valley Fields",
+    "weight": "370 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90203620_XL1_20250225184221_57e04b25963e2747f118c492628e1d04.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sweet-square-pastry-tart-shell-70mmx70mmx16mm",
+    "category": "breads"
+  },
+  {
+    "name": "Natural (Big) Round Pastry Tart Shell Tray - 6 pcs (70x15mm)",
+    "price": "$12.90",
+    "brand": "Brand:Valley Fields",
+    "weight": "98 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90203602_XL1_20250213204723_1a4e190e71257996481ca68d51f5a264.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/natural-round-pastry-tart-shell-70mmx15mm",
+    "category": "breads"
+  },
+  {
+    "name": "Natural Scallop Shell Pastry Tart Shell Tray - 6pcs (78x23mm)",
+    "price": "$11.90",
+    "brand": "Brand:Valley Fields",
+    "weight": "98 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90203618_XL1_20250123095949_7d4be065ab5dac03cc4d42eb894d399a.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/natural-scallop-shell-pastry-tart-shell-78mmx23mm",
+    "category": "breads"
+  },
+  {
+    "name": "Natural Mini Round Pastry Tart Shell Box -12 pcs (40mmx16mm)",
+    "price": "$11.90",
+    "brand": "Brand:Valley Fields",
+    "weight": "98 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90203621_XL1_20250320161759_1a375b5124a39be105608c3547ba16fe.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/natural-mini-round-pastry-tart-shell-40mmx16mm",
+    "category": "breads"
+  },
+  {
+    "name": "Sweet Mini Square Pastry Tart Shell Box -12 pcs (33x33xx16mm)",
+    "price": "$11.90",
+    "brand": "Brand:Valley Fields",
+    "weight": "114 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90203588_XL1_20250123095950_317ef93376a2d292a772540ef8c68bde.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sweet-mini-square-pastry-tart-shell-33mmx33mmx16mm",
+    "category": "breads"
+  },
+  {
+    "name": "Diablo Sugar Free Muffins - Chocolate",
+    "price": "$9.95",
+    "brand": "Brand:Diablo",
+    "weight": "270 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90177266_XL1_20250525215228_56b09faa63a6f399c7669b4328d8c996.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/diablo-sugar-free-chocolate-muffins-6-x-45g-270-g-90177266",
+    "category": "breads"
+  },
+  {
+    "name": "Food Yo Yobake Vit.C Swiss Roll (Frozen)",
+    "price": "$9.00",
+    "brand": "Brand:Food Yo",
+    "weight": "350 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90103298_XL1_20250523081218_c60186a42672ceab06ad316288322293.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/food-yo-yobake-vit-c-swiss-roll-frozen-350-g-90103298",
+    "category": "breads"
+  },
+  {
+    "name": "Fairy Port Premium Durian Chocolate Swiss Roll",
+    "price": "$8.99",
+    "brand": "Brand:Fairy Port",
+    "weight": "200 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90132379_XL1_20250516204740_0f3ed68a9d050f7fa1e39dad81478f88.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairy-port-chocolate-durian-swiss-roll-200-g-90132379",
+    "category": "breads"
+  },
+  {
+    "name": "Sweet Thimble Pastry Tart Shell Box - 8 pcs (28mm)",
+    "price": "$8.90",
+    "brand": "Brand:Valley Fields",
+    "weight": "80 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90203603_XL1_20250123095950_027e9e37de85bcfdc6bf0211a816022f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sweet-thimble-pastry-tart-shell-28mm",
+    "category": "breads"
+  },
+  {
+    "name": "Fairy Port Premium Durian Vanilla Swiss Roll",
+    "price": "$8.69",
+    "brand": "Brand:Fairy Port",
+    "weight": "200 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90132377_XL1_20250526111232_4f4b68c4dd95fad0b2294769e2ebd5df.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/fairy-port-vanilla-durian-swiss-roll-200-g-90132377",
+    "category": "breads"
+  },
+  {
+    "name": "Orion Chocopie - Watermelon",
+    "price": "$6.97",
+    "brand": "Brand:Orion",
+    "weight": "336g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13242582_XL1_20240226.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/o-chocopie-w-meln336-13242582",
+    "category": "breads"
+  },
+  {
+    "name": "Pasticceria Fraccaro Mini Classic Panettone",
+    "price": "$6.90",
+    "brand": "Brand:Pasticceria Fraccaro",
+    "weight": "100 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90183163_XL1_20250317153942_e4c130f4e527456ceabd0a4e4ccf7954.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/pasticceria-fraccaro-mini-classic-panettone",
+    "category": "breads"
+  },
+  {
+    "name": "DEEP METHI PARATHA",
+    "price": "$4.60",
+    "brand": "Brand:DEEP",
+    "weight": "1 S",
+    "image_url": "https://media.nedigital.sg/fairprice/90033240_XL1_20250423103318_f142eb2e6d6fef8a83467d5738d96dc4.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/deep-methi-paratha-1-pc-90033240",
+    "category": "breads"
+  },
+  {
+    "name": "Anand Bombay Halwa",
+    "price": "$3.50",
+    "brand": "Brand:Anand",
+    "weight": "250 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90177249_XL1_20250518165224_710cd2b078e85cba75ddaa60afcf3395.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/anand-bombay-halwa-250-g-90177249",
+    "category": "breads"
+  },
+  {
+    "name": "Marks & Spencer Hand Decorated Chocolate Yule Log",
+    "price": "$19.90",
+    "brand": "Brand:Marks & Spencer",
+    "weight": "495 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90154068_XL1_20241025152411_66245ab837b4c7b92cb19787ff99a43d.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/marks-spencer-hand-decorated-chocolate-yule-log-495-g-90154068",
+    "category": "breads"
+  },
+  {
+    "name": "Hong Kong Mei Xin Snowy Twin Pack Musang King Durian",
+    "price": "$18.00",
+    "brand": "Brand:Hong Kong Mei Xin",
+    "weight": "2 x 60 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90029335_XL1_20241127143915_f7ab20983027a47f24a99bc3abdfe721.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/hong-kong-mei-xin-snowy-twin-pack-musang-king-durian-2-x-60g-90029335",
+    "category": "breads"
+  },
+  {
+    "name": "Hong Kong Mei Xin Snowy Mini 4 Musang King D24 Durian",
+    "price": "$17.80",
+    "brand": "Brand:Hong Kong Mei Xin",
+    "weight": "4 x 30 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90029333_XL1_20241127143915_bb4053473508299f5575f9cdd8d550b1.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/hong-kong-mei-xin-snowy-mini-4-musang-king-d24-durian-4-x-30g-90029333",
+    "category": "breads"
+  },
+  {
+    "name": "Walkers Rich Fruit Pudding",
+    "price": "$14.65",
+    "brand": "Brand:Walkers",
+    "weight": "200g",
+    "image_url": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13258583_XL1_20241212.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/walkers-rich-fruit-pudding-200g-13258583",
+    "category": "breads"
+  },
+  {
+    "name": "Hong Kong Mei Xin Snowy Mini 4 Cha Cha Tang",
+    "price": "$14.20",
+    "brand": "Brand:Hong Kong Mei Xin",
+    "weight": "4 x 30 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90029334_XL1_20241127143915_0200ccd0a5191c786c007902269ce5f8.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/hong-kong-mei-xin-snowy-mini-4-cha-cha-tang-4-x-30g-90029334",
+    "category": "breads"
+  },
+  {
+    "name": "Haldiram's Kaju Katli - Fresh Sweet -Shivsagar Trading Pte Lt",
+    "price": "$12.80",
+    "brand": "Brand:Haldiram'S",
+    "weight": "400 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90108180_XL1_20240621223200_e04fa9eff849a905cf8d7df4329323ab.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/haldiram-s-kaju-katli-fresh-sweet-shivsagar-trading-pte-lt-1-x-400g-90108180",
+    "category": "breads"
+  },
+  {
+    "name": "Hong Kong Mei Xin Snowy Twin Pack Sesame with Macadamia Nuts",
+    "price": "$12.80",
+    "brand": "Brand:Hong Kong Mei Xin",
+    "weight": "2 x 60 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90029344_XL1_20241127143915_98ea3ab1b5fb7b74a732aa336d67926f.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/hong-kong-mei-xin-snowy-twin-pack-sesame-with-macadamia-nuts-2-x-60g-90029344",
+    "category": "breads"
+  },
+  {
+    "name": "Hong Kong Mei Xin Snowy Twin Pack Double Chocolate",
+    "price": "$12.80",
+    "brand": "Brand:Hong Kong Mei Xin",
+    "weight": "2 x 60 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90029336_XL1_20241127143915_5564bb3f0c24fd04c8b72ae470ed13bb.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/hong-kong-mei-xin-snowy-twin-pack-double-chocolate-2-x-60g-90029336",
+    "category": "breads"
+  },
+  {
+    "name": "Ener-G Brown Rice Light Bread",
+    "price": "$11.91",
+    "brand": "Brand:Ener G",
+    "weight": "226.8 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90007134_XL1_20240708153115_958d1793976172fb1692b9cc56cd68d0.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/ener-g-brown-rice-light-bread-226-8-g-90007134",
+    "category": "breads"
+  },
+  {
+    "name": "Ener-G Tapioca Hotdog Bun Gluten Free",
+    "price": "$10.39",
+    "brand": "Brand:Ener G",
+    "weight": "219.9 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90007132_XL1_20250328153650_3a53e76b521093070f355064fe379c7d.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/ener-g-tapioca-hotdog-bun-gluten-free-219-9-g-90007132",
+    "category": "breads"
+  },
+  {
+    "name": "Gran Luchito Mexican Hard Taco Shells",
+    "price": "$6.96",
+    "brand": "Brand:Gran Luchito",
+    "weight": "170 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90054601_XL1_20240705133153_262e60e862692574aeac79b2c1cae90d.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/gran-luchito-mexican-hard-taco-shells-170-g-90054601",
+    "category": "breads"
+  },
+  {
+    "name": "YoloFoods. Carrot Cake with Cashew Frosting (1 Slice)",
+    "price": "$5.55",
+    "brand": "Brand:YOLOFoods.",
+    "weight": "100 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90039439_XL1_20240719143143_eef40846331d2ff305118d537b58822e.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/yolofoods-carrot-cake-with-cashew-frosting-1-slice-100-g-90039439",
+    "category": "breads"
+  },
+  {
+    "name": "YoloFoods Gluten Free Banana Bread (1 Slice) 90 G",
+    "price": "$4.94",
+    "brand": "Brand:Yolofoods",
+    "weight": "90 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90039433_XL1_20240727170155_86c16758a5a23edcc4b7dd5dda2d2883.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/yolofoods-gluten-free-banana-bread-1-slice-90-g-90-g-90039433",
+    "category": "breads"
+  },
+  {
+    "name": "PRAN Dry Cake Cake Rusk Pineapple Flavor",
+    "price": "$4.60",
+    "brand": "Brand:PRAN",
+    "weight": "350 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90011391_XL1_20240719162443_069b78f812a072e503c391c2f2979ef2.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/pran-dry-cake-cake-rusk-pineapple-flavor-350g-90011391",
+    "category": "breads"
+  },
+  {
+    "name": "PRAN Dry Cake Cake Rusk",
+    "price": "$4.60",
+    "brand": "Brand:PRAN",
+    "weight": "350 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90011384_XL1_20240719162511_cc6a53440c1fbadf2644202ce97dfcb7.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/pran-dry-cake-cake-rusk-350g-90011384",
+    "category": "breads"
+  },
+  {
+    "name": "Sumeru Malabar Paratha",
+    "price": "$2.92",
+    "brand": "Brand:Sumeru",
+    "weight": "300 G",
+    "image_url": "https://media.nedigital.sg/fairprice/90039734_XL1_20240825111233_47a460ade9ff1072c731ee59508c8346.jpg?w=400&q=70",
+    "product_url": "https://www.fairprice.com.sg//product/sumeru-malabar-paratha-300-g-90039734",
+    "category": "breads"
+  }
+],
