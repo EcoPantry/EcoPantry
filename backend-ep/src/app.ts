@@ -1,8 +1,10 @@
 import cors from 'cors';
 import dotenv from 'dotenv';
 import express from "express";
+import cookieParser from 'cookie-parser';
 
 import userRoutes from './routes/user.route';
+import authRouter from './routes/auth/index';
 
 dotenv.config();
 
@@ -33,6 +35,7 @@ app.use(cors({
 
 
 app.use(express.json());
+app.use(cookieParser());
 
 app.get('/', (req, res) => {
     res.status(200).json({
@@ -41,6 +44,7 @@ app.get('/', (req, res) => {
     });
 });
 
-app.use('/users', userRoutes);
+app.use('/api/users', userRoutes); 
+app.use('/api/auth', authRouter);
 
 export default app;
