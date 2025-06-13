@@ -1,10 +1,19 @@
 // src/components/layout/Sidebar.tsx
 import { Input } from "@/components/ui/input";
-import { ScrollArea } from "@/components/ui/scroll-area";
 import UserProfileCard from "./UserProfileCard";
 import IngredientInput from "./IngredientInput";
 import MobileNavBar from "./MobileNavBar";
 import { Link } from "@tanstack/react-router";
+import IngredientListSidebar from "./IngredientListSidebar";
+
+interface IngredientListProps {
+  ingredients: Ingredients[];
+}
+
+interface Ingredients {
+  name: string;
+  quantity: string;
+}
 
 const Sidebar = () => {
   return (
@@ -25,17 +34,7 @@ const Sidebar = () => {
           </div>
 
           {/* Scrollable Ingredient List */}
-          <ScrollArea className="h-[320px] pr-2 mb-4">
-            {Array.from({ length: 12 }).map((_, i) => (
-              <div
-                key={i}
-                className="flex justify-between py-1 border-b border-orange-300"
-              >
-                <span className="font-medium">Potato</span>
-                <span className="text-sm text-white/80">300g</span>
-              </div>
-            ))}
-          </ScrollArea>
+          <IngredientListSidebar ingredients={testItems} />
 
           {/* Enter Ingredients */}
           <Input placeholder="Enter ingredients" className="text-black" />
@@ -55,3 +54,16 @@ const Sidebar = () => {
   );
 }
 export default Sidebar;
+
+
+const testItems: Ingredients[] = [
+  { name: "Tomatoes", quantity: "2 kg" },
+  { name: "Onions", quantity: "1 kg" },
+  { name: "Garlic", quantity: "500 g" },
+  { name: "Rice", quantity: "5 kg" },
+  { name: "Pasta", quantity: "2 kg" },
+  { name: "Olive Oil", quantity: "1 L" },
+  { name: "Salt", quantity: "500 g" },
+  { name: "Pepper", quantity: "250 g" },
+];
+
