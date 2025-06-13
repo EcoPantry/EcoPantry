@@ -1,5 +1,5 @@
-import RecipeCard from "@/components/layout/RecipeCard";
-import RecipeSearchBar from "@/components/layout/RecipeSearchBar";
+import RecipeCard from "@/components/recipes/RecipeCard";
+import RecipeSearchBar from "@/components/recipes/RecipeSearchBar";
 import { Link } from "@tanstack/react-router";
 
 const recipes = [
