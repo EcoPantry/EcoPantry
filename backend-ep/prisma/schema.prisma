@@ -22,6 +22,8 @@ model User {
   verified  Boolean  @default(false)
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+
+  favourites FavouriteRecipe[]
 }
 
 model EmailVerificationCode {
@@ -35,3 +37,139 @@ model EmailVerificationCode {
   @@index([email])
 }
 
+
+// ==================== CUISINES / RECIPES ====================
+model Cuisine {
+  cid   Int               @id @default(autoincrement())
+  name  String
+  links CuisineBelongsTo[]
+}
+
+model CuisineBelongsTo {
+  cid Int
+  rid String
+
+  cuisine Cuisine @relation(fields: [cid], references: [cid])
+  recipe  Recipe  @relation(fields: [rid], references: [rid])
+
+  @@id([cid, rid])
+}
+
+model Recipe {
+  rid              String               @id @default(uuid())
+  title            String
+  sourceUrl        String
+  timeTakenTotal   Int
+  rating           Int
+  servingCount     Int
+  costPerServing   Int
+  timeOfDay        String
+  cid              Int
+  rsid             Int
+  createdAt        DateTime             @default(now())
+
+  source           RecipeSource         @relation(fields: [rsid], references: [rsid])
+  cuisineLinks     CuisineBelongsTo[]
+  stepsSections    StepsSection[]
+  includesSections IngredientsSection[]
+  tags             RecipeTags[]
+  images           RecipeImage[]
+  favourites       FavouriteRecipe[]
+}
+
+// ==================== TAGGING ====================
+model Tag {
+  tagId   Int           @id @default(autoincrement())
+  tagName String
+  recipes RecipeTags[]
+}
+
+model RecipeTags {
+  rid    String
+  tagId  Int
+
+  recipe Recipe @relation(fields: [rid], references: [rid])
+  tag    Tag    @relation(fields: [tagId], references: [tagId])
+
+  @@id([rid, tagId])
+}
+
+// ==================== RECIPE IMAGES ====================
+model RecipeImage {
+  imageId   Int     @id @default(autoincrement())
+  rid       String
+  imageUrl  String
+  caption   String
+
+  recipe    Recipe  @relation(fields: [rid], references: [rid])
+}
+
+// ==================== STEPS ====================
+model Step {
+  sid       Int     @id @default(autoincrement())
+  ssid      Int
+  stepDesc  String
+  stepNum   Int
+
+  section   StepsSection @relation(fields: [ssid], references: [ssid])
+}
+
+model StepsSection {
+  ssid        Int     @id @default(autoincrement())
+  rid         String
+  sectionName String
+
+  recipe      Recipe  @relation(fields: [rid], references: [rid])
+  steps       Step[]
+}
+
+// ==================== INGREDIENTS ====================
+model Ingredient {
+  iid       Int      @id @default(autoincrement())
+  name      String
+  quantity  Int
+  unit      String
+  type      String
+  category  String
+
+  includes  Include[]
+}
+
+model Include {
+  isid    Int
+  iid     Int
+  ingQty  Int
+  ingType String
+
+  section     IngredientsSection @relation(fields: [isid], references: [isid])
+  ingredient Ingredient          @relation(fields: [iid], references: [iid])
+
+  @@id([isid, iid])
+}
+
+model IngredientsSection {
+  isid        Int     @id @default(autoincrement())
+  rid         String
+  sectionName String
+
+  recipe      Recipe  @relation(fields: [rid], references: [rid])
+  includes    Include[]
+}
+
+// ==================== FAVOURITES ====================
+model FavouriteRecipe {
+  rid String
+  uid String
+
+  recipe Recipe @relation(fields: [rid], references: [rid])
+  user   User   @relation(fields: [uid], references: [id])
+
+  @@id([rid, uid])
+}
+
+// ==================== SOURCES ====================
+model RecipeSource {
+  rsid        Int      @id @default(autoincrement())
+  sourceName  String
+  recipes     Recipe[]
+}
