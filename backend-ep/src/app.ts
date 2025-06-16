@@ -4,6 +4,7 @@ import express from "express";
 import cookieParser from 'cookie-parser';
 
 import userRoutes from './routes/user.route';
+import recipeRouter from './routes/recipeRouter';
 import authRouter from './routes/auth/index';
 
 dotenv.config();
@@ -46,5 +47,7 @@ app.get('/', (req, res) => {
 
 app.use('/api/users', userRoutes); 
 app.use('/api/auth', authRouter);
+
+app.use('/api/recipes', recipeRouter);
 
 export default app;

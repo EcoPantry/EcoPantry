@@ -24,6 +24,7 @@ model User {
   updatedAt DateTime @updatedAt
 
   favourites FavouriteRecipe[]
+  inventory      UserInventory[]
 }
 
 model EmailVerificationCode {
@@ -133,6 +134,7 @@ model Ingredient {
   category  String
 
   includes  Include[]
+  inventory      UserInventory[]
 }
 
 model Include {
@@ -172,4 +174,17 @@ model RecipeSource {
   rsid        Int      @id @default(autoincrement())
   sourceName  String
   recipes     Recipe[]
+}
+
+
+model UserInventory {
+  uid      String
+  iid      Int
+  quantity Float // stored in grams or litres, already normalized
+
+  // Relations
+  user       User       @relation(fields: [uid], references: [id], onDelete: Cascade)
+  ingredient Ingredient @relation(fields: [iid], references: [iid], onDelete: Cascade)
+
+  @@id([uid, iid]) // composite primary key
 }
