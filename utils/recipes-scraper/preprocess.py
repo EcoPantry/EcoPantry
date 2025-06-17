@@ -1,6 +1,8 @@
 import json
 import re
 from pprint import pprint
+
+import requests
 from ingredient_parser import parse_ingredient
 
 def parseInstructions(rawText):
@@ -22,7 +24,7 @@ def parseInstructions(rawText):
    
     return steps
 
-def parseIngredients(rawIngredientsList):
+def parseIngredients(rawIngredientsList, ingredientsReference):
     if not rawIngredientsList:
         return []
 
@@ -35,6 +37,10 @@ def parseIngredients(rawIngredientsList):
         if parsed.name:
             ingName = parsed.name[0].text
             ingDetails["name"] = ingName
+            if ingName in ingredientsReference:
+                ingDetails["ingId"] = ingredientsReference[ingName]
+            else:
+                ingDetails["ingId"] = None
         
         if parsed.amount:
             if parsed.amount[0].quantity:
@@ -60,9 +66,28 @@ def parseIngredients(rawIngredientsList):
     #     print(f"ingredient: {ing.name}, amt: {ing.amount}")
     return ingredients
 
+def getIngredients(baseUrl):
+    ingredientsUrl = f"{baseUrl}list.php?i=list"
+    resp = requests.get(ingredientsUrl)
+    if not resp:
+        print("No ingredients found")
+        return []
+
+    ingredientsData = resp.json().get('meals', [])
+    if not ingredientsData:
+        print("No ingredients found")
+        return []
+
+    ingredientsList = {ingredient['strIngredient']: ingredient['idIngredient'] for ingredient in ingredientsData}
+
+    return ingredientsList
+
 def main():
     with open("recipe_details.json", "r", encoding="utf-8") as f:
         recipes = json.load(f)
+
+    baseUrl = "https://www.themealdb.com/api/json/v1/1/"
+    ingredientsReference = getIngredients(baseUrl)
 
     processedRecipes = []
     categories = set()
@@ -72,7 +97,7 @@ def main():
         category = recipe.get("category", "")
         area = recipe.get("area", "")
         instructionsParsed = parseInstructions(recipe.get("instructions", ""))
-        ingredientsParsed = parseIngredients(recipe.get("ingredients", []))
+        ingredientsParsed = parseIngredients(recipe.get("ingredients", []), ingredientsReference)
 
         categories.add(category)
         areas.add(area)
@@ -93,6 +118,7 @@ def main():
     res = {}
     res["categories"] = sorted(categories)
     res["areas"] = sorted(areas)
+    res["ingredients"] = ingredientsReference
     res["recipes"] = processedRecipes
 
     with open("recipe_details_processed.json", "w", encoding="utf-8") as f:
