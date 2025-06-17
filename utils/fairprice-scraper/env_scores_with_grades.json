@@ -1,0 +1,5066 @@
+{
+  "ale": {
+    "ghg_kg": {
+      "score": 86.68,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 43.6,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 89.71,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 95.05,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 69.98,
+      "grade": "B"
+    },
+    "weighted_score": 77.84,
+    "weighted_grade": "B"
+  },
+  "almond butter": {
+    "ghg_kg": {
+      "score": 90.3,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 0.0,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 57.53,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 55.25,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 38.25,
+      "grade": "D"
+    },
+    "weighted_score": 56.98,
+    "weighted_grade": "C"
+  },
+  "almond milk": {
+    "ghg_kg": {
+      "score": 82.11,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 15.06,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 82.21,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 79.84,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 58.4,
+      "grade": "C"
+    },
+    "weighted_score": 66.12,
+    "weighted_grade": "B"
+  },
+  "almonds": {
+    "ghg_kg": {
+      "score": 83.43,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 0.58,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 56.54,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 55.36,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 37.82,
+      "grade": "D"
+    },
+    "weighted_score": 54.11,
+    "weighted_grade": "C"
+  },
+  "apple juice": {
+    "ghg_kg": {
+      "score": 87.68,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 35.58,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 92.65,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 92.48,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 77.39,
+      "grade": "B"
+    },
+    "weighted_score": 77.71,
+    "weighted_grade": "B"
+  },
+  "apple pie": {
+    "ghg_kg": {
+      "score": 72.16,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 25.19,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 78.58,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 72.21,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 58.89,
+      "grade": "C"
+    },
+    "weighted_score": 62.73,
+    "weighted_grade": "B"
+  },
+  "apples": {
+    "ghg_kg": {
+      "score": 86.1,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 38.26,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 92.47,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 100.0,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 77.53,
+      "grade": "B"
+    },
+    "weighted_score": 78.34,
+    "weighted_grade": "B"
+  },
+  "apricot jam": {
+    "ghg_kg": {
+      "score": 70.54,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 18.43,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 82.22,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 63.28,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 59.41,
+      "grade": "C"
+    },
+    "weighted_score": 60.62,
+    "weighted_grade": "B"
+  },
+  "asparagus": {
+    "ghg_kg": {
+      "score": 76.76,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.35,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 81.88,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 80.43,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 68.44,
+      "grade": "B"
+    },
+    "weighted_score": 67.44,
+    "weighted_grade": "B"
+  },
+  "avocados": {
+    "ghg_kg": {
+      "score": 76.84,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 25.86,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 83.53,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 87.02,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 67.44,
+      "grade": "B"
+    },
+    "weighted_score": 68.06,
+    "weighted_grade": "B"
+  },
+  "bacon": {
+    "ghg_kg": {
+      "score": 29.58,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 12.58,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 33.1,
+      "grade": "D"
+    },
+    "eutrophication_kg": {
+      "score": 30.05,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 30.74,
+      "grade": "D"
+    },
+    "weighted_score": 27.05,
+    "weighted_grade": "D"
+  },
+  "bagels": {
+    "ghg_kg": {
+      "score": 78.97,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.91,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 75.03,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 73.67,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 62.39,
+      "grade": "B"
+    },
+    "weighted_score": 65.78,
+    "weighted_grade": "B"
+  },
+  "baguette": {
+    "ghg_kg": {
+      "score": 75.63,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 26.41,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 75.43,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 68.78,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 60.65,
+      "grade": "B"
+    },
+    "weighted_score": 63.56,
+    "weighted_grade": "B"
+  },
+  "banana loaf": {
+    "ghg_kg": {
+      "score": 65.85,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 24.18,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 69.74,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 66.7,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 39.07,
+      "grade": "D"
+    },
+    "weighted_score": 55.7,
+    "weighted_grade": "C"
+  },
+  "bananas": {
+    "ghg_kg": {
+      "score": 77.66,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 43.13,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 72.82,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 82.8,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 38.92,
+      "grade": "D"
+    },
+    "weighted_score": 66.43,
+    "weighted_grade": "B"
+  },
+  "beans": {
+    "ghg_kg": {
+      "score": 70.63,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 100.0,
+      "grade": "A"
+    },
+    "land_use_kg": {
+      "score": 46.1,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 64.27,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 32.76,
+      "grade": "D"
+    },
+    "weighted_score": 67.17,
+    "weighted_grade": "B"
+  },
+  "beef burger": {
+    "ghg_kg": {
+      "score": 13.62,
+      "grade": "E"
+    },
+    "water_kg": {
+      "score": 5.95,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 16.46,
+      "grade": "E"
+    },
+    "eutrophication_kg": {
+      "score": 0.0,
+      "grade": "E"
+    },
+    "biodiversity_kg": {
+      "score": 13.62,
+      "grade": "E"
+    },
+    "weighted_score": 11.29,
+    "weighted_grade": "E"
+  },
+  "beef curry": {
+    "ghg_kg": {
+      "score": 31.23,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 11.81,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 35.66,
+      "grade": "D"
+    },
+    "eutrophication_kg": {
+      "score": 12.77,
+      "grade": "E"
+    },
+    "biodiversity_kg": {
+      "score": 26.16,
+      "grade": "D"
+    },
+    "weighted_score": 25.88,
+    "weighted_grade": "D"
+  },
+  "beef meatballs": {
+    "ghg_kg": {
+      "score": 9.41,
+      "grade": "E"
+    },
+    "water_kg": {
+      "score": 9.92,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 9.83,
+      "grade": "E"
+    },
+    "eutrophication_kg": {
+      "score": 7.22,
+      "grade": "E"
+    },
+    "biodiversity_kg": {
+      "score": 12.62,
+      "grade": "E"
+    },
+    "weighted_score": 9.7,
+    "weighted_grade": "E"
+  },
+  "beef mince": {
+    "ghg_kg": {
+      "score": 4.84,
+      "grade": "E"
+    },
+    "water_kg": {
+      "score": 8.93,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 5.29,
+      "grade": "E"
+    },
+    "eutrophication_kg": {
+      "score": 4.17,
+      "grade": "E"
+    },
+    "biodiversity_kg": {
+      "score": 9.16,
+      "grade": "E"
+    },
+    "weighted_score": 6.11,
+    "weighted_grade": "E"
+  },
+  "beef noodles": {
+    "ghg_kg": {
+      "score": 62.69,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 25.96,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 66.58,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 58.92,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 51.35,
+      "grade": "C"
+    },
+    "weighted_score": 54.61,
+    "weighted_grade": "C"
+  },
+  "beef steak": {
+    "ghg_kg": {
+      "score": 0.0,
+      "grade": "E"
+    },
+    "water_kg": {
+      "score": 11.08,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 0.0,
+      "grade": "E"
+    },
+    "eutrophication_kg": {
+      "score": 6.98,
+      "grade": "E"
+    },
+    "biodiversity_kg": {
+      "score": 6.11,
+      "grade": "E"
+    },
+    "weighted_score": 3.53,
+    "weighted_grade": "E"
+  },
+  "beer": {
+    "ghg_kg": {
+      "score": 81.41,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 35.57,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 89.42,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 86.13,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 69.82,
+      "grade": "B"
+    },
+    "weighted_score": 73.16,
+    "weighted_grade": "B"
+  },
+  "beetroot": {
+    "ghg_kg": {
+      "score": 60.38,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 56.71,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 66.54,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 67.46,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 65.01,
+      "grade": "B"
+    },
+    "weighted_score": 62.05,
+    "weighted_grade": "B"
+  },
+  "biscuits": {
+    "ghg_kg": {
+      "score": 54.07,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 23.47,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 57.17,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 59.74,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 26.69,
+      "grade": "D"
+    },
+    "weighted_score": 46.4,
+    "weighted_grade": "C"
+  },
+  "blue cheese": {
+    "ghg_kg": {
+      "score": 28.96,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 11.35,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 41.29,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 34.33,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 17.36,
+      "grade": "E"
+    },
+    "weighted_score": 27.28,
+    "weighted_grade": "D"
+  },
+  "brazil nuts": {
+    "ghg_kg": {
+      "score": 61.25,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 6.53,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 50.21,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 54.48,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 37.34,
+      "grade": "D"
+    },
+    "weighted_score": 45.03,
+    "weighted_grade": "C"
+  },
+  "bread": {
+    "ghg_kg": {
+      "score": 77.57,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 29.55,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 75.16,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 73.76,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 62.8,
+      "grade": "B"
+    },
+    "weighted_score": 65.63,
+    "weighted_grade": "B"
+  },
+  "breakfast cereal": {
+    "ghg_kg": {
+      "score": 69.33,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 23.1,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 71.5,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 66.3,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 60.48,
+      "grade": "B"
+    },
+    "weighted_score": 59.33,
+    "weighted_grade": "C"
+  },
+  "brie": {
+    "ghg_kg": {
+      "score": 29.72,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 11.98,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 42.17,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 35.13,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 18.46,
+      "grade": "E"
+    },
+    "weighted_score": 28.08,
+    "weighted_grade": "D"
+  },
+  "broccoli": {
+    "ghg_kg": {
+      "score": 77.24,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 30.2,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 86.67,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 76.47,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 77.92,
+      "grade": "B"
+    },
+    "weighted_score": 69.71,
+    "weighted_grade": "B"
+  },
+  "butter": {
+    "ghg_kg": {
+      "score": 56.9,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 28.53,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 68.3,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 64.67,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 43.36,
+      "grade": "C"
+    },
+    "weighted_score": 52.93,
+    "weighted_grade": "C"
+  },
+  "cabbage": {
+    "ghg_kg": {
+      "score": 77.37,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 34.95,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 89.86,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 73.28,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 92.23,
+      "grade": "A"
+    },
+    "weighted_score": 72.46,
+    "weighted_grade": "B"
+  },
+  "caesar salad": {
+    "ghg_kg": {
+      "score": 64.19,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.48,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 72.23,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 70.62,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 51.31,
+      "grade": "C"
+    },
+    "weighted_score": 57.81,
+    "weighted_grade": "C"
+  },
+  "camembert": {
+    "ghg_kg": {
+      "score": 32.23,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 13.25,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 44.53,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 37.56,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 20.64,
+      "grade": "D"
+    },
+    "weighted_score": 30.27,
+    "weighted_grade": "D"
+  },
+  "carrot cake": {
+    "ghg_kg": {
+      "score": 64.71,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 22.84,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 72.06,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 65.49,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 50.85,
+      "grade": "C"
+    },
+    "weighted_score": 56.5,
+    "weighted_grade": "C"
+  },
+  "carrots": {
+    "ghg_kg": {
+      "score": 76.6,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 54.17,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 79.97,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 74.12,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 94.36,
+      "grade": "A"
+    },
+    "weighted_score": 74.32,
+    "weighted_grade": "B"
+  },
+  "cashew nuts": {
+    "ghg_kg": {
+      "score": 64.13,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 5.92,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 51.48,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 54.76,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 37.91,
+      "grade": "D"
+    },
+    "weighted_score": 46.4,
+    "weighted_grade": "C"
+  },
+  "cauliflower": {
+    "ghg_kg": {
+      "score": 77.34,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 34.58,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 90.12,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 73.99,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 90.9,
+      "grade": "A"
+    },
+    "weighted_score": 72.37,
+    "weighted_grade": "B"
+  },
+  "cereal bars": {
+    "ghg_kg": {
+      "score": 59.28,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 18.51,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 62.16,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 60.22,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 34.63,
+      "grade": "D"
+    },
+    "weighted_score": 49.33,
+    "weighted_grade": "C"
+  },
+  "cheddar cheese": {
+    "ghg_kg": {
+      "score": 28.47,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 11.15,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 40.95,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 33.67,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 17.43,
+      "grade": "E"
+    },
+    "weighted_score": 26.92,
+    "weighted_grade": "D"
+  },
+  "cheesecake": {
+    "ghg_kg": {
+      "score": 62.17,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 23.86,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 73.11,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 65.45,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 50.53,
+      "grade": "C"
+    },
+    "weighted_score": 55.86,
+    "weighted_grade": "C"
+  },
+  "cherry tomatoes": {
+    "ghg_kg": {
+      "score": 62.85,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.12,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 87.75,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 73.61,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 81.8,
+      "grade": "A"
+    },
+    "weighted_score": 63.66,
+    "weighted_grade": "B"
+  },
+  "chia seeds": {
+    "ghg_kg": {
+      "score": 72.47,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 30.77,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 69.08,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 73.83,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 49.23,
+      "grade": "C"
+    },
+    "weighted_score": 61.26,
+    "weighted_grade": "B"
+  },
+  "chicken breast": {
+    "ghg_kg": {
+      "score": 40.98,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 22.07,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 54.91,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 43.98,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 39.33,
+      "grade": "D"
+    },
+    "weighted_score": 40.12,
+    "weighted_grade": "C"
+  },
+  "chicken burger": {
+    "ghg_kg": {
+      "score": 49.27,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 25.58,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 60.94,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 52.23,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 45.09,
+      "grade": "C"
+    },
+    "weighted_score": 46.74,
+    "weighted_grade": "C"
+  },
+  "chicken curry": {
+    "ghg_kg": {
+      "score": 55.6,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 24.34,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 66.95,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 56.55,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 50.6,
+      "grade": "C"
+    },
+    "weighted_score": 51.21,
+    "weighted_grade": "C"
+  },
+  "chicken noodles": {
+    "ghg_kg": {
+      "score": 62.07,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 24.82,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 69.57,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 63.45,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 53.68,
+      "grade": "C"
+    },
+    "weighted_score": 55.42,
+    "weighted_grade": "C"
+  },
+  "chicken pasta": {
+    "ghg_kg": {
+      "score": 58.78,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 27.36,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 68.48,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 62.01,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 51.68,
+      "grade": "C"
+    },
+    "weighted_score": 54.05,
+    "weighted_grade": "C"
+  },
+  "chicken sausages": {
+    "ghg_kg": {
+      "score": 42.95,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 23.44,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 56.37,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 45.35,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 41.02,
+      "grade": "C"
+    },
+    "weighted_score": 41.78,
+    "weighted_grade": "C"
+  },
+  "chicken thighs": {
+    "ghg_kg": {
+      "score": 39.83,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 21.86,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 53.97,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 42.92,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 38.7,
+      "grade": "D"
+    },
+    "weighted_score": 39.26,
+    "weighted_grade": "D"
+  },
+  "chicken wings": {
+    "ghg_kg": {
+      "score": 40.46,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 21.07,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 54.48,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 43.27,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 39.13,
+      "grade": "D"
+    },
+    "weighted_score": 39.53,
+    "weighted_grade": "D"
+  },
+  "chickpeas": {
+    "ghg_kg": {
+      "score": 70.97,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 33.13,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 47.42,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 66.0,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 32.77,
+      "grade": "D"
+    },
+    "weighted_score": 54.38,
+    "weighted_grade": "C"
+  },
+  "chilli con carne": {
+    "ghg_kg": {
+      "score": 35.1,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 15.0,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 38.86,
+      "grade": "D"
+    },
+    "eutrophication_kg": {
+      "score": 17.53,
+      "grade": "E"
+    },
+    "biodiversity_kg": {
+      "score": 25.47,
+      "grade": "D"
+    },
+    "weighted_score": 29.11,
+    "weighted_grade": "D"
+  },
+  "chocolate biscuits": {
+    "ghg_kg": {
+      "score": 50.31,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 22.72,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 49.39,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 57.68,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 20.23,
+      "grade": "D"
+    },
+    "weighted_score": 42.34,
+    "weighted_grade": "C"
+  },
+  "chocolate cake": {
+    "ghg_kg": {
+      "score": 54.22,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 22.74,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 53.29,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 60.33,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 24.29,
+      "grade": "D"
+    },
+    "weighted_score": 45.36,
+    "weighted_grade": "C"
+  },
+  "chocolate cereals": {
+    "ghg_kg": {
+      "score": 59.15,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 17.94,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 58.1,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 60.8,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 32.02,
+      "grade": "D"
+    },
+    "weighted_score": 48.15,
+    "weighted_grade": "C"
+  },
+  "chocolate cheesecake": {
+    "ghg_kg": {
+      "score": 50.88,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 23.43,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 59.9,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 58.92,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 23.82,
+      "grade": "D"
+    },
+    "weighted_score": 45.29,
+    "weighted_grade": "C"
+  },
+  "chocolate spread": {
+    "ghg_kg": {
+      "score": 49.45,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 15.28,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 54.66,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 51.92,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 21.44,
+      "grade": "D"
+    },
+    "weighted_score": 41.1,
+    "weighted_grade": "C"
+  },
+  "cider": {
+    "ghg_kg": {
+      "score": 74.34,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 29.52,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 88.14,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 84.14,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 70.63,
+      "grade": "B"
+    },
+    "weighted_score": 68.75,
+    "weighted_grade": "B"
+  },
+  "coconut milk": {
+    "ghg_kg": {
+      "score": 56.93,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 30.5,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 95.4,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 90.82,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 76.9,
+      "grade": "B"
+    },
+    "weighted_score": 64.72,
+    "weighted_grade": "B"
+  },
+  "coconut oil": {
+    "ghg_kg": {
+      "score": 85.46,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 26.39,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 91.13,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 72.5,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 71.27,
+      "grade": "B"
+    },
+    "weighted_score": 72.06,
+    "weighted_grade": "B"
+  },
+  "cod": {
+    "ghg_kg": {
+      "score": 38.46,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 6.79,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 62.93,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 38.36,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 47.59,
+      "grade": "C"
+    },
+    "weighted_score": 37.92,
+    "weighted_grade": "D"
+  },
+  "cod fish fingers": {
+    "ghg_kg": {
+      "score": 40.91,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 8.36,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 62.53,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 40.72,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 47.95,
+      "grade": "C"
+    },
+    "weighted_score": 39.41,
+    "weighted_grade": "D"
+  },
+  "cod fishcakes": {
+    "ghg_kg": {
+      "score": 43.63,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 9.98,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 67.57,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 43.96,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 51.91,
+      "grade": "C"
+    },
+    "weighted_score": 42.55,
+    "weighted_grade": "C"
+  },
+  "coffee beans": {
+    "ghg_kg": {
+      "score": 31.72,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 53.45,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 44.27,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 34.83,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 10.13,
+      "grade": "E"
+    },
+    "weighted_score": 36.73,
+    "weighted_grade": "D"
+  },
+  "coffee pods": {
+    "ghg_kg": {
+      "score": 28.81,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 31.25,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 49.17,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 32.22,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 8.95,
+      "grade": "E"
+    },
+    "weighted_score": 31.73,
+    "weighted_grade": "D"
+  },
+  "cookies": {
+    "ghg_kg": {
+      "score": 56.75,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 19.36,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 58.49,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 59.15,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 30.74,
+      "grade": "D"
+    },
+    "weighted_score": 47.26,
+    "weighted_grade": "C"
+  },
+  "cottage cheese": {
+    "ghg_kg": {
+      "score": 25.4,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 9.2,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 38.07,
+      "grade": "D"
+    },
+    "eutrophication_kg": {
+      "score": 30.42,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 14.75,
+      "grade": "E"
+    },
+    "weighted_score": 24.13,
+    "weighted_grade": "D"
+  },
+  "cottage pie": {
+    "ghg_kg": {
+      "score": 37.16,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 16.16,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 40.89,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 18.9,
+      "grade": "E"
+    },
+    "biodiversity_kg": {
+      "score": 30.61,
+      "grade": "D"
+    },
+    "weighted_score": 31.23,
+    "weighted_grade": "D"
+  },
+  "courgettes": {
+    "ghg_kg": {
+      "score": 78.15,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.0,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 83.32,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 85.44,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 68.39,
+      "grade": "B"
+    },
+    "weighted_score": 68.71,
+    "weighted_grade": "B"
+  },
+  "couscous": {
+    "ghg_kg": {
+      "score": 73.28,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 26.7,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 71.22,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 73.42,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 61.91,
+      "grade": "B"
+    },
+    "weighted_score": 62.43,
+    "weighted_grade": "B"
+  },
+  "cow's milk": {
+    "ghg_kg": {
+      "score": 55.23,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 27.37,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 66.63,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 63.24,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 42.39,
+      "grade": "C"
+    },
+    "weighted_score": 51.45,
+    "weighted_grade": "C"
+  },
+  "cracker biscuits": {
+    "ghg_kg": {
+      "score": 61.65,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 19.11,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 65.32,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 59.99,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 46.29,
+      "grade": "C"
+    },
+    "weighted_score": 52.17,
+    "weighted_grade": "C"
+  },
+  "crisps": {
+    "ghg_kg": {
+      "score": 58.34,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 24.66,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 57.82,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 46.36,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 41.66,
+      "grade": "C"
+    },
+    "weighted_score": 48.63,
+    "weighted_grade": "C"
+  },
+  "croissants": {
+    "ghg_kg": {
+      "score": 67.48,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 25.88,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 68.1,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 66.16,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 48.34,
+      "grade": "C"
+    },
+    "weighted_score": 57.24,
+    "weighted_grade": "C"
+  },
+  "cucumber": {
+    "ghg_kg": {
+      "score": 78.14,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.11,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 85.61,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 88.04,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 69.48,
+      "grade": "B"
+    },
+    "weighted_score": 69.55,
+    "weighted_grade": "B"
+  },
+  "dairy-free cheese": {
+    "ghg_kg": {
+      "score": 64.98,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 13.93,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 66.12,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 62.88,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 43.64,
+      "grade": "C"
+    },
+    "weighted_score": 52.65,
+    "weighted_grade": "C"
+  },
+  "dairy-free ice cream": {
+    "ghg_kg": {
+      "score": 61.64,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 24.93,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 68.83,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 67.38,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 31.06,
+      "grade": "D"
+    },
+    "weighted_score": 53.25,
+    "weighted_grade": "C"
+  },
+  "dark chocolate": {
+    "ghg_kg": {
+      "score": 28.56,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 27.61,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 31.07,
+      "grade": "D"
+    },
+    "eutrophication_kg": {
+      "score": 42.21,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 0.0,
+      "grade": "E"
+    },
+    "weighted_score": 27.38,
+    "weighted_grade": "D"
+  },
+  "doughnuts": {
+    "ghg_kg": {
+      "score": 63.32,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 29.16,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 70.81,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 70.32,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 37.78,
+      "grade": "D"
+    },
+    "weighted_score": 56.13,
+    "weighted_grade": "C"
+  },
+  "egg noodles": {
+    "ghg_kg": {
+      "score": 70.54,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 28.48,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 70.99,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 68.45,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 55.5,
+      "grade": "C"
+    },
+    "weighted_score": 60.51,
+    "weighted_grade": "B"
+  },
+  "eggs": {
+    "ghg_kg": {
+      "score": 52.42,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 18.65,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 59.22,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 54.19,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 46.89,
+      "grade": "C"
+    },
+    "weighted_score": 46.65,
+    "weighted_grade": "C"
+  },
+  "falafels": {
+    "ghg_kg": {
+      "score": 74.11,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 39.14,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 59.77,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 62.09,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 53.77,
+      "grade": "C"
+    },
+    "weighted_score": 61.01,
+    "weighted_grade": "B"
+  },
+  "feta cheese": {
+    "ghg_kg": {
+      "score": 33.67,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 14.24,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 45.77,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 39.16,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 21.58,
+      "grade": "D"
+    },
+    "weighted_score": 31.54,
+    "weighted_grade": "D"
+  },
+  "flapjack": {
+    "ghg_kg": {
+      "score": 65.21,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 23.62,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 66.89,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 62.78,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 47.58,
+      "grade": "C"
+    },
+    "weighted_score": 55.22,
+    "weighted_grade": "C"
+  },
+  "frozen chips (french fries)": {
+    "ghg_kg": {
+      "score": 79.96,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 43.56,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 76.05,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 66.28,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 60.85,
+      "grade": "B"
+    },
+    "weighted_score": 68.62,
+    "weighted_grade": "B"
+  },
+  "frozen jacket potatoes": {
+    "ghg_kg": {
+      "score": 85.79,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 54.04,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 85.32,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 78.27,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 78.0,
+      "grade": "B"
+    },
+    "weighted_score": 77.81,
+    "weighted_grade": "B"
+  },
+  "frozen mashed potato": {
+    "ghg_kg": {
+      "score": 78.52,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 44.35,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 83.52,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 77.07,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 67.83,
+      "grade": "B"
+    },
+    "weighted_score": 71.47,
+    "weighted_grade": "B"
+  },
+  "frozen onion rings": {
+    "ghg_kg": {
+      "score": 79.6,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 38.49,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 76.07,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 68.73,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 58.64,
+      "grade": "C"
+    },
+    "weighted_score": 67.49,
+    "weighted_grade": "B"
+  },
+  "frozen potato wedges": {
+    "ghg_kg": {
+      "score": 81.9,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 46.73,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 79.21,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 70.66,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 65.06,
+      "grade": "B"
+    },
+    "weighted_score": 71.52,
+    "weighted_grade": "B"
+  },
+  "frozen roast potatoes": {
+    "ghg_kg": {
+      "score": 72.69,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 37.3,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 73.93,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 60.79,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 60.93,
+      "grade": "B"
+    },
+    "weighted_score": 63.49,
+    "weighted_grade": "B"
+  },
+  "frozen sweet potato fries": {
+    "ghg_kg": {
+      "score": 89.41,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 36.49,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 77.03,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 71.91,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 60.37,
+      "grade": "B"
+    },
+    "weighted_score": 71.7,
+    "weighted_grade": "B"
+  },
+  "fruit cake": {
+    "ghg_kg": {
+      "score": 56.32,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 22.28,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 75.41,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 66.14,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 57.1,
+      "grade": "C"
+    },
+    "weighted_score": 54.39,
+    "weighted_grade": "C"
+  },
+  "fruit smoothies": {
+    "ghg_kg": {
+      "score": 67.79,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 32.55,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 83.02,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 81.83,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 57.41,
+      "grade": "C"
+    },
+    "weighted_score": 64.15,
+    "weighted_grade": "B"
+  },
+  "garden peas": {
+    "ghg_kg": {
+      "score": 75.5,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 26.37,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 59.68,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 61.94,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 54.64,
+      "grade": "C"
+    },
+    "weighted_score": 59.07,
+    "weighted_grade": "C"
+  },
+  "goat's cheese": {
+    "ghg_kg": {
+      "score": 29.58,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 11.9,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 42.07,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 34.72,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 18.54,
+      "grade": "E"
+    },
+    "weighted_score": 27.95,
+    "weighted_grade": "D"
+  },
+  "granola": {
+    "ghg_kg": {
+      "score": 66.6,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 23.15,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 63.28,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 58.77,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 43.61,
+      "grade": "C"
+    },
+    "weighted_score": 54.16,
+    "weighted_grade": "C"
+  },
+  "grapes": {
+    "ghg_kg": {
+      "score": 42.74,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 44.12,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 80.57,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 77.04,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 66.65,
+      "grade": "B"
+    },
+    "weighted_score": 56.4,
+    "weighted_grade": "C"
+  },
+  "haddock risotto": {
+    "ghg_kg": {
+      "score": 50.88,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 15.6,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 67.84,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 53.14,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 45.51,
+      "grade": "C"
+    },
+    "weighted_score": 46.91,
+    "weighted_grade": "C"
+  },
+  "halloumi cheese": {
+    "ghg_kg": {
+      "score": 32.34,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 13.22,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 44.49,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 37.95,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 20.32,
+      "grade": "D"
+    },
+    "weighted_score": 30.31,
+    "weighted_grade": "D"
+  },
+  "ice cream": {
+    "ghg_kg": {
+      "score": 55.4,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 23.81,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 62.88,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 61.78,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 31.95,
+      "grade": "D"
+    },
+    "weighted_score": 48.87,
+    "weighted_grade": "C"
+  },
+  "ice lollies": {
+    "ghg_kg": {
+      "score": 71.32,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 20.77,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 77.22,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 68.92,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 53.01,
+      "grade": "C"
+    },
+    "weighted_score": 60.32,
+    "weighted_grade": "B"
+  },
+  "instant coffee": {
+    "ghg_kg": {
+      "score": 23.38,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 44.81,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 45.05,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 26.48,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 4.28,
+      "grade": "E"
+    },
+    "weighted_score": 30.4,
+    "weighted_grade": "D"
+  },
+  "kale": {
+    "ghg_kg": {
+      "score": 77.14,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 34.82,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 89.73,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 72.94,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 92.0,
+      "grade": "A"
+    },
+    "weighted_score": 72.26,
+    "weighted_grade": "B"
+  },
+  "kiwis": {
+    "ghg_kg": {
+      "score": 68.13,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 19.83,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 85.81,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 60.95,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 63.37,
+      "grade": "B"
+    },
+    "weighted_score": 60.81,
+    "weighted_grade": "B"
+  },
+  "lamb (leg)": {
+    "ghg_kg": {
+      "score": 22.36,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 38.49,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 32.73,
+      "grade": "D"
+    },
+    "eutrophication_kg": {
+      "score": 51.61,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 28.42,
+      "grade": "D"
+    },
+    "weighted_score": 31.19,
+    "weighted_grade": "D"
+  },
+  "lamb burgers": {
+    "ghg_kg": {
+      "score": 24.42,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 36.81,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 34.61,
+      "grade": "D"
+    },
+    "eutrophication_kg": {
+      "score": 53.35,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 30.06,
+      "grade": "D"
+    },
+    "weighted_score": 32.39,
+    "weighted_grade": "D"
+  },
+  "lamb casserole": {
+    "ghg_kg": {
+      "score": 22.29,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 38.67,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 32.66,
+      "grade": "D"
+    },
+    "eutrophication_kg": {
+      "score": 51.54,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 28.35,
+      "grade": "D"
+    },
+    "weighted_score": 31.17,
+    "weighted_grade": "D"
+  },
+  "lamb chops": {
+    "ghg_kg": {
+      "score": 22.28,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 38.67,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 32.66,
+      "grade": "D"
+    },
+    "eutrophication_kg": {
+      "score": 51.54,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 28.35,
+      "grade": "D"
+    },
+    "weighted_score": 31.17,
+    "weighted_grade": "D"
+  },
+  "lamb curry": {
+    "ghg_kg": {
+      "score": 39.51,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 33.67,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 46.81,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 61.14,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 40.35,
+      "grade": "C"
+    },
+    "weighted_score": 42.05,
+    "weighted_grade": "C"
+  },
+  "lamb hotpot": {
+    "ghg_kg": {
+      "score": 38.01,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 37.9,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 47.06,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 64.47,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 40.99,
+      "grade": "C"
+    },
+    "weighted_score": 42.74,
+    "weighted_grade": "C"
+  },
+  "lamb moussaka": {
+    "ghg_kg": {
+      "score": 44.78,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 28.05,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 54.01,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 61.84,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 40.12,
+      "grade": "C"
+    },
+    "weighted_score": 44.52,
+    "weighted_grade": "C"
+  },
+  "lasagne sheets": {
+    "ghg_kg": {
+      "score": 65.1,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 18.6,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 68.57,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 61.52,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 60.98,
+      "grade": "B"
+    },
+    "weighted_score": 55.72,
+    "weighted_grade": "C"
+  },
+  "lemons": {
+    "ghg_kg": {
+      "score": 87.28,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 35.51,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 93.76,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 95.21,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 72.39,
+      "grade": "B"
+    },
+    "weighted_score": 77.53,
+    "weighted_grade": "B"
+  },
+  "lentils": {
+    "ghg_kg": {
+      "score": 61.11,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 54.55,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 39.29,
+      "grade": "D"
+    },
+    "eutrophication_kg": {
+      "score": 48.84,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 30.44,
+      "grade": "D"
+    },
+    "weighted_score": 51.14,
+    "weighted_grade": "C"
+  },
+  "lettuce": {
+    "ghg_kg": {
+      "score": 50.8,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 27.8,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 59.31,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 76.41,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 50.84,
+      "grade": "C"
+    },
+    "weighted_score": 50.47,
+    "weighted_grade": "C"
+  },
+  "limes": {
+    "ghg_kg": {
+      "score": 87.52,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 35.63,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 93.42,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 95.21,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 72.56,
+      "grade": "B"
+    },
+    "weighted_score": 77.59,
+    "weighted_grade": "B"
+  },
+  "macaroni cheese": {
+    "ghg_kg": {
+      "score": 31.7,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 12.48,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 43.35,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 36.86,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 19.77,
+      "grade": "E"
+    },
+    "weighted_score": 29.51,
+    "weighted_grade": "D"
+  },
+  "mackerel": {
+    "ghg_kg": {
+      "score": 35.02,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 4.84,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 61.55,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 35.26,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 46.31,
+      "grade": "C"
+    },
+    "weighted_score": 35.44,
+    "weighted_grade": "D"
+  },
+  "marmalade": {
+    "ghg_kg": {
+      "score": 68.77,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 17.76,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 78.87,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 60.41,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 57.49,
+      "grade": "C"
+    },
+    "weighted_score": 58.62,
+    "weighted_grade": "C"
+  },
+  "meat pizza": {
+    "ghg_kg": {
+      "score": 44.48,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 18.1,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 56.32,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 45.67,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 38.89,
+      "grade": "D"
+    },
+    "weighted_score": 41.13,
+    "weighted_grade": "C"
+  },
+  "meat-free burger": {
+    "ghg_kg": {
+      "score": 75.28,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 30.73,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 67.62,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 67.13,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 57.62,
+      "grade": "C"
+    },
+    "weighted_score": 62.26,
+    "weighted_grade": "B"
+  },
+  "meat-free mince": {
+    "ghg_kg": {
+      "score": 77.6,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 36.71,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 61.55,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 67.19,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 57.19,
+      "grade": "C"
+    },
+    "weighted_score": 63.13,
+    "weighted_grade": "B"
+  },
+  "meat-free nuggets": {
+    "ghg_kg": {
+      "score": 77.87,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 29.21,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 77.1,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 80.25,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 65.5,
+      "grade": "B"
+    },
+    "weighted_score": 66.98,
+    "weighted_grade": "B"
+  },
+  "meat-free sausages": {
+    "ghg_kg": {
+      "score": 76.15,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 32.5,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 67.91,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 70.34,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 59.45,
+      "grade": "C"
+    },
+    "weighted_score": 63.52,
+    "weighted_grade": "B"
+  },
+  "melon": {
+    "ghg_kg": {
+      "score": 74.71,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 21.24,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 86.9,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 63.82,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 64.47,
+      "grade": "B"
+    },
+    "weighted_score": 64.34,
+    "weighted_grade": "B"
+  },
+  "milk chocolate": {
+    "ghg_kg": {
+      "score": 38.61,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 22.26,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 45.93,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 49.4,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 11.24,
+      "grade": "E"
+    },
+    "weighted_score": 35.15,
+    "weighted_grade": "D"
+  },
+  "mixed salad": {
+    "ghg_kg": {
+      "score": 76.84,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 26.46,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 84.58,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 88.5,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 68.63,
+      "grade": "B"
+    },
+    "weighted_score": 68.66,
+    "weighted_grade": "B"
+  },
+  "mozzarella cheese": {
+    "ghg_kg": {
+      "score": 32.28,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 13.38,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 44.52,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 37.66,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 20.56,
+      "grade": "D"
+    },
+    "weighted_score": 30.31,
+    "weighted_grade": "D"
+  },
+  "muesli": {
+    "ghg_kg": {
+      "score": 62.82,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 26.46,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 67.04,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 64.68,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 52.48,
+      "grade": "C"
+    },
+    "weighted_score": 55.54,
+    "weighted_grade": "C"
+  },
+  "muffins": {
+    "ghg_kg": {
+      "score": 60.82,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 24.83,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 70.63,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 66.92,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 38.86,
+      "grade": "D"
+    },
+    "weighted_score": 54.0,
+    "weighted_grade": "C"
+  },
+  "mushrooms": {
+    "ghg_kg": {
+      "score": 62.27,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 13.67,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 71.61,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 60.71,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 54.27,
+      "grade": "C"
+    },
+    "weighted_score": 53.46,
+    "weighted_grade": "C"
+  },
+  "naan": {
+    "ghg_kg": {
+      "score": 75.36,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 28.17,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 74.84,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 75.62,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 61.37,
+      "grade": "B"
+    },
+    "weighted_score": 64.45,
+    "weighted_grade": "B"
+  },
+  "nut loaf": {
+    "ghg_kg": {
+      "score": 80.75,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 18.09,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 76.76,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 74.58,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 58.17,
+      "grade": "C"
+    },
+    "weighted_score": 64.55,
+    "weighted_grade": "B"
+  },
+  "oat milk": {
+    "ghg_kg": {
+      "score": 87.85,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 54.44,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 95.89,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 97.16,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 70.18,
+      "grade": "B"
+    },
+    "weighted_score": 81.94,
+    "weighted_grade": "A"
+  },
+  "olive oil": {
+    "ghg_kg": {
+      "score": 50.0,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 13.96,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 42.66,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 45.39,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 22.19,
+      "grade": "D"
+    },
+    "weighted_score": 38.08,
+    "weighted_grade": "D"
+  },
+  "onions": {
+    "ghg_kg": {
+      "score": 91.3,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 42.83,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 100.0,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 96.03,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 100.0,
+      "grade": "A"
+    },
+    "weighted_score": 84.69,
+    "weighted_grade": "A"
+  },
+  "orange juice": {
+    "ghg_kg": {
+      "score": 86.68,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 34.22,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 91.71,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 90.31,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 70.33,
+      "grade": "B"
+    },
+    "weighted_score": 75.92,
+    "weighted_grade": "B"
+  },
+  "oranges": {
+    "ghg_kg": {
+      "score": 87.4,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 36.09,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 92.52,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 95.41,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 73.29,
+      "grade": "B"
+    },
+    "weighted_score": 77.55,
+    "weighted_grade": "B"
+  },
+  "pain au chocolat": {
+    "ghg_kg": {
+      "score": 59.52,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 27.44,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 64.17,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 66.18,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 33.35,
+      "grade": "D"
+    },
+    "weighted_score": 52.08,
+    "weighted_grade": "C"
+  },
+  "pancakes": {
+    "ghg_kg": {
+      "score": 68.78,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 26.53,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 73.94,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 69.48,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 55.58,
+      "grade": "C"
+    },
+    "weighted_score": 60.11,
+    "weighted_grade": "B"
+  },
+  "parmesan cheese": {
+    "ghg_kg": {
+      "score": 26.2,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 9.82,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 38.89,
+      "grade": "D"
+    },
+    "eutrophication_kg": {
+      "score": 31.45,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 15.53,
+      "grade": "E"
+    },
+    "weighted_score": 24.92,
+    "weighted_grade": "D"
+  },
+  "parsnips": {
+    "ghg_kg": {
+      "score": 75.72,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 55.64,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 78.23,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 73.28,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 88.69,
+      "grade": "A"
+    },
+    "weighted_score": 73.26,
+    "weighted_grade": "B"
+  },
+  "pasta shells": {
+    "ghg_kg": {
+      "score": 75.17,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 26.71,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 68.77,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 73.71,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 62.19,
+      "grade": "B"
+    },
+    "weighted_score": 62.75,
+    "weighted_grade": "B"
+  },
+  "peanut butter": {
+    "ghg_kg": {
+      "score": 56.4,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 8.5,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 55.76,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 59.32,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 49.05,
+      "grade": "C"
+    },
+    "weighted_score": 46.25,
+    "weighted_grade": "C"
+  },
+  "peanuts": {
+    "ghg_kg": {
+      "score": 57.76,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 10.16,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 56.4,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 57.08,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 48.87,
+      "grade": "C"
+    },
+    "weighted_score": 47.01,
+    "weighted_grade": "C"
+  },
+  "pears": {
+    "ghg_kg": {
+      "score": 76.76,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 19.17,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 86.52,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 60.2,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 63.19,
+      "grade": "B"
+    },
+    "weighted_score": 64.18,
+    "weighted_grade": "B"
+  },
+  "pecan nuts": {
+    "ghg_kg": {
+      "score": 61.23,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 7.16,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 51.47,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 54.72,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 38.22,
+      "grade": "D"
+    },
+    "weighted_score": 45.51,
+    "weighted_grade": "C"
+  },
+  "penne pasta": {
+    "ghg_kg": {
+      "score": 68.02,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 21.32,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 67.85,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 63.73,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 60.26,
+      "grade": "B"
+    },
+    "weighted_score": 57.44,
+    "weighted_grade": "C"
+  },
+  "peppers": {
+    "ghg_kg": {
+      "score": 76.88,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 25.97,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 83.64,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 87.0,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 67.64,
+      "grade": "B"
+    },
+    "weighted_score": 68.14,
+    "weighted_grade": "B"
+  },
+  "pineapple": {
+    "ghg_kg": {
+      "score": 76.65,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 19.06,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 86.5,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 59.99,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 63.08,
+      "grade": "B"
+    },
+    "weighted_score": 64.08,
+    "weighted_grade": "B"
+  },
+  "pitta bread": {
+    "ghg_kg": {
+      "score": 84.47,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 34.75,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 78.27,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 80.1,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 70.72,
+      "grade": "B"
+    },
+    "weighted_score": 71.47,
+    "weighted_grade": "B"
+  },
+  "popcorn": {
+    "ghg_kg": {
+      "score": 66.32,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.17,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 70.15,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 67.35,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 46.74,
+      "grade": "C"
+    },
+    "weighted_score": 57.4,
+    "weighted_grade": "C"
+  },
+  "poppadoms": {
+    "ghg_kg": {
+      "score": 69.26,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.84,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 63.8,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 52.13,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 46.23,
+      "grade": "C"
+    },
+    "weighted_score": 55.87,
+    "weighted_grade": "C"
+  },
+  "pork chops": {
+    "ghg_kg": {
+      "score": 36.76,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 12.62,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 45.9,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 32.39,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 36.68,
+      "grade": "D"
+    },
+    "weighted_score": 33.32,
+    "weighted_grade": "D"
+  },
+  "pork loin": {
+    "ghg_kg": {
+      "score": 37.0,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 12.79,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 46.62,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 32.48,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 36.35,
+      "grade": "D"
+    },
+    "weighted_score": 33.57,
+    "weighted_grade": "D"
+  },
+  "pork sausage rolls": {
+    "ghg_kg": {
+      "score": 47.26,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 19.16,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 57.08,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 45.46,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 41.25,
+      "grade": "C"
+    },
+    "weighted_score": 42.82,
+    "weighted_grade": "C"
+  },
+  "pork sausages": {
+    "ghg_kg": {
+      "score": 40.17,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 14.74,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 49.39,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 36.01,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 38.98,
+      "grade": "D"
+    },
+    "weighted_score": 36.39,
+    "weighted_grade": "D"
+  },
+  "porridge (oatmeal)": {
+    "ghg_kg": {
+      "score": 68.7,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 29.9,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 63.72,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 64.71,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 50.55,
+      "grade": "C"
+    },
+    "weighted_score": 57.73,
+    "weighted_grade": "C"
+  },
+  "potato croquettes": {
+    "ghg_kg": {
+      "score": 79.53,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 40.28,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 81.83,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 78.04,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 70.85,
+      "grade": "B"
+    },
+    "weighted_score": 71.12,
+    "weighted_grade": "B"
+  },
+  "potatoes": {
+    "ghg_kg": {
+      "score": 100.0,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 39.25,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 89.83,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 97.1,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 86.74,
+      "grade": "A"
+    },
+    "weighted_score": 84.2,
+    "weighted_grade": "A"
+  },
+  "prawn crackers": {
+    "ghg_kg": {
+      "score": 50.78,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 18.81,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 62.4,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 38.07,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 43.54,
+      "grade": "C"
+    },
+    "weighted_score": 44.72,
+    "weighted_grade": "C"
+  },
+  "prawns": {
+    "ghg_kg": {
+      "score": 28.35,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 6.73,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 86.47,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 20.79,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 68.82,
+      "grade": "B"
+    },
+    "weighted_score": 38.94,
+    "weighted_grade": "D"
+  },
+  "protein bar": {
+    "ghg_kg": {
+      "score": 56.68,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 13.88,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 52.22,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 62.28,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 31.16,
+      "grade": "D"
+    },
+    "weighted_score": 45.24,
+    "weighted_grade": "C"
+  },
+  "protein shake": {
+    "ghg_kg": {
+      "score": 66.93,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.0,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 61.95,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 71.09,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 46.38,
+      "grade": "C"
+    },
+    "weighted_score": 56.31,
+    "weighted_grade": "C"
+  },
+  "pumpkin seeds": {
+    "ghg_kg": {
+      "score": 71.2,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 30.69,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 69.47,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 74.63,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 49.78,
+      "grade": "C"
+    },
+    "weighted_score": 60.95,
+    "weighted_grade": "B"
+  },
+  "quiche": {
+    "ghg_kg": {
+      "score": 51.64,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 23.95,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 62.08,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 55.7,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 38.48,
+      "grade": "D"
+    },
+    "weighted_score": 47.28,
+    "weighted_grade": "C"
+  },
+  "quinoa": {
+    "ghg_kg": {
+      "score": 73.54,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 30.79,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 69.92,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 74.74,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 50.33,
+      "grade": "C"
+    },
+    "weighted_score": 62.07,
+    "weighted_grade": "B"
+  },
+  "rapeseed oil": {
+    "ghg_kg": {
+      "score": 57.07,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 38.42,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 58.43,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 58.48,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 49.45,
+      "grade": "C"
+    },
+    "weighted_score": 52.99,
+    "weighted_grade": "C"
+  },
+  "raspberries": {
+    "ghg_kg": {
+      "score": 42.56,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 44.28,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 80.49,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 76.92,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 66.65,
+      "grade": "B"
+    },
+    "weighted_score": 56.34,
+    "weighted_grade": "C"
+  },
+  "raspberry jam": {
+    "ghg_kg": {
+      "score": 50.24,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 19.13,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 77.09,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 59.73,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 57.36,
+      "grade": "C"
+    },
+    "weighted_score": 51.05,
+    "weighted_grade": "C"
+  },
+  "rice": {
+    "ghg_kg": {
+      "score": 54.32,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 10.39,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 71.29,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 49.61,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 60.56,
+      "grade": "B"
+    },
+    "weighted_score": 49.08,
+    "weighted_grade": "C"
+  },
+  "rice milk": {
+    "ghg_kg": {
+      "score": 69.88,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 23.6,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 96.12,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 74.74,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 86.7,
+      "grade": "A"
+    },
+    "weighted_score": 68.04,
+    "weighted_grade": "B"
+  },
+  "rice noodles": {
+    "ghg_kg": {
+      "score": 56.51,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 11.48,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 73.67,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 52.32,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 64.32,
+      "grade": "B"
+    },
+    "weighted_score": 51.3,
+    "weighted_grade": "C"
+  },
+  "ricotta cheese": {
+    "ghg_kg": {
+      "score": 32.22,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 13.14,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 44.59,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 37.61,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 20.76,
+      "grade": "D"
+    },
+    "weighted_score": 30.27,
+    "weighted_grade": "D"
+  },
+  "salmon": {
+    "ghg_kg": {
+      "score": 39.17,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 14.28,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 64.42,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 36.87,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 49.39,
+      "grade": "C"
+    },
+    "weighted_score": 40.03,
+    "weighted_grade": "C"
+  },
+  "salmon fishcakes": {
+    "ghg_kg": {
+      "score": 46.48,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 16.37,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 69.36,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 44.98,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 53.19,
+      "grade": "C"
+    },
+    "weighted_score": 45.55,
+    "weighted_grade": "C"
+  },
+  "sausage rolls": {
+    "ghg_kg": {
+      "score": 48.13,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 19.21,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 57.24,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 45.76,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 42.61,
+      "grade": "C"
+    },
+    "weighted_score": 43.38,
+    "weighted_grade": "C"
+  },
+  "shepherd's pie": {
+    "ghg_kg": {
+      "score": 43.79,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 39.99,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 52.33,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 68.15,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 45.09,
+      "grade": "C"
+    },
+    "weighted_score": 47.3,
+    "weighted_grade": "C"
+  },
+  "shortbread biscuits": {
+    "ghg_kg": {
+      "score": 63.15,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 22.89,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 70.65,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 63.17,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 48.79,
+      "grade": "C"
+    },
+    "weighted_score": 55.16,
+    "weighted_grade": "C"
+  },
+  "sourdough bread": {
+    "ghg_kg": {
+      "score": 78.06,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 29.31,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 74.35,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 75.49,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 62.59,
+      "grade": "B"
+    },
+    "weighted_score": 65.76,
+    "weighted_grade": "B"
+  },
+  "soy desert": {
+    "ghg_kg": {
+      "score": 74.26,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.97,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 76.94,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 73.4,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 44.28,
+      "grade": "C"
+    },
+    "weighted_score": 62.45,
+    "weighted_grade": "B"
+  },
+  "soy milk": {
+    "ghg_kg": {
+      "score": 77.32,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 43.41,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 88.65,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 86.53,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 61.83,
+      "grade": "B"
+    },
+    "weighted_score": 72.18,
+    "weighted_grade": "B"
+  },
+  "soy yoghurt": {
+    "ghg_kg": {
+      "score": 86.45,
+      "grade": "A"
+    },
+    "water_kg": {
+      "score": 31.4,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 86.38,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 82.14,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 70.58,
+      "grade": "B"
+    },
+    "weighted_score": 73.41,
+    "weighted_grade": "B"
+  },
+  "spaghetti": {
+    "ghg_kg": {
+      "score": 67.82,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 23.12,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 67.55,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 63.78,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 61.14,
+      "grade": "B"
+    },
+    "weighted_score": 57.75,
+    "weighted_grade": "C"
+  },
+  "spaghetti bolognese": {
+    "ghg_kg": {
+      "score": 43.59,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 18.5,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 47.8,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 28.47,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 35.98,
+      "grade": "D"
+    },
+    "weighted_score": 37.14,
+    "weighted_grade": "D"
+  },
+  "spinach": {
+    "ghg_kg": {
+      "score": 75.42,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 28.58,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 86.83,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 87.66,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 72.23,
+      "grade": "B"
+    },
+    "weighted_score": 69.24,
+    "weighted_grade": "B"
+  },
+  "sponge cake": {
+    "ghg_kg": {
+      "score": 65.78,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 23.35,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 74.21,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 67.13,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 51.46,
+      "grade": "C"
+    },
+    "weighted_score": 57.68,
+    "weighted_grade": "C"
+  },
+  "steak pie": {
+    "ghg_kg": {
+      "score": 45.12,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 19.82,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 48.83,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 29.45,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 36.92,
+      "grade": "D"
+    },
+    "weighted_score": 38.41,
+    "weighted_grade": "D"
+  },
+  "strawberries": {
+    "ghg_kg": {
+      "score": 57.3,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 26.31,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 69.0,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 81.15,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 53.41,
+      "grade": "C"
+    },
+    "weighted_score": 55.44,
+    "weighted_grade": "C"
+  },
+  "strawberry jam": {
+    "ghg_kg": {
+      "score": 60.74,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 17.46,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 71.14,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 60.41,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 52.5,
+      "grade": "C"
+    },
+    "weighted_score": 53.31,
+    "weighted_grade": "C"
+  },
+  "sugar": {
+    "ghg_kg": {
+      "score": 65.99,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 15.38,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 75.73,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 56.61,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 53.64,
+      "grade": "C"
+    },
+    "weighted_score": 55.64,
+    "weighted_grade": "C"
+  },
+  "sunflower oil": {
+    "ghg_kg": {
+      "score": 55.41,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 50.28,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 44.22,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 29.99,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 26.97,
+      "grade": "D"
+    },
+    "weighted_score": 46.76,
+    "weighted_grade": "C"
+  },
+  "sunflower seeds": {
+    "ghg_kg": {
+      "score": 65.31,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 54.58,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 52.42,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 39.41,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 33.91,
+      "grade": "D"
+    },
+    "weighted_score": 54.86,
+    "weighted_grade": "C"
+  },
+  "sweetcorn": {
+    "ghg_kg": {
+      "score": 76.01,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 33.36,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 76.21,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 80.15,
+      "grade": "A"
+    },
+    "biodiversity_kg": {
+      "score": 77.48,
+      "grade": "B"
+    },
+    "weighted_score": 68.08,
+    "weighted_grade": "B"
+  },
+  "tea": {
+    "ghg_kg": {
+      "score": 31.0,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 41.53,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 41.43,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 34.52,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 9.26,
+      "grade": "E"
+    },
+    "weighted_score": 33.37,
+    "weighted_grade": "D"
+  },
+  "tofu": {
+    "ghg_kg": {
+      "score": 75.24,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 47.66,
+      "grade": "C"
+    },
+    "land_use_kg": {
+      "score": 70.82,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 75.1,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 64.1,
+      "grade": "B"
+    },
+    "weighted_score": 67.71,
+    "weighted_grade": "B"
+  },
+  "tomato ketchup": {
+    "ghg_kg": {
+      "score": 60.66,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 23.22,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 79.39,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 64.98,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 66.31,
+      "grade": "B"
+    },
+    "weighted_score": 57.92,
+    "weighted_grade": "C"
+  },
+  "tomatoes": {
+    "ghg_kg": {
+      "score": 62.82,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.9,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 88.4,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 73.75,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 85.13,
+      "grade": "A"
+    },
+    "weighted_score": 64.28,
+    "weighted_grade": "B"
+  },
+  "tortilla wraps": {
+    "ghg_kg": {
+      "score": 76.38,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 29.93,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 75.07,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 76.78,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 61.25,
+      "grade": "B"
+    },
+    "weighted_score": 65.35,
+    "weighted_grade": "B"
+  },
+  "tuna": {
+    "ghg_kg": {
+      "score": 35.64,
+      "grade": "D"
+    },
+    "water_kg": {
+      "score": 5.27,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 62.26,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 35.83,
+      "grade": "D"
+    },
+    "biodiversity_kg": {
+      "score": 47.45,
+      "grade": "C"
+    },
+    "weighted_score": 36.09,
+    "weighted_grade": "D"
+  },
+  "vegan pizza": {
+    "ghg_kg": {
+      "score": 65.2,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 27.83,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 76.47,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 65.81,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 57.49,
+      "grade": "C"
+    },
+    "weighted_score": 59.27,
+    "weighted_grade": "C"
+  },
+  "vegetable lasagne": {
+    "ghg_kg": {
+      "score": 56.67,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 25.49,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 66.35,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 62.71,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 41.97,
+      "grade": "C"
+    },
+    "weighted_score": 51.5,
+    "weighted_grade": "C"
+  },
+  "vegetarian chilli con carne": {
+    "ghg_kg": {
+      "score": 70.01,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 33.63,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 68.91,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 71.97,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 43.51,
+      "grade": "C"
+    },
+    "weighted_score": 60.06,
+    "weighted_grade": "B"
+  },
+  "vegetarian curry": {
+    "ghg_kg": {
+      "score": 71.38,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 25.68,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 74.95,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 70.51,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 60.28,
+      "grade": "B"
+    },
+    "weighted_score": 61.76,
+    "weighted_grade": "B"
+  },
+  "vegetarian pizza": {
+    "ghg_kg": {
+      "score": 49.86,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 21.83,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 59.87,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 54.13,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 35.79,
+      "grade": "D"
+    },
+    "weighted_score": 45.28,
+    "weighted_grade": "C"
+  },
+  "walnuts": {
+    "ghg_kg": {
+      "score": 61.86,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 6.04,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 51.29,
+      "grade": "C"
+    },
+    "eutrophication_kg": {
+      "score": 55.23,
+      "grade": "C"
+    },
+    "biodiversity_kg": {
+      "score": 37.85,
+      "grade": "D"
+    },
+    "weighted_score": 45.52,
+    "weighted_grade": "C"
+  },
+  "watermelon": {
+    "ghg_kg": {
+      "score": 76.04,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 19.63,
+      "grade": "E"
+    },
+    "land_use_kg": {
+      "score": 86.58,
+      "grade": "A"
+    },
+    "eutrophication_kg": {
+      "score": 61.05,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 63.47,
+      "grade": "B"
+    },
+    "weighted_score": 64.11,
+    "weighted_grade": "B"
+  },
+  "wine": {
+    "ghg_kg": {
+      "score": 67.11,
+      "grade": "B"
+    },
+    "water_kg": {
+      "score": 37.95,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 65.73,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 78.0,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 51.57,
+      "grade": "C"
+    },
+    "weighted_score": 60.54,
+    "weighted_grade": "B"
+  },
+  "yoghurt": {
+    "ghg_kg": {
+      "score": 57.93,
+      "grade": "C"
+    },
+    "water_kg": {
+      "score": 27.31,
+      "grade": "D"
+    },
+    "land_use_kg": {
+      "score": 70.02,
+      "grade": "B"
+    },
+    "eutrophication_kg": {
+      "score": 65.55,
+      "grade": "B"
+    },
+    "biodiversity_kg": {
+      "score": 44.55,
+      "grade": "C"
+    },
+    "weighted_score": 53.65,
+    "weighted_grade": "C"
+  }
+}
