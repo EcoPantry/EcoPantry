@@ -8,6 +8,9 @@ import recipeRouter from './routes/recipeRouter';
 import authRouter from './routes/auth/index';
 import ingredientRouter from './routes/ingredientRouter';
 import brandRouter from './routes/brandRouter';
+import userInventoryRouter from './routes/userInventoryRouter';
+import productRouter from './routes/productRouter';
+import esgRouter from './routes/esgRouter';
 
 dotenv.config();
 
@@ -53,6 +56,9 @@ app.use('/api/auth', authRouter);
 app.use('/api/recipes', recipeRouter);
 app.use('/api/ingredients', ingredientRouter);
 app.use('/api/brands', brandRouter);
+app.use("/api/user-inventory", userInventoryRouter);
+app.use('/api/products', productRouter);
+app.use("/api/brands", esgRouter);
 
 
 export default app;
