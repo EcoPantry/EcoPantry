@@ -140,6 +140,8 @@ model Ingredient {
   includes      Include[]
   inventory     UserInventory[]
 
+  products      Product[]
+}
 
 model Include {
   isid    Int
@@ -162,12 +164,25 @@ model IngredientsSection {
   includes    Include[]
 }
 
+model Product {
+  id           Int        @id @default(autoincrement())
+  productName  String     // e.g. "Rigatoni", "Fusilli", "Elbow Macaroni"
+  ingredientId Int
+  brandId      Int
+
+  // Relations
+  ingredient   Ingredient @relation(fields: [ingredientId], references: [iid])
+  brand        Brand      @relation(fields: [brandId], references: [id])
+}
+
 model Brand {
   id      Int     @id @default(autoincrement())
   name    String  @unique
 
   esg     ESGRating?
   ingredients Ingredient[]
+
+  products Product[]
 }
 
 model ESGRating {
