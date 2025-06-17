@@ -28,6 +28,7 @@ const LoginForm = () => {
       setUser({
         name: user.name,
         email: user.email,
+        id: user.id,
         initials:
           user.name?.[0]?.toUpperCase() || email.charAt(0).toUpperCase(),
       });
