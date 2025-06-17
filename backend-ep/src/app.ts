@@ -6,6 +6,8 @@ import cookieParser from 'cookie-parser';
 import userRoutes from './routes/user.route';
 import recipeRouter from './routes/recipeRouter';
 import authRouter from './routes/auth/index';
+import ingredientRouter from './routes/ingredientRouter';
+import brandRouter from './routes/brandRouter';
 
 dotenv.config();
 
@@ -49,5 +51,7 @@ app.use('/api/users', userRoutes);
 app.use('/api/auth', authRouter);
 
 app.use('/api/recipes', recipeRouter);
+app.use('/api/ingredients', ingredientRouter);
+app.use('/api/brands', brandRouter);
 
 export default app;
