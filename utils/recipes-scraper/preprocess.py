@@ -1,6 +1,7 @@
 import json
 import re
 from pprint import pprint
+from ingredient_parser import parse_ingredient
 
 def parseInstructions(rawText):
     if not rawText:
@@ -19,9 +20,45 @@ def parseInstructions(rawText):
         if line:
             steps.append(line)
    
-    print(steps)  
     return steps
 
+def parseIngredients(rawIngredientsList):
+    if not rawIngredientsList:
+        return []
+
+    ingredients = []
+    for ingredient in rawIngredientsList:
+        parsed = parse_ingredient(ingredient)
+        ingDetails = {}
+        # print(parsed.name)
+        # print(parsed.amount)
+        if parsed.name:
+            ingName = parsed.name[0].text
+            ingDetails["name"] = ingName
+        
+        if parsed.amount:
+            if parsed.amount[0].quantity:
+                ingAmt = str(parsed.amount[0].quantity)
+            else:
+                ingAmt = None
+
+            if parsed.amount[0].unit:
+                ingUnit = str(parsed.amount[0].unit)
+            else:
+                ingUnit = None
+            
+            
+            ingDetails["amount"] = {
+                "quantity": ingAmt,
+                "unit": ingUnit,
+            }
+
+        print(ingDetails)
+        ingredients.append(ingDetails) 
+            
+    # for ing in ingredients:
+    #     print(f"ingredient: {ing.name}, amt: {ing.amount}")
+    return ingredients
 
 def main():
     with open("recipe_details.json", "r", encoding="utf-8") as f:
@@ -31,17 +68,11 @@ def main():
     categories = set()
     areas = set()
 
-    c = 0
-    maxC = 1
     for recipe in recipes:
-        if c == maxC:
-            break
-
-        pprint(recipe)
-
         category = recipe.get("category", "")
         area = recipe.get("area", "")
         instructionsParsed = parseInstructions(recipe.get("instructions", ""))
+        ingredientsParsed = parseIngredients(recipe.get("ingredients", []))
 
         categories.add(category)
         areas.add(area)
@@ -54,10 +85,8 @@ def main():
             "youtube": recipe.get("youtube", ""),
             "thumbnail": recipe.get("thumbnail", ""),
             "instructions": instructionsParsed,
-            "ingredients": [], # Placeholder
+            "ingredients": ingredientsParsed
         })
-
-        c += 1
 
     print(len(processedRecipes))
 
