@@ -1,7 +1,7 @@
 import json
 
 def main():
-    with open('../fairprice-scraper/fairprice_products_by_category_processed.json', 'r', encoding='utf-8') as f:
+    with open('../fairprice-scraper/final.json', 'r', encoding='utf-8') as f:
         productData = json.load(f)
 
     with open("../recipes-scraper/recipe_details_processed.json", 'r', encoding='utf-8') as f:
@@ -17,23 +17,20 @@ def main():
     # Step 1: Create ID → Ingredient Name map
     id_to_ingredient = {v: k for k, v in recipeData["ingredients"].items()}
 
-    # Step 2: Flatten FairPrice product names
-    product_list = [item for sublist in list(productData.values()) for item in sublist]
-
     # Step 3: Match ingredients to related products via substring matching
     ingredient_products = []
 
     for ingredient_id, ingredient_name in id_to_ingredient.items():
         matches = []
-        for product in product_list:
+        for product in productData.values():
             if ingredient_name.lower() in product["name"].lower():
                 matches.append(product)
 
         if matches:
             ingredient_products.append({
-                "ingredient_id": ingredient_id, 
+                "ingredientId": ingredient_id, 
                 "ingredient": ingredient_name,
-                "matched_products": matches
+                "matchedProducts": matches
             })
 
     # Step 4: Output mapping to JSON
