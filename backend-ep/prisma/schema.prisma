@@ -139,7 +139,7 @@ model Ingredient {
 
   includes      Include[]
   inventory     UserInventory[]
-
+}
 
 model Include {
   isid    Int
