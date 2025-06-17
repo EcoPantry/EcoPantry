@@ -20,4 +20,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["sh", "-c", "bun run dev"]
+CMD ["sh", "-c", "bunx prisma migrate deploy && bun run dev"]
