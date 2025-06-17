@@ -1,16 +1,17 @@
-import cors from 'cors';
-import dotenv from 'dotenv';
+import cors from "cors";
+import dotenv from "dotenv";
 import express from "express";
-import cookieParser from 'cookie-parser';
+import cookieParser from "cookie-parser";
 
-import userRoutes from './routes/user.route';
-import recipeRouter from './routes/recipeRouter';
-import authRouter from './routes/auth/index';
-import ingredientRouter from './routes/ingredientRouter';
-import brandRouter from './routes/brandRouter';
-import userInventoryRouter from './routes/userInventoryRouter';
-import productRouter from './routes/productRouter';
-import esgRouter from './routes/esgRouter';
+import userRoutes from "./routes/user.route";
+import recipeRouter from "./routes/recipeRouter";
+import authRouter from "./routes/auth/index";
+import ingredientRouter from "./routes/ingredientRouter";
+import brandRouter from "./routes/brandRouter";
+import userInventoryRouter from "./routes/userInventoryRouter";
+import productRouter from "./routes/productRouter";
+import esgRouter from "./routes/esgRouter";
+import geminiRouter from "./routes/geminiRouter";
 
 dotenv.config();
 
@@ -21,17 +22,18 @@ const app = express();
 //     next();
 // });
 
-
-const FRONTEND_ORIGIN = "http://fe-bucket-ecopantry.s3-website-ap-southeast-1.amazonaws.com";
-
+const FRONTEND_ORIGIN =
+  "http://fe-bucket-ecopantry.s3-website-ap-southeast-1.amazonaws.com";
 
 // ✅ Apply CORS first and globally
-app.use(cors({
+app.use(
+  cors({
     origin: FRONTEND_ORIGIN,
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-    allowedHeaders: ["Content-Type", "Authorization"]
-}));
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
 
 // ✅ Allow preflight from browser
 // app.options("*", cors({
@@ -39,26 +41,25 @@ app.use(cors({
 //     credentials: true
 // }));
 
-
 app.use(express.json());
 app.use(cookieParser());
 
-app.get('/', (req, res) => {
-    res.status(200).json({
-        status: 'ok!',
-        message: 'healthy!'
-    });
+app.get("/", (req, res) => {
+  res.status(200).json({
+    status: "ok!",
+    message: "healthy!",
+  });
 });
 
-app.use('/api/users', userRoutes); 
-app.use('/api/auth', authRouter);
+app.use("/api/users", userRoutes);
+app.use("/api/auth", authRouter);
 
-app.use('/api/recipes', recipeRouter);
-app.use('/api/ingredients', ingredientRouter);
-app.use('/api/brands', brandRouter);
+app.use("/api/recipes", recipeRouter);
+app.use("/api/ingredients", ingredientRouter);
+app.use("/api/brands", brandRouter);
 app.use("/api/user-inventory", userInventoryRouter);
-app.use('/api/products', productRouter);
+app.use("/api/products", productRouter);
 app.use("/api/brands", esgRouter);
-
+app.use("/api/gemini", geminiRouter);
 
 export default app;
