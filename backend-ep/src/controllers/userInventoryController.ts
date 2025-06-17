@@ -116,3 +116,54 @@ export const deleteUserIngredient = async (req: Request, res: Response) => {
     res.status(500).json({ error: "Internal server error" });
   }
 };
+
+/**
+ * GET /api/ingredients/:uid
+ * Lists all ingredients in a user's inventory.
+ */
+export const listUserIngredients = async (req: Request, res: Response) => {
+  try {
+    const { uid } = req.params;
+
+    const inventory = await prisma.userInventory.findMany({
+      where: { uid },
+      include: { ingredient: true },
+    });
+
+    res.status(200).json(inventory);
+  } catch (err) {
+    console.error("Error fetching inventory:", err);
+    res.status(500).json({ error: "Internal server error" });
+  }
+};
+
+/**
+ * PUT /api/ingredients/:uid/:iid
+ * Updates the quantity of a specific ingredient in user's inventory.
+ */
+export const updateUserIngredient = async (req: Request, res: Response) => {
+  try {
+    const { uid, iid } = req.params as { uid?: string; iid?: string };
+    const { quantity } = req.body;
+
+    if (!uid || !iid) {
+      res.status(400).json({ error: "Missing uid or iid in path params" });
+      return;
+    }
+
+    const updated = await prisma.userInventory.update({
+      where: {
+        uid_iid: {
+          uid,
+          iid: parseInt(iid),
+        },
+      },
+      data: { quantity },
+    });
+
+    res.status(200).json(updated);
+  } catch (err) {
+    console.error("Error updating ingredient:", err);
+    res.status(500).json({ error: "Internal server error" });
+  }
+};
