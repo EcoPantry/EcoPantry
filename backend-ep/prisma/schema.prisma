@@ -81,7 +81,7 @@ model Recipe {
 // ==================== TAGGING ====================
 model Tag {
   tagId   Int           @id @default(autoincrement())
-  tagName String
+  tagName String        @unique
   recipes RecipeTags[]
 }
 
@@ -127,14 +127,14 @@ model StepsSection {
 // ==================== INGREDIENTS ====================
 model Ingredient {
   iid       Int      @id @default(autoincrement())
-  name      String
+  name      String   @unique 
   quantity  Int
   unit      String
   type      String
   category  String
 
-  includes  Include[]
-  inventory      UserInventory[]
+  includes      Include[]
+  inventory     UserInventory[]
 }
 
 model Include {
