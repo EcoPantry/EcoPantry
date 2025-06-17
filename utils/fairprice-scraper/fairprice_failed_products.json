@@ -1,0 +1,967 @@
+[
+  {
+    "url": "https://www.fairprice.com.sg//product/fnp-hazelnut-praline-cake",
+    "category": "breads",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/ramly-cheesecake-blueberry-60-g-90062986",
+    "category": "breads",
+    "error": "HTTPConnectionPool(host='localhost', port=58671): Read timed out. (read timeout=120)"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/13000171",
+    "category": "eggs",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/harvest-fields-free-range-eggs-extra-large-350g-6-per-pack-13242069",
+    "category": "eggs",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/v-ls-mixed-bers5x125-13225897",
+    "category": "fresh milk",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/f-n-magnolia-fresh-milk-946ml-13022014",
+    "category": "fresh milk",
+    "error": "HTTPConnectionPool(host='localhost', port=59426): Read timed out. (read timeout=120)"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/farmhouse-uht-milk---fresh-12708020",
+    "category": "uht milk",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/tsukuba-rich-alomond-milk-with-freash-almond",
+    "category": "uht milk",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yeo-s-super-sprouts-soy-milk-chocolate-24-x-200ml-12713651",
+    "category": "uht milk",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/bobo-cheese-sticks-150g-13201956",
+    "category": "cheese",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/chobani-greek-yogurt-natural-light-170g-13053817",
+    "category": "yoghurt",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/starbucks-nespresso-capsule-sunny-day-blend-10-per-pack-13234222",
+    "category": "coffee",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/gingen-strong-ginger-formula-instant-powder-10s-180g-13026720",
+    "category": "tea",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/nature2000-org-lemongrass-ginger-tea-12s-x-25g-13007997",
+    "category": "tea",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/brooke-bond-red-label-tea-leaves-500g-by-dashmesh-500-g-90056515",
+    "category": "tea",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/richboy-3-in-1-instant-milk-tea-teh-tarik-15-x-40g-13202009",
+    "category": "tea",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/s-w-can-juice-drink-100-pineapple-6-x-240ml-13221600",
+    "category": "juices",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/rida-canned-pure-pineapple-juice-250-ml-90196072",
+    "category": "juices",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/go-nut-ink-cold-pressed-coconut-water",
+    "category": "juices",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/harvey-fresh-uht-milk-skim-1lt-10905401",
+    "category": "uht milk",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/marigold-uht-packet-milk-chocolate-12-x-1l-ctn-12705180",
+    "category": "uht milk",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/rude-health-ultimate-almond-drink-1-l-90033486",
+    "category": "uht milk",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/tsukuba-rich-alomond-milk-with-freash-almond",
+    "category": "uht milk",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/tsukuba-rich-almond-milk-with-fresh-almond",
+    "category": "uht milk",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/vinamilk-high-protein-low-fat-uht-milk---lactose-free",
+    "category": "uht milk",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/fairprice-pure-drinking-bottle-water-24-x-600ml-ctn-12709931",
+    "category": "water",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/ctn-volvic-natural-mineral-water-6s-x-15lt-11058873",
+    "category": "water",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/13137234",
+    "category": "water",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/aurea-fenice-princess-00-bollicine-bianco",
+    "category": "non alcoholic",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/canter-rosso-surperior-00-red-wine",
+    "category": "non alcoholic",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sonrie-sparkling-00-blanco-white-wine",
+    "category": "non alcoholic",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sonrie-12-months-tinto-00-red-wine",
+    "category": "non alcoholic",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sonrie-sparkling-00-rose-wine",
+    "category": "non alcoholic",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sonrie-blanco-00-white-wine",
+    "category": "non alcoholic",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sonrie-tinto-00-red-wine",
+    "category": "non alcoholic",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/red-tractor-foods-rolled-oats-australian-creamy-style-1kg-13146681",
+    "category": "breakfast",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/nestle-cookie-crisp-cereal-with-whole-grain-330g-11035401",
+    "category": "breakfast",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/fairprice-cereal-corn-flakes-250g-13200181",
+    "category": "breakfast",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/carman-s-nut-bars-dark-chocolate-espresso-160g-13130462",
+    "category": "breakfast",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yava-granola-with-cashews-chocolate-vanilla-200g-13237913",
+    "category": "breakfast",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/da-nestle-honey-stars-gwp-2s-300g-13267220",
+    "category": "breakfast",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/quest-nutrition-protein-bar-chocolate-chip-cookie-dough-4-bar-60-g-90145334",
+    "category": "breakfast",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/gold-kili-instant-cereal-20s-x-30g-12308694",
+    "category": "breakfast",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/campbells-instant-soup-cream-of-chicken-22g-10826391",
+    "category": "ready-to-eat",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/nissin-instant-bowl-noodles-pepper-lunch-cheese-curry-flavour-100g-13262646",
+    "category": "ready-to-eat",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/dolphin-safe-fortune-tuna-chunks-in-spring-water-185g-13175029",
+    "category": "canned food",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/agromar-anchovy-fillets-in-olive-oil-1",
+    "category": "canned food",
+    "error": "Message: unknown error: net::ERR_CONNECTION_CLOSED\n  (Session info: chrome=137.0.7151.55)\nStacktrace:\n0   chromedriver                        0x0000000104ba0708 cxxbridge1$str$ptr + 2729312\n1   chromedriver                        0x0000000104b9896c cxxbridge1$str$ptr + 2697156\n2   chromedriver                        0x00000001046ea728 cxxbridge1$string$len + 90444\n3   chromedriver                        0x00000001046e2914 cxxbridge1$string$len + 58168\n4   chromedriver                        0x00000001046d588c cxxbridge1$string$len + 4784\n5   chromedriver                        0x00000001046d7290 cxxbridge1$string$len + 11444\n6   chromedriver                        0x00000001046d5ce0 cxxbridge1$string$len + 5892\n7   chromedriver                        0x00000001046d5634 cxxbridge1$string$len + 4184\n8   chromedriver                        0x00000001046d5380 cxxbridge1$string$len + 3492\n9   chromedriver                        0x00000001046d3138 chromedriver + 192824\n10  chromedriver                        0x00000001046d3b94 chromedriver + 195476\n11  chromedriver                        0x00000001046ed78c cxxbridge1$string$len + 102832\n12  chromedriver                        0x0000000104773b38 cxxbridge1$string$len + 652636\n13  chromedriver                        0x00000001047730c4 cxxbridge1$string$len + 649960\n14  chromedriver                        0x0000000104725bc0 cxxbridge1$string$len + 333284\n15  chromedriver                        0x0000000104b64298 cxxbridge1$str$ptr + 2482416\n16  chromedriver                        0x0000000104b6752c cxxbridge1$str$ptr + 2495364\n17  chromedriver                        0x0000000104b45ae0 cxxbridge1$str$ptr + 2357560\n18  chromedriver                        0x0000000104b67db4 cxxbridge1$str$ptr + 2497548\n19  chromedriver                        0x0000000104b36dec cxxbridge1$str$ptr + 2296900\n20  chromedriver                        0x0000000104b87c4c cxxbridge1$str$ptr + 2628260\n21  chromedriver                        0x0000000104b87dd8 cxxbridge1$str$ptr + 2628656\n22  chromedriver                        0x0000000104b985b8 cxxbridge1$str$ptr + 2696208\n23  libsystem_pthread.dylib             0x0000000196bfc2e4 _pthread_start + 136\n24  libsystem_pthread.dylib             0x0000000196bf70fc thread_start + 8\n"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/mei-way-luncheon-meat-pork-397g-12156029",
+    "category": "canned food",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/fong-yit-xo-less-sugar-kaya-270g-11147606",
+    "category": "jams, spreads & honey",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/ayam-brand-tuna-light-meal-chickpeas-lentils-quinoa-mildlyspicy-150g-13188910",
+    "category": "jams, spreads & honey",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/glory-nonya-kaya-less-sugar-250g-13016837",
+    "category": "jams, spreads & honey",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/stdalfour-fruit-spread-cberry-w-bberry-284g-10761428",
+    "category": "jams, spreads & honey",
+    "error": "HTTPConnectionPool(host='localhost', port=51954): Read timed out. (read timeout=120)"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/fix-&-fogg-e/thing-butter-n.hmp-275g-13191608",
+    "category": "jams, spreads & honey",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/les-comtes-organic-red-fig-fruit-spread-350-g-90063449",
+    "category": "jams, spreads & honey",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/haagen-dazs-ice-cream---matcha-green-tea-10865286",
+    "category": "ice cream",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/swensen-s-sticky-chewy-chocolate-ice-cream-pint-tub-473-ml-90033617",
+    "category": "ice cream",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/swensen-s-lower-sugar-chocolate-ice-cream-pint-tub-473-ml-90033621",
+    "category": "ice cream",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/the-ice-cream-cookie-co-sorbet-yuzu-473ml-13207514",
+    "category": "ice cream",
+    "error": "HTTPConnectionPool(host='localhost', port=65311): Read timed out. (read timeout=120)"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/mr-joy-s-mini-glutinous-rice-ball-120-g-90098712",
+    "category": "frozen desserts",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/kirei-hokkaido-new-york-cheese-cake-frozen-240g-90012378",
+    "category": "frozen desserts",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/cp-shrimp-wonton-bowl-145g-11189734",
+    "category": "frozen food",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/t-c-twiste-garlic350-13255524",
+    "category": "frozen food",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/valley-chef-chicken-franks-340g-209280",
+    "category": "frozen meat",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/valley-chef-chicken-franks-340g-209280",
+    "category": "frozen meat",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/hego-minced-beef-lean-1-x-500g-90021288",
+    "category": "frozen meat",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/porkee-frozen-belly-cube-500g-13199874",
+    "category": "frozen meat",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/ksp-pork-minced-300-g-90065919",
+    "category": "frozen meat",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/punched-foods-brazil-beef-shin-shank-cubes-1-kg-90151688",
+    "category": "frozen meat",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/punched-foods-organic-chicken-whole-leg-250-g-90135195",
+    "category": "frozen meat",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/ken-ken-marinated-chicken-leg-meat-boneless-black-pepper-300-g-90160721",
+    "category": "frozen meat",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/toi-frozen-beef-ball",
+    "category": "frozen meat",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/fish-bay-white-fish-loin-600g-13033373",
+    "category": "frozen seafood",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/serve-by-hai-sia-norwegian-salmon-portion-s-cut-frozen-200-g-90198871",
+    "category": "frozen seafood",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/the-better-fish-barramundi-tuscan-herb-butter-340-g-90158120",
+    "category": "frozen seafood",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/trutaste-wild-caught-halibut-fish-steak-300-g-90025506",
+    "category": "frozen seafood",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/thailand-mango-1-per-pack-13176750",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/orgo-fresh-pisang-mas-banana",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-pear-fragrant-90074794",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-lemon-90074785",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-pear-packham-90090845",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-grapes-red-seedless-90074780",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-apple-red-gala-90090847",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-grapefruit-90074788",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-dragonfruit-red-90074790",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-dragonfruit-white-90074791",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-apple-red-china-fuji-90090899",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-blueberry-90090840",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/orgo-fresh-premium-red-passion-fruit",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-orange-90074777",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-apple-red-fuji-china-100-113c-17kg-carton-90169420",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-prayer-fruit-bundle-apple-orange-pear-15-pcs-90169685",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-orange-egypt-72c-14kg-carton-90169409",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yayapapaya-apple-red-mini-90090846",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/siafa-safawi-dates-3",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/slh-ipoh-tambum-pomelo-1200-g-90116829",
+    "category": "fruits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/malaysia-naturally-fresh-japanese-cucumber-400g-13097478",
+    "category": "vegetables",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/vegeponics-pesticide-free-curly-kale-120-g-90065989",
+    "category": "vegetables",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/orgo-fresh-indian-red-onion-600-g-90144336",
+    "category": "vegetables",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/orgo-fresh-indian-small-red-onion-200-g-90150768",
+    "category": "vegetables",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/grozer-bottle-gourd-1-pc-90113406",
+    "category": "vegetables",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/simply-finest-laksa-leaf-100g-11659134",
+    "category": "vegetables",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/thygrace-romaine-lettuce-330-g-90169408",
+    "category": "vegetables",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yuan-zhen-yuan-garlic-peeled-200-g-90187567",
+    "category": "vegetables",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/aw-s-market-chicken-fillet-200-g-90122461",
+    "category": "chicken",
+    "error": "HTTPConnectionPool(host='localhost', port=60381): Read timed out. (read timeout=120)"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/meat-affair-australia-pork-loin-bone-long-gu-1000g-90039671",
+    "category": "pork",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/qmeat-beef-topside-halal-500-g-90047146",
+    "category": "beef & lamb",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sir-harry-wagyu-sukiyaki-chilled",
+    "category": "beef & lamb",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sir-harry-wagyu-fingers-chilled",
+    "category": "beef & lamb",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sir-harry-wagyu-stir-fry-chilled",
+    "category": "beef & lamb",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sir-harry-wagyu-cubes-chilled",
+    "category": "beef & lamb",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/serve-by-hai-sia-canadian-scallops-frozen-frozen-150-g-90198868",
+    "category": "fish & seafood",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/mr-joy-s-steamboat-mixed-pack-hotpot-270-g-90077813",
+    "category": "fish & seafood",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/emerald-hokkaido-scallops-700g-13210128",
+    "category": "fish & seafood",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/pan-royal-frozen-frog-leg-8-10-1-kg-90106245",
+    "category": "fish & seafood",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/the-straits-fish-tilapia-skinless-slice-fresh-200-g-90199796",
+    "category": "fish & seafood",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/cb-10-12-frozen-live-black-tiger-prawn-hoso-1-kg-90011415",
+    "category": "fish & seafood",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/aoraki-nz-king-cold-smoked-salmon-slices-frozen-100-g-90198856",
+    "category": "fish & seafood",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/pagoda-pure-corn-flour-400g-50055",
+    "category": "baking needs",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/fairprice-corn-flour-400g-13197494",
+    "category": "baking needs",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/bake-king-pandan-paste-30g-11642156",
+    "category": "baking needs",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/redman-sodium-bicarbonate-baking-soda-2",
+    "category": "baking needs",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/le-5-stagioni-napoletana-00-flour",
+    "category": "baking needs",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/maehara-corn-flour-zipper-bag-200-g-90098382",
+    "category": "baking needs",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/edentown-korea-natural-strawberry-powder-100-g-90096186",
+    "category": "baking needs",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/13110985",
+    "category": "rice",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/naturel-organic-brown-rice-2kg-11698846",
+    "category": "rice",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/superfarm-organic-tricolor-quinoa-1-kg-90023419",
+    "category": "rice",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/pasar-white-glutinous-rice-300g-13218876",
+    "category": "rice",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/koala-super-premium-japonica-rice-25-kg-90089695",
+    "category": "rice",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/golden-eagle-superior-grade-thai-fragrant-rice-7-kg-90038781",
+    "category": "rice",
+    "error": "HTTPConnectionPool(host='localhost', port=49433): Read timed out. (read timeout=120)"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/hakubaku-organic-somen-270g-12604143",
+    "category": "noodles",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/lg-dan-dan-mee-kia-320-g-90028219",
+    "category": "noodles",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/green-earth-millet-flat-noodle-300-g-90031457",
+    "category": "noodles",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/green-earth-natural-coarse-ramen-500-g-90031272",
+    "category": "noodles",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/taste-original-natural-spinach-noodles-300-g-90103784",
+    "category": "noodles",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/cyl-carrot-noodles-25pcs-2-kg-90012252",
+    "category": "noodles",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/kurata-foods-zero-salt-somen-japanese-noodles-kirei-150g-90008025",
+    "category": "noodles",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/pastificio-dei-campi-spaghetti-di-gragnano",
+    "category": "pasta",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/redman-pasta---torchietti",
+    "category": "pasta",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/tsukuba-caramel-sauce---caramel-milk",
+    "category": "sugar & sweeteners",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/daito-sato-zarame-brown-sugar-kirei-1kg-90014987",
+    "category": "sugar & sweeteners",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/slym-erythritol-sugar-replacer-sweetener-150-g-90146263",
+    "category": "sugar & sweeteners",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/kirei-kondo-honey-factory-series-blueberry-syrup-90016411",
+    "category": "sugar & sweeteners",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/fairprice-olive-oil-extra-virgin-1l-10927141",
+    "category": "oil",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/li-hong-sichuan-pepper-oil-330-ml-90192606",
+    "category": "oil",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/idhayam-sesame-oil-1l-90004372",
+    "category": "oil",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yuan-shun-germinated-cold-pressed-sesame-sprout-oil-570-ml-90131977",
+    "category": "oil",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/prima-taste-complete-sauce-fried-hokkien-prawn-noodle-210g-13226877",
+    "category": "cooking paste & sauces",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/prima-taste-sauce-kit-hainanese-chicken-rice-370g-11008200",
+    "category": "cooking paste & sauces",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/fairprice-sauce-mix-chicken-rice-180g-10861613",
+    "category": "cooking paste & sauces",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/13089297",
+    "category": "cooking paste & sauces",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/linghams-chilli-sauce-280ml-13043638",
+    "category": "condiments",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/colman-s-mustard-sauce-original-english-100g-13077181",
+    "category": "condiments",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/knorr-stock-cubes-chicken-no-added-msg-120g-12261304",
+    "category": "seasonings",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/tadka-coarse-grain-620g-90015491",
+    "category": "seasonings",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/nature-s-superfoods-organic-ceylon-cinnamon-powder-premium-1-x-100g-90009179",
+    "category": "seasonings",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/mccormick-seasoning-himalayan-pink-salt-black-pepper-garlic-184g-13132310",
+    "category": "seasonings",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/singlong-ground-white-pepper-medium-100g-13157247",
+    "category": "seasonings",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/tartufi-jimmy-truffle-sauce-mushroom-180g-13203993",
+    "category": "seasonings",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/mccormick-cinnamon-sticks-13g-13246373",
+    "category": "seasonings",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/my-choice-seasoning-bay-leaf-3g-13264550",
+    "category": "seasonings",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sakthi-garam-masala-200g-90003821",
+    "category": "seasonings",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/happy-belly-singapore-bak-kut-teh-13127740",
+    "category": "seasonings",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/indofood-instant-seasoning-mix-gulai-45g-13155752",
+    "category": "soups",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/shoo-l-k-cls-hpot-c-shrimp-sf-80g-13260775",
+    "category": "soups",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sun-kee-melon-strip-200g-11577526",
+    "category": "dried food",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/aaa-premium-shitake-mushroom-tea-flower-200-g-90030183",
+    "category": "dried food",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/laobanniang-dried-snow-chrysanthemum-100-g-90067275",
+    "category": "dried food",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/hudsons-cough-drops-honey-lemon-100g-12529892",
+    "category": "sweets",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/nin-jiom-herbal-candy-original-tin-60g-398075",
+    "category": "sweets",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/impact-sugar-free-mints-lychee-14g-13230037",
+    "category": "sweets",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/haribo-gummy-candies-worms-80g-13076821",
+    "category": "sweets",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/yummy-earth-org-assorted-lollipops-85g-11970336",
+    "category": "sweets",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/royal-family-royal-family-millet-mochi-mixed-300-g-300-g-90043141",
+    "category": "sweets",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/chocoelf-speculoos-kunfa-choc-210g-13261913",
+    "category": "chocolates",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/zaini-milk-chocolate-eggs-robocar-poli-60g-13176654",
+    "category": "chocolates",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/cocoa-melts-speculoos-kunafa-chocolate",
+    "category": "chocolates",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/markrin-organic-vegan-70-dark-chocolate",
+    "category": "chocolates",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/hup-seng-special-cream-cracker-10s-225g-11157740",
+    "category": "biscuits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/loacker-classic-mini-crispy-wafers-cremkakao-20-x-10g-13092621",
+    "category": "biscuits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/mybizcuit-digestive-biscuit-raisin-250g-13226822",
+    "category": "biscuits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/gullon-s-free-choco-wafer-180g-13255139",
+    "category": "biscuits",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/jack-n-jill-roller-coaster-potato-rings-cheese-70g-301929",
+    "category": "snacks",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/calbee-prawn-crackers-truffle-80g-13241295",
+    "category": "snacks",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/naspac-pudding-with-nata-de-coco-mango-6s-108g-12165283",
+    "category": "snacks",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/13038691",
+    "category": "snacks",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/wong-coco-aloe-vera-with-dietary-fibre-280g-10597138",
+    "category": "snacks",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/pringles-potato-crisps-spicy-garlic-prawn-97g-13221792",
+    "category": "snacks",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/camel-natural-almonds-400g-11736013",
+    "category": "dried fruits & nuts",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/tong-garden-salted-cashew-nuts-400g-13048943",
+    "category": "dried fruits & nuts",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/sun-maid-natural-california-raisins-golden-6-x-28-3g-13096115",
+    "category": "dried fruits & nuts",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/camel-natural-cocktail-mix-400g-11241328",
+    "category": "dried fruits & nuts",
+    "error": "HTTPConnectionPool(host='localhost', port=54504): Read timed out. (read timeout=120)"
+  },
+  {
+    "url": "https://www.fairprice.com.sg//product/cha-cha-sunflower-seed-spiced-250g-13241838",
+    "category": "dried fruits & nuts",
+    "error": "'NoneType' object has no attribute 'text'"
+  }
+]
