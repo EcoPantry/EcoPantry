@@ -1,5 +1,5 @@
-export const BASE_API_URL = "http://localhost:3000"
-// export const BASE_API_URL = "http://ecopantry-alb-172202900.ap-southeast-1.elb.amazonaws.com/"
+// export const BASE_API_URL = "http://localhost:3000"
+export const BASE_API_URL = "http://ecopantry-alb-172202900.ap-southeast-1.elb.amazonaws.com/"
 
 export const api = {
   get: async (endpoint: string) => {
