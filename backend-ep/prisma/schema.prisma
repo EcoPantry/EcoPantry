@@ -127,11 +127,14 @@ model StepsSection {
 // ==================== INGREDIENTS ====================
 model Ingredient {
   iid       Int      @id @default(autoincrement())
-  name      String   @unique 
+  name      String   @unique
   quantity  Int
   unit      String
   type      String
   category  String
+
+  brandId Int?
+  brand   Brand? @relation(fields: [brandId], references: [id])
 
   includes      Include[]
   inventory     UserInventory[]
@@ -156,6 +159,25 @@ model IngredientsSection {
 
   recipe      Recipe  @relation(fields: [rid], references: [rid])
   includes    Include[]
+}
+
+model Brand {
+  id      Int     @id @default(autoincrement())
+  name    String  @unique
+
+  esg     ESGRating?
+  ingredients Ingredient[]
+}
+
+model ESGRating {
+  id         Int    @id @default(autoincrement())
+  brandId    Int    @unique
+  environmentScore Float
+  socialScore      Float
+  governanceScore  Float
+  totalScore       Float  // derived or manually given
+
+  brand      Brand  @relation(fields: [brandId], references: [id])
 }
 
 // ==================== FAVOURITES ====================
