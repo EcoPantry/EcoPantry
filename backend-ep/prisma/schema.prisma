@@ -18,18 +18,196 @@ model User {
   id        String   @id @default(uuid())
   email     String   @unique
   name      String?
-  password  String? // optional for hybrid auth
+  password  String?  // hashed password
+  verified  Boolean  @default(false)
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+
+  favourites FavouriteRecipe[]
+  inventory      UserInventory[]
 }
 
 model EmailVerificationCode {
   id        String   @id @default(uuid())
   email     String
   code      String
-  purpose   String // e.g., 'signup', 'login', 'reset'
+  purpose   String    // e.g., 'signup'
   expiresAt DateTime
   createdAt DateTime @default(now())
 
   @@index([email])
+}
+
+
+// ==================== CUISINES / RECIPES ====================
+model Cuisine {
+  cid   Int               @id @default(autoincrement())
+  name  String
+  links CuisineBelongsTo[]
+}
+
+model CuisineBelongsTo {
+  cid Int
+  rid String
+
+  cuisine Cuisine @relation(fields: [cid], references: [cid])
+  recipe  Recipe  @relation(fields: [rid], references: [rid])
+
+  @@id([cid, rid])
+}
+
+model Recipe {
+  rid              String               @id @default(uuid())
+  title            String
+  sourceUrl        String
+  timeTakenTotal   Int
+  rating           Int
+  servingCount     Int
+  costPerServing   Int
+  timeOfDay        String
+  cid              Int
+  rsid             Int
+  createdAt        DateTime             @default(now())
+
+  source           RecipeSource         @relation(fields: [rsid], references: [rsid])
+  cuisineLinks     CuisineBelongsTo[]
+  stepsSections    StepsSection[]
+  includesSections IngredientsSection[]
+  tags             RecipeTags[]
+  images           RecipeImage[]
+  favourites       FavouriteRecipe[]
+}
+
+// ==================== TAGGING ====================
+model Tag {
+  tagId   Int           @id @default(autoincrement())
+  tagName String        @unique
+  recipes RecipeTags[]
+}
+
+model RecipeTags {
+  rid    String
+  tagId  Int
+
+  recipe Recipe @relation(fields: [rid], references: [rid])
+  tag    Tag    @relation(fields: [tagId], references: [tagId])
+
+  @@id([rid, tagId])
+}
+
+// ==================== RECIPE IMAGES ====================
+model RecipeImage {
+  imageId   Int     @id @default(autoincrement())
+  rid       String
+  imageUrl  String
+  caption   String
+
+  recipe    Recipe  @relation(fields: [rid], references: [rid])
+}
+
+// ==================== STEPS ====================
+model Step {
+  sid       Int     @id @default(autoincrement())
+  ssid      Int
+  stepDesc  String
+  stepNum   Int
+
+  section   StepsSection @relation(fields: [ssid], references: [ssid])
+}
+
+model StepsSection {
+  ssid        Int     @id @default(autoincrement())
+  rid         String
+  sectionName String
+
+  recipe      Recipe  @relation(fields: [rid], references: [rid])
+  steps       Step[]
+}
+
+// ==================== INGREDIENTS ====================
+model Ingredient {
+  iid       Int      @id @default(autoincrement())
+  name      String   @unique
+  quantity  Int
+  unit      String
+  type      String
+  category  String
+
+
+  brandId Int?
+  brand   Brand? @relation(fields: [brandId], references: [id])
+
+  includes      Include[]
+  inventory     UserInventory[]
+}
+
+model Include {
+  isid    Int
+  iid     Int
+  ingQty  Int
+  ingType String
+
+  section     IngredientsSection @relation(fields: [isid], references: [isid])
+  ingredient Ingredient          @relation(fields: [iid], references: [iid])
+
+  @@id([isid, iid])
+}
+
+model IngredientsSection {
+  isid        Int     @id @default(autoincrement())
+  rid         String
+  sectionName String
+
+  recipe      Recipe  @relation(fields: [rid], references: [rid])
+  includes    Include[]
+}
+
+model Brand {
+  id      Int     @id @default(autoincrement())
+  name    String  @unique
+
+  esg     ESGRating?
+  ingredients Ingredient[]
+}
+
+model ESGRating {
+  id         Int    @id @default(autoincrement())
+  brandId    Int    @unique
+  environmentScore Float
+  socialScore      Float
+  governanceScore  Float
+  totalScore       Float  // derived or manually given
+
+  brand      Brand  @relation(fields: [brandId], references: [id])
+}
+
+// ==================== FAVOURITES ====================
+model FavouriteRecipe {
+  rid String
+  uid String
+
+  recipe Recipe @relation(fields: [rid], references: [rid])
+  user   User   @relation(fields: [uid], references: [id])
+
+  @@id([rid, uid])
+}
+
+// ==================== SOURCES ====================
+model RecipeSource {
+  rsid        Int      @id @default(autoincrement())
+  sourceName  String
+  recipes     Recipe[]
+}
+
+
+model UserInventory {
+  uid      String
+  iid      Int
+  quantity Float // stored in grams or litres, already normalized
+
+  // Relations
+  user       User       @relation(fields: [uid], references: [id], onDelete: Cascade)
+  ingredient Ingredient @relation(fields: [iid], references: [iid], onDelete: Cascade)
+
+  @@id([uid, iid]) // composite primary key
 }
