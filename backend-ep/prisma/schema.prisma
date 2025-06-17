@@ -81,7 +81,7 @@ model Recipe {
 // ==================== TAGGING ====================
 model Tag {
   tagId   Int           @id @default(autoincrement())
-  tagName String
+  tagName String        @unique
   recipes RecipeTags[]
 }
 
@@ -127,15 +127,19 @@ model StepsSection {
 // ==================== INGREDIENTS ====================
 model Ingredient {
   iid       Int      @id @default(autoincrement())
-  name      String
+  name      String   @unique
   quantity  Int
   unit      String
   type      String
   category  String
 
-  includes  Include[]
-  inventory      UserInventory[]
-}
+
+  brandId Int?
+  brand   Brand? @relation(fields: [brandId], references: [id])
+
+  includes      Include[]
+  inventory     UserInventory[]
+
 
 model Include {
   isid    Int
@@ -156,6 +160,25 @@ model IngredientsSection {
 
   recipe      Recipe  @relation(fields: [rid], references: [rid])
   includes    Include[]
+}
+
+model Brand {
+  id      Int     @id @default(autoincrement())
+  name    String  @unique
+
+  esg     ESGRating?
+  ingredients Ingredient[]
+}
+
+model ESGRating {
+  id         Int    @id @default(autoincrement())
+  brandId    Int    @unique
+  environmentScore Float
+  socialScore      Float
+  governanceScore  Float
+  totalScore       Float  // derived or manually given
+
+  brand      Brand  @relation(fields: [brandId], references: [id])
 }
 
 // ==================== FAVOURITES ====================
