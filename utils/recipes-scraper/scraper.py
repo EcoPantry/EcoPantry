@@ -1,5 +1,8 @@
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
+import random
+import time
 import requests
 from pprint import pprint
 
@@ -29,10 +32,16 @@ def getRecipeDetails(baseUrl, recipeId):
         # - strMealThumb (Image URL)
         # - strTags (Tags): To string split by ,
 
+    time.sleep(random.uniform(0.5, 1.2))  # 500–1200 ms delay
+
     # Fetch and preprocessing done here
     print(f"====> Fetching details for recipe ID: {recipeId}")
     recipeDetailsUrl = f"{baseUrl}lookup.php?i={recipeId}"
-    recipeDetails = requests.get(recipeDetailsUrl).json().get('meals', [])
+    resp = requests.get(recipeDetailsUrl)
+    if not resp:
+        print(f"No details found for recipe ID: {recipeId}")
+        return {}
+    recipeDetails = resp.json().get('meals', [])
     if not recipeDetails:
         print(f"No details found for recipe ID: {recipeId}")
         return {}
@@ -67,6 +76,25 @@ def getRecipeDetails(baseUrl, recipeId):
     }
     return res
 
+def fetch_recipe_details_multithreaded(baseUrl, recipesByCategory, max_workers=10):
+    print("====> Starting multithreaded recipe detail fetching...")
+    recipeDetails = []
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_recipe = {}
+        for catName, recipes in recipesByCategory.items():
+            for recipe in recipes:
+                recipeId = recipe.get('idMeal')
+                future = executor.submit(getRecipeDetails, baseUrl, recipeId)
+                future_to_recipe[future] = recipeId
+
+        for future in as_completed(future_to_recipe):
+            recipeDetail = future.result()
+            if recipeDetail:
+                recipeDetails.append(recipeDetail)
+
+    return recipeDetails
+
 
 if __name__ == "__main__":
     baseUrl = "https://www.themealdb.com/api/json/v1/1/"
@@ -86,11 +114,15 @@ if __name__ == "__main__":
     recipeDetails = []
     
     # Scrape each recipe for details
-    for catName, recipes in recipesByCategory.items():
-        for recipe in recipes:
-            recipeDetail = getRecipeDetails(baseUrl, recipe.get('idMeal'))
-            if recipeDetail:
-                recipeDetails.append(recipeDetail)
+    # for catName, recipes in recipesByCategory.items():
+    #     for recipe in recipes:
+    #         recipeDetail = getRecipeDetails(baseUrl, recipe.get('idMeal'))
+    #         if recipeDetail:
+    #             recipeDetails.append(recipeDetail)
+
+    recipeDetails = fetch_recipe_details_multithreaded(baseUrl, recipesByCategory, max_workers=5)
+
+    print(f"Total recipes fetched: {len(recipeDetails)}")
         
     # Obtain all possible ingredients as enum values
     outputFile = "recipe_details.json"
