@@ -42,3 +42,4 @@ export const createIngredient = async (req: Request, res: Response): Promise<voi
     res.status(500).json({ error: "Internal server error" });
   }
 };
+
