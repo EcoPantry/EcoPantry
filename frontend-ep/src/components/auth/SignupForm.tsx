@@ -1,17 +1,18 @@
 // src/components/auth/SignupForm.tsx
-import { Input } from "@/components/ui/input"
-import { Button } from "@/components/ui/button"
-import { useReducer } from "react"
-import { useNavigate } from "@tanstack/react-router"
+import { Input } from "@/components/ui/input";
+import { Button } from "@/components/ui/button";
+import { useReducer } from "react";
+import { useNavigate } from "@tanstack/react-router";
+import { api } from "@/lib/api";
 
 type State = {
-  email: string
-  password: string
-  confirmPassword: string
-  error: string
-  submitting: boolean
-  success: boolean
-}
+  email: string;
+  password: string;
+  confirmPassword: string;
+  error: string;
+  submitting: boolean;
+  success: boolean;
+};
 
 type Action =
   | { type: "SET_EMAIL"; payload: string }
@@ -19,7 +20,7 @@ type Action =
   | { type: "SET_CONFIRM_PASSWORD"; payload: string }
   | { type: "SET_ERROR"; payload: string }
   | { type: "SET_SUBMITTING"; payload: boolean }
-  | { type: "SET_SUCCESS"; payload: boolean }
+  | { type: "SET_SUCCESS"; payload: boolean };
 
 const initialState: State = {
   email: "",
@@ -28,73 +29,84 @@ const initialState: State = {
   error: "",
   submitting: false,
   success: false,
+};
+
+interface SignupFormProps {
+  onSuccess?: () => void;
 }
 
 function reducer(state: State, action: Action): State {
   switch (action.type) {
     case "SET_EMAIL":
-      return { ...state, email: action.payload }
+      return { ...state, email: action.payload };
     case "SET_PASSWORD":
-      return { ...state, password: action.payload }
+      return { ...state, password: action.payload };
     case "SET_CONFIRM_PASSWORD":
-      return { ...state, confirmPassword: action.payload }
+      return { ...state, confirmPassword: action.payload };
     case "SET_ERROR":
-      return { ...state, error: action.payload }
+      return { ...state, error: action.payload };
     case "SET_SUBMITTING":
-      return { ...state, submitting: action.payload }
+      return { ...state, submitting: action.payload };
     case "SET_SUCCESS":
-      return { ...state, success: action.payload }
+      return { ...state, success: action.payload };
     default:
-      return state
+      return state;
   }
 }
 
-const SignupForm = () => {
-  const [state, dispatch] = useReducer(reducer, initialState)
-  const navigate = useNavigate()
+const SignupForm = ({ onSuccess }: SignupFormProps) => {
+  const [state, dispatch] = useReducer(reducer, initialState);
+  const navigate = useNavigate();
 
   const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault()
-    dispatch({ type: "SET_ERROR", payload: "" })
+    e.preventDefault();
+    dispatch({ type: "SET_ERROR", payload: "" });
 
     // Basic validation
     if (!state.email.includes("@")) {
-      dispatch({ type: "SET_ERROR", payload: "Please enter a valid email." })
-      return
+      dispatch({ type: "SET_ERROR", payload: "Please enter a valid email." });
+      return;
     }
     if (state.password.length < 6) {
       dispatch({
         type: "SET_ERROR",
         payload: "Password must be at least 6 characters.",
-      })
-      return
+      });
+      return;
     }
     if (state.password !== state.confirmPassword) {
-      dispatch({ type: "SET_ERROR", payload: "Passwords do not match." })
-      return
+      dispatch({ type: "SET_ERROR", payload: "Passwords do not match." });
+      return;
     }
 
-    dispatch({ type: "SET_SUBMITTING", payload: true })
+    dispatch({ type: "SET_SUBMITTING", payload: true });
 
-    // Mock signup logic
-    await new Promise((resolve) => setTimeout(resolve, 1200))
+    // Signup API call
+    try {
+      const res = await api.post("/api/auth/signup/initiate", {
+        email: state.email,
+        password: state.password,
+      });
 
-    // Simulate "user already exists" error
-    if (state.email === "test@used.com") {
-      dispatch({ type: "SET_ERROR", payload: "Email already registered." })
-      dispatch({ type: "SET_SUBMITTING", payload: false })
-      return
+      // You can check res for more info if needed
+
+      dispatch({ type: "SET_SUCCESS", payload: true });
+      dispatch({ type: "SET_SUBMITTING", payload: false });
+
+      localStorage.setItem("pendingVerificationEmail", state.email);
+
+      setTimeout(() => {
+        if (onSuccess) {
+          onSuccess();
+        } else {
+          navigate({ to: "/verify-code" });
+        }
+      }, 1000);
+    } catch (err: any) {
+      dispatch({ type: "SET_ERROR", payload: err.message || "Signup failed" });
+      dispatch({ type: "SET_SUBMITTING", payload: false });
     }
-
-    // Simulate success
-    dispatch({ type: "SET_SUCCESS", payload: true })
-    dispatch({ type: "SET_SUBMITTING", payload: false })
-
-    // Redirect to sign in after short delay
-    setTimeout(() => {
-      navigate({ to: "/sign-in" })
-    }, 1000)
-  }
+  };
 
   return (
     <form onSubmit={handleSubmit} className="space-y-4">
@@ -105,7 +117,7 @@ const SignupForm = () => {
           placeholder="you@example.com"
           required
           value={state.email}
-          onChange={e =>
+          onChange={(e) =>
             dispatch({ type: "SET_EMAIL", payload: e.target.value })
           }
           disabled={state.submitting || state.success}
@@ -118,29 +130,29 @@ const SignupForm = () => {
           placeholder="••••••••"
           required
           value={state.password}
-          onChange={e =>
+          onChange={(e) =>
             dispatch({ type: "SET_PASSWORD", payload: e.target.value })
           }
           disabled={state.submitting || state.success}
         />
       </div>
       <div>
-        <label className="block text-sm font-medium mb-1">Confirm Password</label>
+        <label className="block text-sm font-medium mb-1">
+          Confirm Password
+        </label>
         <Input
           type="password"
           placeholder="••••••••"
           required
           value={state.confirmPassword}
-          onChange={e =>
+          onChange={(e) =>
             dispatch({ type: "SET_CONFIRM_PASSWORD", payload: e.target.value })
           }
           disabled={state.submitting || state.success}
         />
       </div>
 
-      {state.error && (
-        <p className="text-sm text-red-500">{state.error}</p>
-      )}
+      {state.error && <p className="text-sm text-red-500">{state.error}</p>}
       {state.success && (
         <p className="text-sm text-green-600">
           Account created! Redirecting to sign in…
@@ -155,7 +167,7 @@ const SignupForm = () => {
         {state.submitting ? "Signing up…" : "Sign Up"}
       </Button>
     </form>
-  )
-}
+  );
+};
 
-export default SignupForm
+export default SignupForm;

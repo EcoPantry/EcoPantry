@@ -1,7 +1,11 @@
 import BrandPanel from "@/components/layout/BrandPanel"
 import SignupForm from "@/components/auth/SignupForm"
+import { useNavigate } from "@tanstack/react-router"
+
 
 const SignUp = () => {
+  const navigate = useNavigate()
+
   return (
     <div className="min-h-screen flex">
       <BrandPanel />
@@ -11,7 +15,7 @@ const SignUp = () => {
             <h2 className="text-2xl font-semibold text-gray-800">Create an account</h2>
             <p className="text-sm text-gray-500">Start managing your pantry effortlessly.</p>
           </div>
-          <SignupForm />
+          <SignupForm onSuccess={() => navigate({ to: "/verify-code" })} />
           <p className="text-sm text-gray-500 text-center">
             Already have an account? <a href="/sign-in" className="text-orange-500 hover:underline">Sign in</a>
           </p>
