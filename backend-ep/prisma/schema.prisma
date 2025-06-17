@@ -133,12 +133,13 @@ model Ingredient {
   type      String
   category  String
 
+
   brandId Int?
   brand   Brand? @relation(fields: [brandId], references: [id])
 
   includes      Include[]
   inventory     UserInventory[]
-}
+
 
 model Include {
   isid    Int
