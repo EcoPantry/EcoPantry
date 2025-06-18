@@ -27,12 +27,12 @@ const Pantry = () => {
   const [filteredPantry, setFilteredPantry] = useState<Ingredient[]>([]);
 
   // Modal form state
-  const [newIngredient, setNewIngredient] = useState<Ingredient>({
-    name: "",
-    quantity: 0,
-    unit: "",
-    category: "",
-  });
+  // const [newIngredient, setNewIngredient] = useState<Ingredient>({
+  //   name: "",
+  //   quantity: 0,
+  //   unit: "",
+  //   category: "",
+  // });
 
   useEffect(() => {
     const filtered = pantry.filter((item) =>
