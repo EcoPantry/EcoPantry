@@ -12,4 +12,11 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  server: {
+    hmr: true,
+    watch: {
+      usePolling: true,
+      interval: 100,
+    },
+  },
 })

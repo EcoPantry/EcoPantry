@@ -1,10 +1,10 @@
 // src/components/layout/Sidebar.tsx
-import { Input } from "@/components/ui/input";
-import { ScrollArea } from "@/components/ui/scroll-area";
+import { Button } from "@/components/ui/button";
 import UserProfileCard from "./UserProfileCard";
 import IngredientInput from "./IngredientInput";
 import MobileNavBar from "./MobileNavBar";
 import { Link } from "@tanstack/react-router";
+import SidebarIngredientList from "./SidebarIngredientList";
 
 const Sidebar = () => {
   return (
@@ -13,7 +13,10 @@ const Sidebar = () => {
       <div className="hidden md:flex md:flex-col w-72 h-screen bg-orange-400 text-white p-4 justify-between">
         {/* Top Section: Title + Add Button */}
         <div>
-          <Link to="/" className="flex items-center justify-between mb-4 hover:opacity-80 transition">
+          <Link
+            to="/"
+            className="flex items-center justify-between mb-4 hover:opacity-80 transition"
+          >
             <h1 className="text-2xl font-bold">EcoPantry</h1>
           </Link>
 
@@ -25,26 +28,22 @@ const Sidebar = () => {
           </div>
 
           {/* Scrollable Ingredient List */}
-          <ScrollArea className="h-[320px] pr-2 mb-4">
-            {Array.from({ length: 12 }).map((_, i) => (
-              <div
-                key={i}
-                className="flex justify-between py-1 border-b border-orange-300"
-              >
-                <span className="font-medium">Potato</span>
-                <span className="text-sm text-white/80">300g</span>
-              </div>
-            ))}
-          </ScrollArea>
+          <SidebarIngredientList
+            ingredients={ingredients} // Example ingredients
+          />
 
           {/* Enter Ingredients */}
-          <Input placeholder="Enter ingredients" className="text-black" />
+          <Link to="/pantry">
+            <Button className="bg-orange-500 hover:bg-orange-600 text-white">
+              Go to Pantry
+            </Button>
+          </Link>
         </div>
 
         {/* Bottom User Section */}
         <div>
-					<UserProfileCard />
-				</div>
+          <UserProfileCard />
+        </div>
       </div>
 
       {/* Mobile bottom nav */}
@@ -53,5 +52,21 @@ const Sidebar = () => {
       </div>
     </>
   );
-}
+};
 export default Sidebar;
+
+const ingredients = [
+  { name: "Potato", quantity: 300, unit: "g" },
+  { name: "Soy Sauce", quantity: 30, unit: "ml" },
+  { name: "Olive Oil", quantity: 50, unit: "ml" },
+  { name: "Garlic", quantity: 2, unit: "cloves" },
+  { name: "Salt", quantity: 1, unit: "tsp" },
+  { name: "Pepper", quantity: 0.5, unit: "tsp" },
+  { name: "Onion", quantity: 1, unit: "pc" },
+  { name: "Chicken Breast", quantity: 200, unit: "g" },
+  { name: "Broccoli", quantity: 150, unit: "g" },
+  { name: "Carrot", quantity: 100, unit: "g" },
+  { name: "Rice", quantity: 200, unit: "g" },
+  { name: "Egg", quantity: 2, unit: "pcs" },
+  { name: "Cheese", quantity: 100, unit: "g" },
+];

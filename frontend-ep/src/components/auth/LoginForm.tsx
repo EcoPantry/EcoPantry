@@ -4,42 +4,44 @@ import { Button } from "@/components/ui/button";
 import { useState } from "react";
 import { useUser } from "@/context/UserProvider";
 import { useNavigate } from "@tanstack/react-router";
+import { api } from "@/lib/api";
+
+
 
 const LoginForm = () => {
+  const [errorMsg, setErrorMsg] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
-  const { setUser } = useUser()
-  const navigate = useNavigate()
-
-  //   const handleSubmit = async (e: React.FormEvent) => {
-  //     e.preventDefault()
-  //     // TODO: call your login API here
-  //     const res = await fetch("/api/sign-in", {
-  //       method: "POST",
-  //       headers: { "Content-Type": "application/json" },
-  //       credentials: "include",
-  //       body: JSON.stringify({ email, password }),
-  //     })
-  //     if (res.ok) {
-  //       // success logic (e.g. redirect)
-  //     } else {
-  //       // error handling
-  //     }
-  //   }
+  const { setUser } = useUser();
+  const navigate = useNavigate();
 
   const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault()
+    e.preventDefault();
+    try {
+      const res = await api.post("/api/auth/login", {
+        email,
+        password,
+      });
 
-    const fakeUser = {
-      name: "Joe Mama",
-      email,
-      initials: email.charAt(0).toUpperCase() + email.charAt(1).toUpperCase(),
+      const user = res.user;
+
+      setUser({
+        name: user.name,
+        email: user.email,
+        id: user.id,
+        initials:
+          user.name?.[0]?.toUpperCase() || email.charAt(0).toUpperCase(),
+      });
+
+      navigate({ to: "/" });
+    } catch (err: any) {
+      console.error("Login failed:", err);
+
+      // Try to get specific error message from backend
+      const message = err?.message || "Login failed. Check your credentials.";
+      setErrorMsg(message);
     }
-
-    setUser(fakeUser)
-    // Optional: redirect with router
-    navigate({ to: "/" })
-  }
+  };
 
   return (
     <form onSubmit={handleSubmit} className="space-y-4">
@@ -67,6 +69,9 @@ const LoginForm = () => {
           required
         />
       </div>
+      {errorMsg && (
+        <p className="text-sm text-red-500 text-center">{errorMsg}</p>
+      )}
       <Button
         type="submit"
         className="w-full bg-orange-500 hover:bg-orange-600 text-white"
