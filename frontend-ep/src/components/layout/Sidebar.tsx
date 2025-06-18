@@ -1,6 +1,5 @@
 // src/components/layout/Sidebar.tsx
-import { Input } from "@/components/ui/input";
-import { ScrollArea } from "@/components/ui/scroll-area";
+import { Button } from "@/components/ui/button";
 import UserProfileCard from "./UserProfileCard";
 import IngredientInput from "./IngredientInput";
 import MobileNavBar from "./MobileNavBar";
@@ -14,7 +13,10 @@ const Sidebar = () => {
       <div className="hidden md:flex md:flex-col w-72 h-screen bg-orange-400 text-white p-4 justify-between">
         {/* Top Section: Title + Add Button */}
         <div>
-          <Link to="/" className="flex items-center justify-between mb-4 hover:opacity-80 transition">
+          <Link
+            to="/"
+            className="flex items-center justify-between mb-4 hover:opacity-80 transition"
+          >
             <h1 className="text-2xl font-bold">EcoPantry</h1>
           </Link>
 
@@ -31,13 +33,17 @@ const Sidebar = () => {
           />
 
           {/* Enter Ingredients */}
-          <Input placeholder="Enter ingredients" className="text-black" />
+          <Link to="/pantry">
+            <Button className="bg-orange-500 hover:bg-orange-600 text-white">
+              Go to Pantry
+            </Button>
+          </Link>
         </div>
 
         {/* Bottom User Section */}
         <div>
-					<UserProfileCard />
-				</div>
+          <UserProfileCard />
+        </div>
       </div>
 
       {/* Mobile bottom nav */}
@@ -46,7 +52,7 @@ const Sidebar = () => {
       </div>
     </>
   );
-}
+};
 export default Sidebar;
 
 const ingredients = [
@@ -63,4 +69,4 @@ const ingredients = [
   { name: "Rice", quantity: 200, unit: "g" },
   { name: "Egg", quantity: 2, unit: "pcs" },
   { name: "Cheese", quantity: 100, unit: "g" },
-]
+];

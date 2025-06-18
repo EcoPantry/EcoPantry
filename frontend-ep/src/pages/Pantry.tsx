@@ -1,25 +1,51 @@
 import { Link } from "@tanstack/react-router";
-import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { useEffect, useState } from "react";
+import AddIngredientModal from "@/components/layout/AddIngredientModal";
 
-const mockPantry = [
-  { name: "Potato", quantity: 300, unit: "g" },
-  { name: "Milk", quantity: 500, unit: "ml" },
-  { name: "Carrot", quantity: 150, unit: "g" },
-  { name: "Soy Sauce", quantity: 100, unit: "ml" },
-];
+interface Ingredient {
+  name: string;
+  quantity: number;
+  unit: string;
+  category: string;
+}
 
 const Pantry = () => {
   const [search, setSearch] = useState("");
-  const [filteredPantry, setFilteredPantry] = useState(mockPantry);
+  const [pantry, setPantry] = useState<Ingredient[]>([
+    { name: "Potato", quantity: 300, unit: "g", category: "Vegetable" },
+    { name: "Milk", quantity: 500, unit: "ml", category: "Dairy" },
+    { name: "Carrot", quantity: 150, unit: "g", category: "Vegetable" },
+    { name: "Soy Sauce", quantity: 100, unit: "ml", category: "Condiment" },
+    { name: "Olive Oil", quantity: 250, unit: "ml", category: "Oil" },
+    { name: "Rice", quantity: 1000, unit: "g", category: "Grain" },
+    { name: "Chicken Breast", quantity: 500, unit: "g", category: "Meat" },
+    { name: "Eggs", quantity: 12, unit: "pcs", category: "Dairy" },
+    { name: "Salt", quantity: 200, unit: "g", category: "Spice" },
+    { name: "Pepper", quantity: 50, unit: "g", category: "Spice" },
+  ]);
+  const [filteredPantry, setFilteredPantry] = useState<Ingredient[]>([]);
+
+  // Modal form state
+  const [newIngredient, setNewIngredient] = useState<Ingredient>({
+    name: "",
+    quantity: 0,
+    unit: "",
+    category: "",
+  });
 
   useEffect(() => {
-    const filtered = mockPantry.filter((item) =>
+    const filtered = pantry.filter((item) =>
       item.name.toLowerCase().includes(search.toLowerCase())
     );
     setFilteredPantry(filtered);
-  }, [search]);
+  }, [search, pantry]);
+
+  const handleAdd = () => {
+    if (!newIngredient.name || !newIngredient.unit || !newIngredient.category) return;
+    setPantry((prev) => [...prev, newIngredient]);
+    setNewIngredient({ name: "", quantity: 0, unit: "", category: "" });
+  };
 
   return (
     <div className="p-6">
@@ -37,9 +63,7 @@ const Pantry = () => {
             value={search}
             onChange={(e) => setSearch(e.target.value)}
           />
-          <Button variant="outline" onClick={() => alert("Add Ingredient")}>
-            + Add
-          </Button>
+          <AddIngredientModal onAdd={(ingredient: Ingredient) => setPantry(prev => [...prev, ingredient])} />
         </div>
       </div>
 
@@ -52,7 +76,9 @@ const Pantry = () => {
               key={idx}
               className="flex justify-between items-center border-b border-gray-200 pb-2 last:border-b-0"
             >
-              <span className="font-medium text-gray-800">{item.name}</span>
+              <span className="font-medium text-gray-800">
+                {item.name} <span className="text-xs text-gray-500">({item.category})</span>
+              </span>
               <span className="text-sm text-gray-600">
                 {item.quantity} {item.unit}
               </span>
