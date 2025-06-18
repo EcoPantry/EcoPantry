@@ -83,7 +83,7 @@ const SignupForm = ({ onSuccess }: SignupFormProps) => {
 
     // Signup API call
     try {
-      const res = await api.post("/api/auth/signup/initiate", {
+      await api.post("/api/auth/signup/initiate", {
         email: state.email,
         password: state.password,
       });

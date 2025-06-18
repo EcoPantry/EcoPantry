@@ -41,12 +41,6 @@ const Pantry = () => {
     setFilteredPantry(filtered);
   }, [search, pantry]);
 
-  const handleAdd = () => {
-    if (!newIngredient.name || !newIngredient.unit || !newIngredient.category) return;
-    setPantry((prev) => [...prev, newIngredient]);
-    setNewIngredient({ name: "", quantity: 0, unit: "", category: "" });
-  };
-
   return (
     <div className="p-6">
       <Link
